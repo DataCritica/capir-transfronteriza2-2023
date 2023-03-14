@@ -11,6 +11,8 @@ pathlib = "*"
 pandas = "*"
 numpy = "*"
 requests = "*"
+twarc = "*"
+twarc-csv = "*"
 
 [dev-packages]
 
