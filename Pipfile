@@ -15,6 +15,7 @@ twarc = "*"
 twarc-csv = "*"
 pipdeptree = "*"
 capir-transfronteriza2-2023 = {editable = true, path = "."}
+minet = "*"
 
 [dev-packages]
 
