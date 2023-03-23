@@ -37,6 +37,7 @@ for dir_type in [
         ["data", "urls"],
         ["data", "ids"],
         ["data", "jsonl"],
+        ["data", "minet"],
         ["outputs"],
         ["outputs", "figures"],
         ["outputs", "tables"],
