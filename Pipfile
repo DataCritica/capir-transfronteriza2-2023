@@ -11,11 +11,18 @@ pathlib = "*"
 pandas = "*"
 numpy = "*"
 requests = "*"
-twarc = "*"
-twarc-csv = "*"
 pipdeptree = "*"
 capir-transfronteriza2-2023 = {editable = true, path = "."}
 minet = "*"
+emoji = "*"
+tweet-preprocessor = "*"
+sentence-transformers = "*"
+umap-learn = "*"
+hdbscan = "*"
+joblib = "==1.1.0"
+matplotlib = "*"
+plotly = "*"
+nbformat = "*"
 
 [dev-packages]
 
