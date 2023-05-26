@@ -1,587 +1,1320 @@
-Tweets más representativos del cluster -1
-['$MENTION$ Lo ideal sería que desciendan al keko. La medida a tomar es ponerlos en su lugar: En segunda división.'
- '$MENTION$ $MENTION$ La selección revelación hasta ahora por los rivales que le ha tocado es Croacia. No es Rusia... Croacia puede llegar lejos.'
- '$MENTION$ he odiado a Argentina por años. Informese.'
- '$MENTION$ Argentina tenía equipo en ese entonces. Ahorita no tiene equipo.'
- '$MENTION$ ¿No será que está harto de Pinto? Claro que se defiende.'
- '$MENTION$ Ojalá Pinto juegue con éstos mismos 11. Nunca se vio tan bien la selección.'
- '$MENTION$ Brasil es histórico PAPÁ de Argentina. Qué ridículo sos jajaja'
- '$MENTION$ ¿Crees que es más culpa de Pinto que de los jugadores?'
- '$MENTION$ le falta argentina más Holanda y Alemania'
- '$MENTION$ a mi me gusta Moderatto. No sé la gente, siempre hay montón de haters. Siempre'] 
 
-Tweets más representativos del cluster 0
-['$MENTION$ JAJAJAJAJAJAJAJAJA Y SE ENOJÓ :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:'
- ':rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:'
- 'El Logan Paul del reggaetón :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing: noooo'
- 'Sick-cycle carousel'
- 'NO HAY « gabytopadilla: “No hay cura, antibiótico ni antídoto para el indio” by $MENTION$ :face_with_tears_of_joy::rolling_on_the_floor_laughing: — »'
- ':rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:'
- '$MENTION$ Pero no puede ser :face_with_tears_of_joy::rolling_on_the_floor_laughing:'
- ':rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:'
- 'Ay no :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing: « EmilioYitzhak: En mi video de “Consejos para universitarios conservadores” salió este interesante comentario. ¿Quién le dice? :grinning_face_with_sweat::grinning_face_with_sweat: — »'
- ':rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:'] 
+[Tweets más representativos del cluster -1]
+luisffaraj: @sola_pieza Argentina tenía equipo en ese entonces. Ahorita no tiene equipo.
+luisffaraj: @ramiroarosteguy Brasil es histórico PAPÁ de Argentina. Qué ridículo sos jajaja
+luisffaraj: @morenabeltran10 Cómo Iniesta NO HAY y no habrá otro en España como el. El mejor jugador en la historia de España
+luisffaraj: "@MotivacionesF: Los jugadores que dejo fuera del mundial España... https://twitter.com/MotivacionesF/status/479356246202806272/photo/1"// Hola Vicente del Bosque :)
+luisffaraj: El maje de pañuelo blanco sacó a @Sjmadrid a bailar en Roatán el año pasado... Adivinen qué le dijo ella? Ok...todavía andábamos. Saludos
+luisffaraj: @RuanoSteven @homer_faraj La selección revelación hasta ahora por los rivales que le ha tocado es Croacia. No es Rusia... Croacia puede llegar lejos.
+luisffaraj: @FRishmawy Por ejemplo. Falcao tenia para ser uno de los mejores 9 que ha tenido el fútbol y quedó en intento; sin duda el mejor de Colombia según los mismos colombianos, pero algo les sucede en la cabeza que no les permite rendir con consistencia y eso que les SOBRA talento y calidad
+luisffaraj: @SoyAyF he odiado a Argentina por años. Informese.
+luisffaraj: @JoseSanchez20 @Faitelson_ESPN Revisa mis posts donde he mencionado al FCB o a CR cuando hablo de Argentina. Vamos, busca que vos podes.... ya que es así como decís. Te espero campeón.
+luisffaraj: @eburbara @rcdespana Terrible el bus que no nos da identidad como equipo. Siempre le tocamos la pelota al rival, gustamos y eso ayer no se vio para nada. ¿Se viene una propuesta defensiva?
+luisffaraj: @MemoFlores72 España
+luisffaraj: @soycarlichy Buen punto. Yo que no soy blogger ni influencer me critican por querer ser una voz en el extranjero...
+TommyZambranoM: @SihamNazar07 le falta argentina más Holanda y Alemania
+luisffaraj: @CopanAlvarez ¿Crees que es más culpa de Pinto que de los jugadores?
+luisffaraj: @FRishmawy Lo de Boca fue tan penoso. Ese juego especulativo, tirar la pelota buscando el error es para la Liga Nacional o la de El Salvador; no puede ser que un equipo de ese calibre juegue como colegio
+luisffaraj: @DaniloCarrera ¿Cuándo vas a jugar fútbol? ¡Invitame! Acá estoy en Miami bro.
+luisffaraj: @Arnastykus No tenemos gol. No creamos oportunidades claras. La elim. pasada teníamos 5 chances de gol x juego, acertabamos 2 MÍNIMO. Wow.
+luisffaraj: @FRishmawy Se le dio en repetidas ocasiones en todos los clubes que estuvo. Nadie ha dudado de la calidad de él; pero ¿por qué no les rinde a los colombianos los buenos arranques? Mira a iugadorazos como Cuadrado y otros que son chispazos
+luisffaraj: @mariomartinez_7 No tenemos un jugador a balon parado como vos, ni tampoco con tu fineza.
+luisffaraj: @GustavoRocaGOL Lo ideal sería que desciendan al keko. La medida a tomar es ponerlos en su lugar: En segunda división.
 
-Tweets más representativos del cluster 1
-['$MENTION$ Igualmente :raising_hands_medium-light_skin_tone:'
- '$MENTION$ :man_shrugging_light_skin_tone: escucha los Perros de Vico C'
- '$MENTION$ La veo y no todas tienen ideología :man_shrugging_light_skin_tone:'
- '$MENTION$ :raising_hands_medium-light_skin_tone: gracias por compartir'
- '$MENTION$ Jaja y tu mami solo ponía la carita de: ‘’Redite Felipe” :man_shrugging_light_skin_tone: Un abrazo'
- '$MENTION$ :person_shrugging_light_skin_tone: hace tres años me tiene así... lastima que no me pueda leer.'
- '$MENTION$ Te queda súper bien :OK_hand_medium-light_skin_tone:'
- '$MENTION$ $MENTION$ :man_shrugging_light_skin_tone: yo levanto lo que levanto por eso haha no sé la mara'
- '$MENTION$ $MENTION$ Obviamente. Yo la amo a ella como a una hermanita. Aimee, bienvenida a la family zone :woman_raising_hand_light_skin_tone:'
- '$MENTION$ Me acordó a esa persona por otros motivos, no la canción. Casualmente vi una foto de ella y la rola estaba de fondo :man_shrugging_light_skin_tone:'] 
+[Tweets más representativos del cluster 0]
+luisffaraj: @FernandoAndree8 JAJAJAJAJAJAJAJAJA Y SE ENOJÓ 🤣🤣🤣🤣
+luisffaraj: 🤣🤣 https://twitter.com/luisffaraj/status/1497716157721284614/photo/1
+luisffaraj: El Logan Paul del reggaetón 🤣🤣🤣🤣🤣🤣🤣 noooo
+luisffaraj: Sick-cycle carousel
+luisffaraj: NO HAY « gabytopadilla: “No hay cura, antibiótico ni antídoto para el indio” by @ffaraj 😂🤣 — https://twitter.com/gabytopadilla/status/1132678717740920833 »
+luisffaraj: 🤣🤣🤣 https://twitter.com/luisffaraj/status/1331377211916636167/photo/1
+luisffaraj: @AmilcarAndresV1 Pero no puede ser 😂🤣
+luisffaraj: 🤣🤣🤣 https://twitter.com/luisffaraj/status/1448846993133088768/photo/1
+luisffaraj: Ay no 🤣🤣🤣🤣🤣 « EmilioYitzhak: En mi video de “Consejos para universitarios conservadores” salió este interesante comentario. ¿Quién le dice? 😅😅 https://twitter.com/EmilioYitzhak/status/1436123519394406403/photo/1 — https://twitter.com/emilioyitzhak/status/1436123519394406403 »
+luisffaraj: 🤣🤣🤣🤣🤣🤣🤣🤣🤣 https://twitter.com/luisffaraj/status/1479586722191134721/photo/1
+luisffaraj: 🤣🤣🤣🤣🤣🤣🤣 « RudyGiuliani: I am unable to find the Book of Palms in either the Old or New Testament?Could Biden have had his own independent revelation? https://twitter.com/HowieCarrShow/status/1331748486950350851/video/1 — https://twitter.com/rudygiuliani/status/1332083429236744192 »
+luisffaraj: @FCBarcelona 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🙂🙂🤣🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩
+luisffaraj: Ponce Morazán: Los chicos Carrión, Salvador.Salvador: ¿Va a escoger alguno Ponce? 😂🤣😂🤣😂🤣😂😂😂😂😂😂😂😂😂😂😂😂
+luisffaraj: 😂😂😂 « JoseSanchez20: "Es Chiminicuarta el juego nacional por excelencia?" - aquí preparándome para el debate de FrenteAFrente de mañana🤣🤣🤣 — https://twitter.com/josesanchez20/status/1485449099432374272 »
+luisffaraj: @michellejulin JAJAJAJAJAJAJAJAJAJAJAJA @FernandoAndree8 por siempre serán el hazme reír de un país. Mirala que ya tira espuma por la boca 🤣🤣
+luisffaraj: 🤣🤣🤣🤣🤣🤣 « alllmiight: Me estoy pero meando de la risa https://twitter.com/alllmiight/status/1493689533879173124/video/1 — https://twitter.com/alllmiight/status/1493689533879173124 »
+luisffaraj: 🤡🤡🤡🤡🤡🤡🤡🤡🤡🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 https://twitter.com/luisffaraj/status/1469513322299072521/photo/1
+luisffaraj: @FCBarcelona 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+luisffaraj: @POTUS 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+luisffaraj: 🤣🤣🤣🤣🤣🤣 https://twitter.com/luisffaraj/status/1410046106260709390/photo/1
 
-Tweets más representativos del cluster 2
-['Nada como hablar con mi todavía ídolo $MENTION$ ¡Ni en una nica se chispea tanto! $HASHTAG$'
- '¿Qué hacer para hablarle a la chava que te gusta? $HASHTAG$ $MENTION$'
- "Èste sábado en SAN PEDRO SULA $HASHTAG$ en Applebee's City Mall, 9:30 pm!!"
- '$HASHTAG$ nadie anda las altas jjjajajajaaajajajjaa perdón damas.'
- '$HASHTAG$ $HASHTAG$ Con noticias HERMOSAS: Mañana a partir de las 9:00 PM los Galanes de Barrio se…'
- "Bruno Alves hizo el mismo penal de Trezeguet para que Italia quedara campeona...triste querer ponerla al '7' en momentos apretados. $HASHTAG$"
- '$MENTION$ la caja morada está en Wings. $HASHTAG$'
- 'Inolvidable cuando $MENTION$ me dijo hace no mucho: "Vos ya no, ya perdiste tu encanto"... $HASHTAG$'
- 'Y como duele... $MENTION$ TUVE que. Mañana que te despertes mira ésto jajaja $HASHTAG$ $HASHTAG$…'
- 'Vivos y vivas a tragar helio antes de ir al concierto de Romeo. $HASHTAG$'] 
+[Tweets más representativos del cluster 1]
+luisffaraj: @grace_ma77 Igualmente 🙌🏼
+luisffaraj: @gabytopadilla 🤷🏻‍♂️ escucha los Perros de Vico C
+luisffaraj: @maravyllosa La veo y no todas tienen ideología 🤷🏻‍♂️
+luisffaraj: @PLDJ2021 🙌🏼 gracias por compartir
+luisffaraj: @Sara_Melara Jaja y tu mami solo ponía la carita de: ‘’Redite Felipe” 🤷🏻‍♂️Un abrazo
+luisffaraj: @carlocostly31 🤷🏻 hace tres años me tiene así... lastima que no me pueda leer. https://twitter.com/ffaraj/status/1253924743608184832/photo/1
+luisffaraj: @Beca_B_ Te queda súper bien 👌🏼
+luisffaraj: @carloszunigahn_ @VixMen777 🤷🏻‍♂️ yo levanto lo que levanto por eso haha no sé la mara
+luisffaraj: @aimeepaz5 @AlejandroV_09 Obviamente. Yo la amo a ella como a una hermanita.Aimee, bienvenida a la family zone 🙋🏻‍♀️
+luisffaraj: @LiliamMejiaH Me acordó a esa persona por otros motivos, no la canción. Casualmente vi una foto de ella y la rola estaba de fondo 🤷🏻‍♂️
+luisffaraj: @HondurasPensant Sea o no la que fundó el, existe algo objetivo que muchos desean ignorar: Ser la verdad es una cosa a ser el bastión de la verdad. Los que quieren jugar a ser ciegos que lo hagan 🤷🏻‍♂️
+luisffaraj: @laderechadiario Que monstruo que es 🙌🏼
+luisffaraj: @kagisg Dentro de Liga Nacional 🤷🏻‍♂️
+luisffaraj: @CFdez7 Asi te enojaste cuando te pedí cinco rolas de Rata Blanca fuera de La Leyenda y Mujer Amante 🤷🏻‍♂️
+luisffaraj: @eburbara @rcdespana ¡Bien dicho! Un proceso toma tiempo. Los macro-ciclos y demás que vienen se deben de llevar al pie de la letra. El aficionado no comprende de ésto y condena todo a base de ignorancia. Que se juzgue al final del torneo. Saludos 👌🏼
+luisffaraj: @jorgeazulec Saludos Jorge 👊🏼
+luisffaraj: @jeancarlopmag De una vamos a tomarnos un café 💅🏼
+luisffaraj: @Carpiogaspar50 Es que de la nada loco 🤷🏻‍♂️ ósea...
+luisffaraj: El mejor 💁🏼 — THE BEST http://l.ask.fm/igoto/45DKECN75V62DDAUPY6IQO6P5KAC5CY7R357JDMZFCS2J7FI2AT5AJKQFZH4SRZWL63PQEQCIBUTKFAU34N7A55YPPSKNTBAUYVANCK4CBTQSKPHASRDWP663T3MD7LET2S3QBA7ZXGXPBVZADDA====
+luisffaraj: @LupenciaB Está bien que otros hombres y mujeres se acuesten con su mujer, pero no está bien bromear con ella👌🏼
 
-Tweets más representativos del cluster 3
-['"$MENTION$: $MENTION$ salis hermoso en tu foto gordo"//no me enamores así :heart_suit:♡'
- '$MENTION$ Disfruta corazón, mira que en un par de meses me tocará cumplir ese sueño :red_heart:'
- '"$MENTION$: No se ni que decir!!!"//Pues... yo que te amo y sigo enamorado :heart_suit:'
- '$MENTION$ Ojos de amor :red_heart: graciass'
- '"$MENTION$: Felipito de nuestro corazon $MENTION$ ¡feliz lunes!"//las amo :heart_suit:'
- '"$MENTION$: $MENTION$ amor del bueno! Feliz Navidad será en san pedro:red_heart: falta poco"//cant wait'
- '"$MENTION$: $MENTION$ Que adorable vos. Te amo más pero un poquito menos de lo que amo a mi gordo bello $MENTION$:heart_suit:" son mi vida los amo'
- '$MENTION$ Bella :heart_suit:'
- '$MENTION$ Gracias Andrea :red_heart: viva el fútbol también haha'
- '$MENTION$ Para la honra de mi Padre. Gracias belleza, un abrazo grande :red_heart:'] 
+[Tweets más representativos del cluster 2]
+luisffaraj: Nada como hablar con mi todavía ídolo @RamsesBarientos ¡Ni en una nica se chispea tanto! #eslonuestro
+luisffaraj: ¿Qué hacer para hablarle a la chava que te gusta? #ElRecreo @radiow105
+luisffaraj: Èste sábado en SAN PEDRO SULA #EliVNivel en Applebee's City Mall, 9:30 pm!!
+luisffaraj: #ConEsteCalor nadie anda las altas jjjajajajaaajajajjaa perdón damas.
+luisffaraj: #InstaSize #musicon Con noticias HERMOSAS: Mañana a partir de las 9:00 PM los Galanes de Barrio se… http://instagram.com/p/vB8JqFqeAL/
+luisffaraj: Bruno Alves hizo el mismo penal de Trezeguet para que Italia quedara campeona...triste querer ponerla al '7' en momentos apretados. #amateur
+luisffaraj: @alanmartie la caja morada está en Wings. #VamosMañana
+luisffaraj: Inolvidable cuando @ingarmadrid me dijo hace no mucho: "Vos ya no, ya perdiste tu encanto"... #esodolio
+luisffaraj: Y como duele... @arpaz23 TUVE que. Mañana que te despertes mira ésto jajaja #EsLoMio #sinvida… https://instagram.com/p/1AR2b9KeF4/
+luisffaraj: Vivos y vivas a tragar helio antes de ir al concierto de Romeo. #ATono
+luisffaraj: Al líderEn su estadioCortandole la rachaCon un jugador menosRemontando#RecordameQueVoyA7 #QueDelicioso
+luisffaraj: @musicindustryH Vendo RACK PEARL enorme para bateria! En PERFECTO estado casi nuevo #rockofertasMIH
+luisffaraj: Uuuy la misma que le hizo Karim a Puyol en #NouCamp le hizo a Ramos! Nadie se te salva gato!!
+luisffaraj: La Juve jugando como equipo CHICO!! VAMOS CELTIC! #HondurasConEmilio
+luisffaraj: Juan Carlos García en el Celtic!! #HondurasConEmilio
+luisffaraj: Ésto quería! Que quedaran campeones con un gol offside o penal inventado! Que lindooo #Robo25
+luisffaraj: Indiana por los suelos, desmoralizados. #Heat con un LeBron y Wayde en órden, sin un point guard nato. Spoelstra se la jugó bien.
+luisffaraj: #CaeUnaGotaEnSanPedro y la mara pierde la cabeza
+luisffaraj: La mara chispea, pero en Mayo como siempre el Madrid se las deja adentro. #querico #acomplejados #tontitos #mushoanimo #analts
+luisffaraj: En honor a Johan Cruyff, Messi sigue haciéndose el muerto. #valors #humildat #cespet
 
-Tweets más representativos del cluster 4
-['$MENTION$ Nooooo :face_with_tears_of_joy::face_with_tears_of_joy:'
- '$MENTION$ Órdenes del Reich :face_with_tears_of_joy:'
- '$MENTION$ Sin pensarlo :face_with_tears_of_joy: BB'
- '$MENTION$ :face_with_tears_of_joy::face_with_tears_of_joy:'
- '$MENTION$ Cuanta pérdida :face_with_tears_of_joy::face_with_tears_of_joy:'
- '$MENTION$ Lefties are bleeding right now :face_with_tears_of_joy::face_with_tears_of_joy:'
- '"$MENTION$: :face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy: lokis"//bella wirra'
- '$MENTION$ Eeeeeeexacto :face_with_tears_of_joy: igual'
- '$MENTION$ Increíble :face_with_tears_of_joy:'
- '$MENTION$ :face_with_tears_of_joy:'] 
+[Tweets más representativos del cluster 3]
+luisffaraj: "@EphSantos: @ffaraj salis hermoso en tu foto gordo"//no me enamores así ♥♡
+luisffaraj: @gabytopadilla Disfruta corazón, mira que en un par de meses me tocará cumplir ese sueño ❤️
+luisffaraj: "@Caromacallister: No se ni que decir!!!"//Pues... yo que te amo y sigo enamorado ♥
+luisffaraj: @kagisgarcia Ojos de amor ❤️ graciass
+luisffaraj: "@fanpagefaraj: Felipito de nuestro corazon @ffaraj ¡feliz lunes!"//las amo ♥
+luisffaraj: "@MariaHamD: @ffaraj amor del bueno! Feliz Navidad será en san pedro❤️ falta poco"//cant wait
+luisffaraj: "@SofiaSierraB: @ffaraj Que adorable vos. Te amo más pero un poquito menos de lo que amo a mi gordo bello @FerAndree17♥" son mi vida los amo
+luisffaraj: @gabytopadilla Bella ♥️
+luisffaraj: @andrearamoshn Gracias Andrea ❤️ viva el fútbol también haha
+luisffaraj: @AllanV_ Para la honra de mi Padre. Gracias belleza, un abrazo grande ❤️
+luisffaraj: Hermosos « RamsesBarientos: ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ @lorenvalla https://twitter.com/RamsesBarientos/status/883785529753579520/photo/1 — https://twitter.com/ramsesbarientos/status/883785529753579520 »
+luisffaraj: "@__GIBS__: Viendo la presentacion de Paulina Rubio ♥ en los Billboard que bella :) uffffffff."\/ DIO CLASES de como presentarse en vivo
+luisffaraj: "@mariafgiron17: @JoseSanchez20 ud es fuera de serie luis. Es un bello ♥.♥"e l és mi vida
+luisffaraj: "@cmtrume: @ffaraj *-* de nada! Es la verdad, me encantan sus tattos♥ y Para mi es un placer poder saludarle :* Besos y abrazos♥"mil besos!!
+luisffaraj: "@RamsesBarientos: Aún que sea cansado de todo un largo día de mudanza, siempre es bueno hablar con un buen amigo...@ffaraj te amo papi!"♥
+luisffaraj: "@Mariapozadas: Happy Valentine's ♥ @ffaraj" Felíz día igualmente!!
+luisffaraj: @marca @juventusfc Tesoro, me alegra saber que estás felíz ❤️ todavía te lloro... todavía.
+luisffaraj: "@RamsesBarientos: @ffaraj // gracias mi hermano por tus palabras."// ♥
+luisffaraj: ¡Los amo! @alanmartie @Hanariba @adriansigfred y ando sobrio así que no malpiensen jaja. @El_IVNivel ♡♥
+luisffaraj: @aimeepaz5 Veni mi amor ❤️
 
-Tweets más representativos del cluster 5
-['$MENTION$ :face_with_rolling_eyes: me pareció perfecta Belle.'
- 'Juzgar con juicio justo, en todo caso estoy en lo correcto :slightly_frowning_face: Por cierto, ¿por qué te me corriste a la propuesta de debate que te hice en esos días? En twitter es fácil pregonar intelecto. ¿Entonces? « jcardonaerazo: $MENTION$ Hey, eso de gentuza, no es muy cristiano de tu parte. ¿Todo bien en casa? — »'
- '$MENTION$ Ayer ví 1 episodio de la 3era. Está bien hecha la serie pero hay que relajarse :face_with_rolling_eyes: los niños rata dicen cosas que no menciono por acá porque me fríen el cerebro-'
- ':face_with_rolling_eyes::anxious_face_with_sweat:'
- ':face_with_rolling_eyes::thinking_face:'
- '$MENTION$ :red_heart::disappointed_face:'
- '$MENTION$ Ghost :slightly_frowning_face::red_heart:'
- 'Menos mal que leo los textos hebreos. Sacame de la “confusión” en el hebreo :winking_face: « lavi_jared: $MENTION$ Adónde dice que Dios creo otros dioses? Creo que está mal traducido en la biblia Reina Valera y en la mayoría, cuando gustes te puedo sacar esa confusión que tienes, bueno que la mayoría tienen. — »'
- '$MENTION$ ‘Nueva izquierda’ :winking_face:'
- '$MENTION$ Pero no saben debatir :face_with_monocle: me gustaría uno de esos conocedores que debata conmigo acerca de la existencia de Dios y demás temas.'] 
+[Tweets más representativos del cluster 4]
+luisffaraj: @CuevaNora Chichi que es ese vodoo africano jajajajajajajajaj
+luisffaraj: Felíz día maestro, te amo @alanmartie
+luisffaraj: @AuraCorpse dos dias te doy o una semana tops
+luisffaraj: @stephanobutto mas te amo, te amo... Teeeeeee amo....
+luisffaraj: @SoyAyF te amoo
+luisffaraj: AMO molestar a @Sjmadrid. Me fascinaaaaaaaaaaaaa
+luisffaraj: Te hice llorar ésa vez.. @Sjmadrid te amo
+luisffaraj: @Alean179 TE AMO! ES PARTE DE MI DÍA DECIRTELO
+luisffaraj: @AllanFernandoV admiro que no te has embarrado
+luisffaraj: @FarajAmira Te amo con todas mis fuerzas
+luisffaraj: @pluviohaze oime por aquí te conocí
+luisffaraj: Te amo @ObeyAldo valés diamantes.
+luisffaraj: @Hanariba felíz navidad maje. Te amo inmensamente. Te veo en un rato...
+luisffaraj: Quiero ser un mejor hombre para @Sjmadrid te amo
+luisffaraj: @iTroc Te amo.
+luisffaraj: @FarajAmira Te amo <3
+luisffaraj: @FrancesOlmedo Más te amo, te amo...teeeee amo (8) -Gran canción!
+luisffaraj: @SofiaSierraB Te amo con todas mis fuerzas.
+luisffaraj: @thenameisLexie first give it a listen. Te amo mas.
+luisffaraj: @SoyAyF TE AMOOO MAS <3
 
-Tweets más representativos del cluster 6
-['$MENTION$ Bueno, de esos abundan en mi país. Allí andan dándose con sillas en las ferias :face_with_tears_of_joy:'
- '$MENTION$ Que lástima que ellas no se pueden quitar la camiseta como señal de euforia al celebrar un gol :face_with_tears_of_joy:'
- 'Gracias. Me hace sentir joven que estos castrados mentales no sepan la diferencia entre pasta y canas :face_holding_back_tears: « ing_Steelman87: $MENTION$ Ni las tapas se sabe lavar, anda toda la pasta de dientes en la quijada. Ni porque la mamá le puso babero. — »'
- '$MENTION$ Jajaja tiene que pasar por Boston o si no GSW :face_with_tears_of_joy: The King que haga fila'
- '$MENTION$ Es que te juro que no se :face_with_tears_of_joy:'
- '$MENTION$ Como que no te conozco haha pero eso si, le das pan a los hambrientos :face_with_tears_of_joy:'
- '$MENTION$ Esos majes escriben como si fueran actores porno :face_with_tears_of_joy: ridículos'
- '$MENTION$ Pues y como si Colombia quedó fuera :face_with_tears_of_joy: Tq'
- '$MENTION$ Un día volveré a celebrar a mi equipo (si es que ganamos algo :face_with_tears_of_joy:) Saludos manito'
- '$MENTION$ Pobrecito el enano que debe andar tapado para que no lo reconozcan :face_with_tears_of_joy:'] 
+[Tweets más representativos del cluster 5]
+luisffaraj: @HN50_4 Nooooo 😂😂
+luisffaraj: @CaarmenRK Órdenes del Reich 😂
+luisffaraj: @AllanV_ Sin pensarlo 😂 BB
+luisffaraj: @acruz1007 😂😂
+luisffaraj: @LuisOmarTapia Cuanta pérdida 😂😂
+luisffaraj: @AFreeBlackMan Lefties are bleeding right now 😂😂
+luisffaraj: "@LipstickFables: 😂😂😂 lokis"//bella wirra
+luisffaraj: @kerengcruz Eeeeeeexacto 😂 igual
+luisffaraj: @JoseSanchez20 Increíble 😂
+luisffaraj: @abrahamriera 😂
+luisffaraj: @FernandoAndree8 😂 que bella
+luisffaraj: @MarchsanzHN 😂
+luisffaraj: @IreneMontero 😂🤡
+luisffaraj: @Mariaj_Duron 🥹
+luisffaraj: @CFdez7 Ey teenager 😂
+luisffaraj: @CharlyKarencio 😂 Jue
+luisffaraj: @gabytopadilla 😂
+luisffaraj: @gabytopadilla 🥹
+luisffaraj: @StanRockPatton “Philosophy is not a reliable route to truth” whilst philosophizing to arrive to that truth 😂😂😂
+luisffaraj: @ferhdez1096 😂
 
-Tweets más representativos del cluster 7
-['$MENTION$ $MENTION$ $MENTION$ :face_with_tears_of_joy: SAMUEL'
- '$MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ Terrible ‘assist’ :face_with_tears_of_joy: he even says it'
- '$MENTION$ $MENTION$ Adiós :face_with_tears_of_joy:'
- '$MENTION$ $MENTION$ $MENTION$ mira que quedó con la herida abierta :cat_with_tears_of_joy:'
- '$MENTION$ $MENTION$ $MENTION$ He can’t speak, he’s a mummy :face_with_tears_of_joy:'
- '$MENTION$ $MENTION$ Left is a perfectly crafted piece of work :face_with_tears_of_joy: :skull:'
- '$MENTION$ $MENTION$ :face_with_tears_of_joy::face_with_tears_of_joy: cero argumentos'
- '$MENTION$ $MENTION$ You had to be named Karen :face_with_tears_of_joy:'
- '$MENTION$ $MENTION$ :face_with_tears_of_joy::face_with_tears_of_joy: solo dijo ‘hola’ y ya'
- '$MENTION$ $MENTION$ $MENTION$ Y sale celebrando como si acaba de meter un penal… viene de levitar :face_with_tears_of_joy: que bárbaro'] 
+[Tweets más representativos del cluster 6]
+luisffaraj: @HaizelMcCarthy7 🙄 me pareció perfecta Belle.
+luisffaraj: Juzgar con juicio justo, en todo caso estoy en lo correcto 🙁 Por cierto, ¿por qué te me corriste a la propuesta de debate que te hice en esos días?En twitter es fácil pregonar intelecto. ¿Entonces? « jcardonaerazo: @luisffaraj Hey, eso de gentuza, no es muy cristiano de tu parte. ¿Todo bien en casa? — https://twitter.com/jcardonaerazo/status/1485431771558813708 »
+luisffaraj: @saidydubon Ayer ví 1 episodio de la 3era. Está bien hecha la serie pero hay que relajarse 🙄 los niños rata dicen cosas que no menciono por acá porque me fríen el cerebro-
+luisffaraj: 🙄😰 https://twitter.com/ffaraj/status/938266655431577600/photo/1
+luisffaraj: 🙄🤔 https://twitter.com/luisffaraj/status/1367249088912228352/video/1
+luisffaraj: @gianluigibuffon ❤️😞
+luisffaraj: @aelineup7 Ghost 🙁❤️
+luisffaraj: Menos mal que leo los textos hebreos. Sacame de la “confusión” en el hebreo 😉 « lavi_jared: @luisffaraj Adónde dice que Dios creo otros dioses? Creo que está mal traducido en la biblia Reina Valera y en la mayoría, cuando gustes te puedo sacar esa confusión que tienes, bueno que la mayoría tienen. — https://twitter.com/lavi_jared/status/1610094480799207426 »
+luisffaraj: @alguti27 ‘Nueva izquierda’ 😉
+luisffaraj: @KennethMelhado Pero no saben debatir 🧐 me gustaría uno de esos conocedores que debata conmigo acerca de la existencia de Dios y demás temas.
+luisffaraj: O también podés leer de historia porque no todo está en La Biblia 😉 « veromadelch: Ahora resulta que todas las celebraciones paganas tenían "un origen cristiano" jajajajaLean la Biblia, por Dios. — https://twitter.com/veromadelch/status/1586739171481337858 »
+luisffaraj: Quien fue tu ultima novia🙄? — @madelinegranados http://l.ask.fm/igoto/45DKECN75V62DDAUPY6IQO6P5KAC5CY7R357JDMZFCS2J7FI2AT5AJKQFZH4QRJSKW37WFABIJUTKFAU34N7A55YPPSKNTBAUYVANCK4CBTQSKPHASRDWP663T3MD7LET2S3QBA7ZXGXPBVZADDA====
+luisffaraj: @Liz3thF 🙄 es que de verdad pues
+luisffaraj: @Liz3thF 🙄
+luisffaraj: @manaoficial Osea darle el voto a Trump 😉
+luisffaraj: @CaarmenRK 🙄 tres o más
+luisffaraj: 🥴 « AJackdav: @luisffaraj Exacto. Por eso nunca lo decimos. — https://twitter.com/ajackdav/status/1420954074401366019 »
+luisffaraj: @Gabbi_Diaz @Liz3thF Jaja Liz, ya vas 🙄
+luisffaraj: @DeborahPineda1 @aimeepaz5 Avísame cuando lo hagas por tres horas 😉
+luisffaraj: Mostacero el que se ría 🙄
 
-Tweets más representativos del cluster 8
-['$MENTION$ always' '$MENTION$' '$MENTION$' '$MENTION$' '$MENTION$ always'
- '$MENTION$ :fire:' '$MENTION$' '$MENTION$' '$MENTION$' '$MENTION$'] 
+[Tweets más representativos del cluster 7]
+luisffaraj: @RamsesBarientos Bueno, de esos abundan en mi país. Allí andan dándose con sillas en las ferias 😂
+luisffaraj: @USWNT Que lástima que ellas no se pueden quitar la camiseta como señal de euforia al celebrar un gol 😂
+luisffaraj: Gracias. Me hace sentir joven que estos castrados mentales no sepan la diferencia entre pasta y canas 🥹 « ing_Steelman87: @isaac_rapalo Ni las tapas se sabe lavar, anda toda la pasta de dientes en la quijada.Ni porque la mamá le puso babero. https://twitter.com/ing_Steelman87/status/1622823409511026691/photo/1 — https://twitter.com/ing_steelman87/status/1622823409511026691 »
+luisffaraj: @InvictosSomos Jajaja tiene que pasar por Boston o si no GSW 😂The King que haga fila
+luisffaraj: @aelineup7 Es que te juro que no se 😂
+luisffaraj: @TavoVallecillo Como que no te conozco haha pero eso si, le das pan a los hambrientos 😂
+luisffaraj: @aelineup7 Esos majes escriben como si fueran actores porno 😂 ridículos
+luisffaraj: @JonathanMurciaD Pues y como si Colombia quedó fuera 😂 Tq
+luisffaraj: @sdeddelv Un día volveré a celebrar a mi equipo (si es que ganamos algo 😂)Saludos manito
+luisffaraj: @michelangas2 Pobrecito el enano que debe andar tapado para que no lo reconozcan 😂
+luisffaraj: @veromadelch A Paul está bueno llevarlo a la iglesia una vez al mes para que sacuda a todos 😂 pero no lo banco todos los fines de semana… estamos llamados a exhortar también.
+luisffaraj: @DanuArchila “Lastima” dice como que perdí el chance con vos 😂Loco si estoy pero no tanto
+luisffaraj: @DeborahPineda1 Cuando estoy solo solooo a ti yo me acostumbre 😂 ¿que acabo de tuitear?
+luisffaraj: @miguelangel_08 Mike, también conozco de la transformación Julio. Por eso el evangelio es locura 😂 increíble.
+luisffaraj: @NelyiLarice yo por echarte segunda entré, incrédulo de lo que escuchaba. Y vos todo serio no jodas 😂
+luisffaraj: @veromadelch No sé con que machos te llevas pero seguramente menstrúan si piensan eso 😂
+luisffaraj: @_SentimentCule JAJAJAJA EN ÉSTO HAN QUEDADO CELEBRANDO LO AJENO 😂😂😂😂😂 ay Dios
+luisffaraj: @Jampedrano504 Mi primer carro aquí fue así, acá se llama un ‘rebuilt title’ fue el peor error del mundo. Fue una pérdida salvaje de dinero pero como el millaje estaba bajo y también ‘se miraba bonito’. A los turcos también nos pueden ver la cara 😂 🐫
+luisffaraj: @CaarmenRK Es que ya te imagino tus ocurrencias 😂
+luisffaraj: @mariomartinez_7 ¿Cuándo hemos perdido? 😂 DOS Champions al HILO y vigentes campeones de CINCO títulos.ELIMINADOS son otros: ELIMINADOS. ¿No jugó d10s hoy?
 
-Tweets más representativos del cluster 9
-['$MENTION$ ay ay ay ay jajajaja gracias!' '$MENTION$ vas a ver jaja'
- '$MENTION$ JAJAJAJAJ yo más' '$MENTION$ Jajaja ya días no te logro ver'
- '$MENTION$ Jajaja hola mujer hermosísima' '$MENTION$ jajaja ay campeón!'
- '$MENTION$ jajajaja cuales fans? Nah!'
- '$MENTION$ donde puedo leer esa noticia? Jajajajaja'
- '$MENTION$ jajajaja sii'
- '$MENTION$ $MENTION$ jajaja es correcto. Si así no más fuera. CERO alcohol, CERO Belmont.'] 
+[Tweets más representativos del cluster 8]
+luisffaraj: @SammyMarz83 @AlejandroV_09 @Residente 😂 SAMUEL
+luisffaraj: @segundaniel360 @ChampionsLeague @RMadrid_Akin @Oficial_RC3 @realmadriden Terrible ‘assist’ 😂 he even says it
+luisffaraj: @karlylawyer @contracomu Adiós 😂
+luisffaraj: @AzulgranAcosta @RSiu_Madridista @NattyPaz mira que quedó con la herida abierta 😹
+luisffaraj: @canadiangirlbc1 @JoeBiden @realDonaldTrump He can’t speak, he’s a mummy 😂
+luisffaraj: @GadSaad @jordanbpeterson Left is a perfectly crafted piece of work 😂 💀
+luisffaraj: @Xabian1982 @LuisCastellon27 😂😂 cero argumentos
+luisffaraj: @KarenBlumentha1 @Franklin_Graham You had to be named Karen 😂
+luisffaraj: @Liz3thF @IvanaYojanan 😂😂 solo dijo ‘hola’ y ya
+luisffaraj: @german_erazo @pavonplummer @FenafuthOrg Y sale celebrando como si acaba de meter un penal… viene de levitar 😂 que bárbaro
+luisffaraj: @Laughingmichell @Solangelee @TonyRobbins 59 years old and bitter as hell 😂Go to sleep, Michelle.
+luisffaraj: @ramirezjejo @JMiguelPortillo 😂😂
+luisffaraj: @RellBattle @benshapiro NOOOOOOOO 😭😭
+luisffaraj: @Hnoe87 @Jampedrano504 HAHAHA 😂
+luisffaraj: @RamsesBarientos @NonoElBohemio 😂😂
+luisffaraj: @LuisOmarTapia Minuto 1:34 😂 @snapplebreaker @homer_faraj
+luisffaraj: @josejd @DiBrasco HAHHAHA 😂 ay mis 🐕
+luisffaraj: @VixMen777 @gabytopadilla 😂
+luisffaraj: @KennethMelhado @mariafslanzae 😂
+luisffaraj: @elacayog @MelbinDiaz 😂😂
 
-Tweets más representativos del cluster 10
-['$MENTION$ Asi me siento yo porque los progre de Twitter reportaron mi cuenta. Por cierto, ¿cómo va esa petición?'
- '$MENTION$ torpe, usa más seguido Twitter. Me emociona saber que $MENTION$ y vos los veo hasta acá.'
- '$MENTION$ 1,000 días de estreñimiento causaron ese tweet.'
- '$MENTION$ lastima q no le puedo dar retweet pq sos luser y los tenes protegidos -.-'
- '$MENTION$ acabo d ver tu tweet...el mismo rollo de siempre, aquello que paso el martes.'
- '$MENTION$ ayer me mandaron un tweet diciendo que eramos nosotros los que tocabamos.'
- '$MENTION$ Siento mucho que te hayas sentido identificado con el tweet.'
- '$MENTION$ hermoso, tengo twitter dsde el 2009 jaja! T quiero'
- '$MENTION$ pobre el tontiiiito, mire el tweet q le puse tontito. Ganan 56 a 55'
- '$MENTION$ Es que los debates de ellos son en Twitter.'] 
+[Tweets más representativos del cluster 9]
+luisffaraj: @SaraSu_Handal always
+luisffaraj: @luisomartapia
+luisffaraj: @tavogodzend https://twitter.com/ffaraj/status/393469349530726400/photo/1
+luisffaraj: @WTFCrazyFact
+luisffaraj: @anniecorea always
+luisffaraj: @scrowder 🔥
+luisffaraj: @SoyAyF https://twitter.com/ffaraj/status/334194352396066816/photo/1
+luisffaraj: @joseeecuervo https://twitter.com/rodrigosobarzo1/status/971205809236594689
+luisffaraj: @sirAldoEnrico https://twitter.com/ffaraj/status/393104498446835712/photo/1
+luisffaraj: @RamsesBarientos  http://www.youtube.com/watch?v=MKqajubpF0Y
+luisffaraj: @__GIBS__ https://twitter.com/ffaraj/status/406271893155504128/photo/1
+luisffaraj: @RamsesBarientos
+luisffaraj: @alexachinchi first
+luisffaraj: @Galdamezhn cod
+luisffaraj: @AlesiaPoulette http://www.youtube.com/watch?v=4YhZJRLgN6o
+luisffaraj: @KamalaHarris https://twitter.com/luisffaraj/status/1326270155018657792/photo/1
+luisffaraj: @__GIBS__ https://twitter.com/ffaraj/status/406439912984944640/photo/1
+luisffaraj: @RamsesBarientos https://twitter.com/ffaraj/status/372638364186722304/photo/1
+luisffaraj: @ClownWorld_ https://twitter.com/luisffaraj/status/1614785398709915648/photo/1
+luisffaraj: @RuanoSteven  https://twitter.com/ffaraj/status/905827748194734080/video/1
 
-Tweets más representativos del cluster 11
-['Hoy entreno como estúpido. Back + chest...'
- 'Toca hacer piernas. Deadlifts primero? O squats?' '$MENTION$ AL GYM'
- '$MENTION$ jajaja hago squats, lunges, extensions, deadlifts, curls. Solo eso...'
- '$MENTION$ jajajajaja es normal! Avoid BK, Popeyes y cosas asi...jeee creeme. Evitá frituras después de tus workouts'
- 'Ya: Squats+deadlifts+walking lunges... Toca sufrir.' '$MENTION$ gym?'
- 'Walking lunges. A sacar nalgas como J-Lo.'
- '"$MENTION$: Al consumir cafeína la resistencia en los músculos aumenta un 28%" por ende los "pre-workouts"'
- '$MENTION$ for ano early workout?'] 
+[Tweets más representativos del cluster 10]
+luisffaraj: @MariaHamD ay ay ay ay jajajaja gracias!
+luisffaraj: @RosaAlvaradoHN vas a ver jaja
+luisffaraj: @JoseSanchez20 JAJAJAJAJ yo más
+luisffaraj: @hellengvalladar Jajaja ya días no te logro ver
+luisffaraj: @arlenezav Jajaja hola mujer hermosísima
+luisffaraj: @Aristoletes jajaja ay campeón!
+luisffaraj: @becksq3 jajajaja cuales fans? Nah!
+luisffaraj: @ViviChn donde puedo leer esa noticia? Jajajajaja
+luisffaraj: @julioalejandros jajajaja sii
+luisffaraj: @RamsesBarientos @god_x23 jajaja es correcto. Si así no más fuera. CERO alcohol, CERO Belmont.
+luisffaraj: @JosmaryParedes jaja? Hola? Calma, no soy ninguna estrella.
+luisffaraj: @ReinoMadridista me has hecho reír jajaja es como cuando trajimos a Adebayor.
+luisffaraj: @negritoanton jajaja contame que dicen
+luisffaraj: @julioalejandros jajajajajajajaja que barbaro, yo tmbn estoy en clase
+luisffaraj: @MaxCspaniard y faltaan taaantos goles jaja
+luisffaraj: @ramirezjejo jajajajaj has de estar bravo
+luisffaraj: @CaarmenRK Jajajaja hola
+luisffaraj: @ronieburdet @ChamaSports15 Jajajajaja AY AY AY AY CANTA Y NO LLORES!
+luisffaraj: @Amelgar93 jajaja asi es
+luisffaraj: @mariahamdd Jajaja que
 
-Tweets más representativos del cluster 12
-['$MENTION$ $MENTION$ Hola bello'
- '$MENTION$ $MENTION$ $MENTION$ Hola bellos'
- '$MENTION$ $MENTION$ Hola Zinnia. ¡Voy!' '$MENTION$ hoooolizzzz'
- '$MENTION$ hora y dia' '$MENTION$ $MENTION$ hola gordossssssssss'
- '$MENTION$ hola gordo' '$MENTION$ hora morris' '$MENTION$ $MENTION$ Hola'
- '$MENTION$ $MENTION$ Hola friend'] 
+[Tweets más representativos del cluster 11]
+luisffaraj: @snapplebreaker Asi me siento yo porque los progre de Twitter reportaron mi cuenta. Por cierto, ¿cómo va esa petición?
+luisffaraj: @MusicArena torpe, usa más seguido Twitter. Me emociona saber que @homer_felipe y vos los veo hasta acá.
+luisffaraj: @JoseSanchez20 1,000 días de estreñimiento causaron ese tweet.
+luisffaraj: @Alean179 lastima q no le puedo dar retweet pq sos luser y los tenes protegidos -.-
+luisffaraj: @angelfernando82 acabo d ver tu tweet...el mismo rollo de siempre, aquello que paso el martes.
+luisffaraj: @2BARGRILL ayer me mandaron un tweet diciendo que eramos nosotros los que tocabamos.
+luisffaraj: @pichansan1990 Siento mucho que te hayas sentido identificado con el tweet.
+luisffaraj: @VanCityALDO hermoso, tengo twitter dsde el 2009 jaja! T quiero
+luisffaraj: @JoseSanchez20 pobre el tontiiiito, mire el tweet q le puse tontito. Ganan 56 a 55
+luisffaraj: @homer_faraj Es que los debates de ellos son en Twitter.
+luisffaraj: @Antag0nic0 Y vos te escondes detrás de una cuenta de Twitter porque de frente te pongo a cagar, pendejo.
+luisffaraj: @aelineup7 ¡Hace días estabas poniendo tweets enamorada!
+luisffaraj: @RamsesBarientos podré tener un mal día pero leer tus tweets me hacen la noche. Me meo de la risa.
+luisffaraj: @MaruNovilloC hay un tweet que ud NO ha leído.
+luisffaraj: @BryanAlbarino Es que le diste RT al tweet aquel de mi añoro por las provida de AR y MX. Sos travieso.
+luisffaraj: @DiarioLaPrensa Ya cuando no tienen ni un RT ni nada en UNA hora que enviaron el tweet, bórrenlo. Solo basura sacan, de todos modos...
+luisffaraj: @JoseSanchez20 Entonces podes agarrar mis tweets en un Vive extra lubricado y ubicartelos en el suelo de tu sin-esquinas.
+luisffaraj: Buenas Twitter, mi mejor amigo se dignó en aparecer y mandarme un tweet. Me siento querido por primera vez en mucho tiempo por el. Saludos. « jose92pj: @ffaraj FF, te amo — https://twitter.com/jose92pj/status/965779501027332097 »
+luisffaraj: @serengio te extraño... Extraño hablar con vos. Que Dios te enseñe éstos Tweets. Leyendo todo estoy llorando ahorita. Siempre te recuerdo.
+luisffaraj: @RamsesBarientos imaginate, por Twitter me doy cuentas de estas cosas... Increíble.
 
-Tweets más representativos del cluster 13
-['Lo importante fueron los selfies ayer en la Vía del Sudor.'
- '$MENTION$ mira la foto que le puse a ramses jajajajajajajaja'
- 'Me estorban las mujeres que se toman fotos todos los dias y las suben aqui, en Facebook o Instagram. PAREN porfa. Narcisismo? Inseguridad?'
- '$MENTION$ $MENTION$ No lo juzgaba. Me daba rabia que le decía que fuéramos al cine y me daba paja para que después me mandaran fotos de él en Karu. Odiaba que me mintiera.'
- 'JAJAJAJAJAJAJAJAJAJAJAJAJAJAJA « julioalejandros: Confirme $MENTION$ Que tan real es esta foto? 4 años mas? Hasta de azul anda — »'
- 'Saquenme de mi ignorancia: De mi compu no puedo subir fotos a mi instagram?'
- '$MENTION$ “Osea literalmente casi me muero” porque la foto desnuda llegó a 3,000 likes.'
- 'A quién quiero engañar? Todavía la veo en foto y deliro.'
- '$MENTION$ Yo también. A cada rato me pedían foto, era incomodo.'
- 'Que fotooooooooo'] 
+[Tweets más representativos del cluster 12]
+luisffaraj: Hoy entreno como estúpido. Back + chest...
+luisffaraj: Toca hacer piernas. Deadlifts primero? O squats?
+luisffaraj: @alntorres AL GYM
+luisffaraj: @andreasortoo jajaja hago squats, lunges, extensions, deadlifts, curls. Solo eso...
+luisffaraj: @asorto28 jajajajaja es normal! Avoid BK, Popeyes y cosas asi...jeee creeme. Evitá frituras después de tus workouts
+luisffaraj: Ya: Squats+deadlifts+walking lunges... Toca sufrir.
+luisffaraj: @arlenezav gym?
+luisffaraj: Walking lunges. A sacar nalgas como J-Lo.
+luisffaraj: "@EresCurioso: Al consumir cafeína la resistencia en los músculos aumenta un 28%" por ende los "pre-workouts"
+luisffaraj: @Shells1901 for ano early workout?
+luisffaraj: Hoy? Triceps, pantorrillas, abs. Cardio?
+luisffaraj: @MelyTorres21 Ir al gym
+luisffaraj: Gym @5.30am baby
+luisffaraj: Cambio de planes: hombros+trapecio+cintura+cardio.
+luisffaraj: Hombros + pantorrillas + cardio
+luisffaraj: @2MealMike Deadlifts
+luisffaraj: Haciendo la rutina que odio... Biceps + triceps
+luisffaraj: @masculinesoul Get your ass to the gym
+luisffaraj: Tattoo day soon. ¡Tengo que terminarme la espalda!
+luisffaraj: Chest + legs... Me muero. VAMOSS!! @TheRock SOS LA MERA TRAMELLA IDOLO!
 
-Tweets más representativos del cluster 14
-['Sos responsable del amor que provocas' 'Pido un aplauso para el amor'
- '“Si no perdonas por amor, perdona al menos por egoísmo, por tu propio bienestar”'
- 'Falta amor en el corazón de las personas.'
- 'La compasión nunca puede sustituir el amor. Amar por lástima es NO tener corazón.'
- 'Todavía hay gente dispuesta a entregarse en el amor.'
- '"No abandones nunca el amor y la verdad"'
- 'El amor dura menos, que la cicatriz que deja...'
- 'El amor es una cosa que se da de pronto en forma natural, lleno de fuego.'
- 'No hay nada que decir de éste amor'] 
+[Tweets más representativos del cluster 13]
+luisffaraj: @TavoVallecillo @nubia_ti Hola bello
+luisffaraj: @SammyMarz83 @JoseSanchez20 @FRishmawy Hola bellos
+luisffaraj: @Zinnia_co @RamsesBarientos Hola Zinnia. ¡Voy!
+luisffaraj: @Jossy_7 hoooolizzzz
+luisffaraj: @FarajAmira hora y dia
+luisffaraj: @EphSantos @stephanobutto hola gordossssssssss
+luisffaraj: @amilcar_r28 hola gordo
+luisffaraj: @SoyAyF hora morris
+luisffaraj: @TavoVallecillo @sergio_85 Hola
+luisffaraj: @FernandoAndree8 @JoseSanchez20 Hola friend
+luisffaraj: @SherlyMadrid hola amor!! https://twitter.com/ffaraj/status/189591781237719040/photo/1
+luisffaraj: @Alex203S Hora sad @JonathanMurciaD
+luisffaraj: @Sjmadrid holaaaaaaaa muñeca de sala!
+luisffaraj: @judithbercat27 Hola! Placer saludarte. @El_IVNivel
+luisffaraj: @TyCSports @arpaz23 hola
+luisffaraj: @mbonilla15 HOLAAA!!!
+luisffaraj: @SusiMgamero @CFdez7 Hola
+luisffaraj: @amdesjardines holisssssss
+luisffaraj: @snapplebreaker @bizarreblurt Hola
+luisffaraj: @Amelgar93 hola adrianitaaa!!!
 
-Tweets más representativos del cluster 15
-['$MENTION$ $MENTION$ De hecho, terminé el video repetidas veces con “hdp” para arriba, lo iba a subir así pero no, no vale la pena perder el decoro así'
- '$MENTION$ Me ALEGRA saber eso!! Creéme!! Desde que nací escucho Stryper por mis dos hmnos mayores. TENES que escuchar el último disco'
- '$MENTION$ $MENTION$ Comentario de alguien que se hizo viral con un video tirándole al gobierno y ahora mama de la teta. Hipócrita.'
- '$MENTION$ Me hacés un favor? Buscá en Youtube la canción de una de mis bandas de todos los tiempos.. Escuchala, PORFA:'
- '$MENTION$ $MENTION$ ¿Tienen el video donde el perro dijo eso?'
- 'Video tomado por $MENTION$ demasiada loquera. Meterle un gol a los chucos al minuto 90 causa…'
- '"$MENTION$: Soda stereo a esta hora, es droga para mi."//a la hora que seaaa'
- '$MENTION$ $MENTION$ perfecto! Ya.tenemos los videos ahi.'
- '$MENTION$ $MENTION$ No pedí tu felicitación falsa. El que está queriendo hacer show acá sos vos a costillas de un video agradable queriendo verte ‘excelente’ en ser polémico usando mi fe. No sé si querés un aplauso o algo, pero acá está: :clapping_hands:- abrazos.'
- '$MENTION$ CNN expertos en lo que son: regar basura'] 
+[Tweets más representativos del cluster 14]
+luisffaraj: Lo importante fueron los selfies ayer en la Vía del Sudor.
+luisffaraj: @god_x23 mira la foto que le puse a ramses jajajajajajajaja
+luisffaraj: Me estorban las mujeres que se toman fotos todos los dias y las suben aqui, en Facebook o Instagram. PAREN porfa. Narcisismo? Inseguridad?
+luisffaraj: @julioalejandros @jose92pj No lo juzgaba. Me daba rabia que le decía que fuéramos al cine y me daba paja para que después me mandaran fotos de él en Karu. Odiaba que me mintiera.
+luisffaraj: JAJAJAJAJAJAJAJAJAJAJAJAJAJAJA « julioalejandros: Confirme @ffaraj Que tan real es esta foto? 4 años mas? Hasta de azul anda https://twitter.com/julioalejandros/status/934625566518636544/photo/1 — https://twitter.com/julioalejandros/status/934625566518636544 »
+luisffaraj: Saquenme de mi ignorancia: De mi compu no puedo subir fotos a mi instagram?
+luisffaraj: @TealdiF “Osea literalmente casi me muero” porque la foto desnuda llegó a 3,000 likes.
+luisffaraj: A quién quiero engañar? Todavía la veo en foto y deliro.
+luisffaraj: @julioalejandros Yo también. A cada rato me pedían foto, era incomodo.
+luisffaraj: Que fotooooooooo https://twitter.com/ffaraj/status/389102973248225280/photo/1
+luisffaraj: Toca ir a la Vía del Sabor para llenar Snapchat e Instagram stories ¿va?
+luisffaraj: @JoseSanchez20 Bonito que los agarren de trofeo o de anormales para un selfie, ¿verdad?
+luisffaraj: @Alean179 Vieras como me hacen a mi por aquí cuando pierde el RM... Tengo 800 y pico de followers. Not easy!
+luisffaraj: @alanmartie @equilikua NO. Esa foto no la hice yo jaja.. para nada. La imagen de Messi no se danara asi n mas, ha mantenido su postura.
+luisffaraj: Hace poco fue ésta foto http://instagram.com/p/lnrnpTKeI1/
+luisffaraj: @RamsesBarientos man, que salvaje está tu foto. Nítida.
+luisffaraj: Ahora la mara sale en fotos con toallas y ya son Top Model. Ombeeeeeeeeeeee
+luisffaraj: Ya pronto a mi Facebook la ''foto de hoy''.. tambien la voy a subir aqui.
+luisffaraj: Tu foto me mata wow — Gracias anon ♡ http://ask.fm/a/afafeaog
+luisffaraj: @DiarioTiempo Como carajos tienen testículos de subir una foto así? Desalmados PENDEJOS. No están viendo el nivel de foto que ponen? CEROTES
 
-Tweets más representativos del cluster 16
-['$MENTION$ ¿Contratarías un músico de Honduras para que trabaje contigo y tu banda?'
- '$MENTION$ CN convoca a sesión el próximo martes al $MENTION$ Diario La Tribuna Honduras'
- '$MENTION$ : Partido Nacional de Honduras debe devolver fondos al IHSS - Diario El Heraldo'
- "$MENTION$ You're my hero Mike. God bless you in every way. A big hug from Honduras, country you don't know exists! :) cheers!"
- '$MENTION$ EL CUARTO NIVEL DE HONDURAS!! BANDA MUSICAL'
- '$MENTION$ $MENTION$ Maestro. ¿Viene a Dallas a cubrir Honduras vs Canadá? Si es así, sería un HONOR conocer a uno de mis héroes desde pequeño.'
- '$MENTION$ Se viene un desorden social en Honduras'
- '$MENTION$ ¿es posible que Honduras de la sorpresa mañana maestro?'
- '$MENTION$ saludos al cuarto nivel de Hondurasss banda de musica!!'
- 'Resultado final Diputados $MENTION$ 10 Juventud $MENTION$ 5 « RC_2504: ¡¡Momento ameno!! Una potra donde la Juventud Nacionalista vrs Bancada Partido Nacional demostramos que en la unión está la fuerza! Partido Nacional de Honduras :Somalia: pdt Mañana los Diputados no presentarán decretos están doblados! :face_with_tears_of_joy: — »'] 
+[Tweets más representativos del cluster 15]
+luisffaraj: Sos responsable del amor que provocas
+luisffaraj: Pido un aplauso para el amor
+luisffaraj: “Si no perdonas por amor, perdona al menos por egoísmo, por tu propio bienestar”
+luisffaraj: Falta amor en el corazón de las personas.
+luisffaraj: La compasión nunca puede sustituir el amor. Amar por lástima es NO tener corazón.
+luisffaraj: Todavía hay gente dispuesta a entregarse en el amor.
+luisffaraj: "No abandones nunca el amor y la verdad"
+luisffaraj: El amor dura menos, que la cicatriz que deja...
+luisffaraj: El amor es una cosa que se da de pronto en forma natural, lleno de fuego.
+luisffaraj: No hay nada que decir de éste amor
+luisffaraj: Pensé que nuestro amor sería leyenda
+luisffaraj: Cruza el amor, yo cruzaré los dedos.
+luisffaraj: El amor es la arrogancia de aferrarse a lo imposible.
+luisffaraj: Las tres llamas del amor.... Been there. Es bíblico-
+luisffaraj: Ésto de encontrar el amor no es lo mío ey
+luisffaraj: En el amor ya lo di todo.
+luisffaraj: “Si el oro se oxida, no era oro. Y si el amor se acaba, no era amor.”
+luisffaraj: - Odio es una palabra fuerte, ¿no te parece?- “Amor” también lo es, y la gente habla como si no significara nada.                      - Peter Pan
+luisffaraj: Tuve que dejar de hacer el amor en el momento. Fuí en busca de un abrigo...
+luisffaraj: ¿De qué se trata el amor? ¿De besos? ¿Se trata de caricias? No. Se trata de decirle:''Amor, llámame después que voy a cagar"
 
-Tweets más representativos del cluster 17
-['Líderes nacionalistas: “En vaca” siempre los vamos a derrotar -con $MENTION$ Diario La Tribuna Honduras'
- 'Honduras se desangra'
- 'Tomás Zambrano: “Diputados pretenden boicotear Alianza | Diario La Tribuna Honduras'
- 'Honduras: Piden derogar artículo que penaliza hablar de reelección - Diario El Heraldo Honduras'
- '$MENTION$ Dijo “Honduras”, no a los corruptos que la gobiernan y la tienen jodida.'
- '¡HONDURAS ES FINALISTA! ¡¡VAMOS CARAJO!!'
- 'Orgulloso de la selección Sub-23 de Honduras. Gracias muchachos.'
- 'Hoy es dia cero, VAMOS HONDURAS!' 'GRACIAS HEREDIANO: Honduras sonríe'
- 'Honduras-USA este martes 18... Con todo'] 
+[Tweets más representativos del cluster 16]
+luisffaraj: @karlylawyer @shadiasaba De hecho, terminé el video repetidas veces con “hdp” para arriba, lo iba a subir así pero no, no vale la pena perder el decoro así
+luisffaraj: @RamsesBarientos Me ALEGRA saber eso!! Creéme!! Desde que nací escucho Stryper por mis dos hmnos mayores. TENES que escuchar el último disco
+luisffaraj: @KilvettZ @nayibbukele Comentario de alguien que se hizo viral con un video tirándole al gobierno y ahora mama de la teta. Hipócrita.
+luisffaraj: @GuilleVertigo Me hacés un favor? Buscá en Youtube la canción de una de mis bandas de todos los tiempos.. Escuchala, PORFA:
+luisffaraj: @juditha154 @xavi_katarsis ¿Tienen el video donde el perro dijo eso?
+luisffaraj: Video tomado por @danielochoa33 demasiada loquera. Meterle un gol a los chucos al minuto 90 causa… http://instagram.com/p/l54_SXqeDT/
+luisffaraj: "@vyctorie: Soda stereo a esta hora, es droga para mi."//a la hora que seaaa
+luisffaraj: @DiogenesAcosta @LilyMaQ perfecto! Ya.tenemos los videos ahi.
+luisffaraj: @JorgeRdeportes @NattyPaz No pedí tu felicitación falsa. El que está queriendo hacer show acá sos vos a costillas de un video agradable queriendo verte ‘excelente’ en ser polémico usando mi fe. No sé si querés un aplauso o algo, pero acá está: 👏- abrazos.
+luisffaraj: @CNNEE CNN expertos en lo que son: regar basura
+luisffaraj: @FerAndree17 Pq estaba viendo videos de el y me entró la mariconada.
+luisffaraj: De un INCREIBLE disco ni se que cual es la mejor, pero esta es de mis favoritas! http://www.youtube.com/watch?v=B9tjfq73S0U @RamsesBarientos
+luisffaraj: @musicatracha viajamos la semana que viene a Tegucigalpa a grabar el disco!!
+luisffaraj: @HenrySakhel pone en Youtube:"El estilo de Peter La Anguila" AHORITA
+luisffaraj: @RamsesBarientos 4 horas nos separan! Pero caeremos por alla pronto a continuar con el disco. A dormir papi, te amo muchisimo.
+luisffaraj: Aqui estaaa el video @dagofullguitar
+luisffaraj: @SammyMarz83 @FRishmawy Creo que el vídeo es falso y era para crear conciencia nada más
+luisffaraj: "Hagamos un video pero con swag todos" jaja ahí perdón por la mala expresión.... Demasiada la… https://instagram.com/p/2aCSHmqeBe/
+luisffaraj: Video no oficial de el nuevo sencillo de @El_IVNivel en Youtube! ''Atravesar en contra'' http://www.youtube.com/watch?v=4YhZJRLgN6o @djAllanV @KARWASHO
+luisffaraj: @amparobendeck stay awhile te toca ahora (mira el official video)
 
-Tweets más representativos del cluster 18
-['Poco sirve seguirnos descargando por redes sociales. La indignación nacional es evidente, nos toca salir a las calles. Nos toca defender lo poco que queda de Honduras: EL CORAZÓN DEL PUEBLO TODAVÍA LATE.... ¡Y FUERTE! VAMOS HONDURAS'
- 'Dios está haciendo cosas en Honduras que se requiere del discernimiento correcto para verlas.'
- 'Allí estuviera en Honduras DE FRENTE a una cúpula militar o policial parado frente a todos. Yo NO me le cago a la fama, especialmente después que en mi CARA me están robando mi país. Que impotencia. Que ardor en el alma.'
- 'Los CAMBIOS que requiere un país como Honduras, son los que desarrollen ayudando al bien común; y no aquellos cambios que dividen y polarizan la sociedad, mucho menos aquellos que quiebran el orden constitucional.'
- 'Hoy celebramos los 224 años de la Etnia garífuna en nuestra nación; gente hermosa,llenos de fuerza y valentía,gracias por su aporte tan valioso a nuestra nación a través de su cultura,ciencia y deporte,El Dios del cielo les bendiga y sean sus generaciones benditas en Honduras.'
- 'Mi meta y mision es que mi banda sea recordad y escuchada atravez del tiempo en Honduras. Poder inspirar a los demas.. como ponerle precio?'
- 'Ok, aquí va la pista, concierto por Haití — ¿Aja? ¿Sos de Tegus? ¿De aquí?'
- 'Felicidades a todos los periodistas que informan con responsabilidad y construyen una nueva Honduras'
- '¿Qué tal el vomitivo lenguaje inclusivo ingresando a Honduras por vías del estatismo?'
- '¿Cuánto vale la vida en Honduras? 25 lempiras. Eso cuesta un proyectil.'] 
+[Tweets más representativos del cluster 17]
+TommyZambranoM: “@diarioelheraldo:Presidente de Honduras anuncia "Navidad catracha". Vea aquí en qué consiste. http://bit.ly/1tuNQxA https://twitter.com/diarioelheraldo/status/529333989627408384/photo/1
+TommyZambranoM: “@americahn: Fuerzas Armadas de Honduras confirman la destrucción de 35 pistas de aterrizaje clandestinas a nivel  nacional .”
+TommyZambranoM: “@diarioelheraldo: Congreso Nacional de Honduras inicia discusión de Ley Antibullying. http://bit.ly/1rxMsd7”
+TommyZambranoM: “@americahn: De acuerdo a informes de la policía regional han bajado los indices delincuenciales en la zona norte de Honduras .”
+TommyZambranoM: “@Abriendo_Brecha: Programa por una Vida Mejor, implementado por el gobierno de Honduras, proporcionará 20 mil viviendas anualmente.”
+TommyZambranoM: “@JuanOrlandoH: Honduras ahora luchará por garantizar que su espacio aéreo  no sea utilizado para propósitos malévolos.”
+TommyZambranoM: “@diarioelheraldo: Aprobada Ley de Doble Cotización en Honduras. http://bit.ly/1s0KWQm https://twitter.com/diarioelheraldo/status/520343004641767426/photo/1”
+luisffaraj: "@Barrabas90: Suenio con un mundo sin Honduras. Un planeta sin gente tan estupida ignorante y de genetica inferior."// Oime no seas pendejo.
+luisffaraj: @EmilioYitzhak @BryanAlbarino @JonathanMurciaD Buenas, Honduras no puede ir al mundial y lo que quieran; pero nuestros querido hermanos mexicanos los tenemos, no de hijos, si no de nietos. Bendiciones
+TommyZambranoM: “@DiarioTiempo: EE.UU. prohíbe a Honduras reparar sus F5: http://goo.gl/ynYQtZ https://twitter.com/DiarioTiempo/status/476397201170509825/photo/1”
+TommyZambranoM: “@radiohrn:RadioHRN: Fuerzas policiales y militares se encuentran listas para enfrentar la criminalidad en Honduras. http://tinyurl.com/lqb5uxl”
+TommyZambranoM: @saraiespinal @titoasfura próximo presidente de Honduras
+TommyZambranoM: “@diarioelheraldo: AVANCE: Desmantelan "narcolaboratorios" en el norte de Honduras. Un mexicano detenido. http://bit.ly/1yvSr3Y”
+luisffaraj: "@makawas: Se espera una temperatura de 30 grados a la hora del juego Honduras vs Canadá."
+TommyZambranoM: “@TeleprensaH: Firman convenio para producir energía solar en la zona sur de Honduras http://fb.me/3B5ii0l4Q”
+TommyZambranoM: “@diarioelheraldo: Próximo martes sería presentado el dictamen de nueva ley de lavado de activos en Honduras. http://bit.ly/RMnUQ9”
+luisffaraj: Un mensaje para el gobierno de Honduras —————-@JuanOrlandoH @LeonelAyalaHN https://twitter.com/luisffaraj/status/1324432224985456641/video/1
+TommyZambranoM: “@radiohrn: Fuerzas Armadas de Honduras decomisan narcoavioneta en el sector de la Mosquitia, los pilotos huyeron.https://twitter.com/radiohrn/status/505156335668068352/photo/1”
+TommyZambranoM: “@2011_zambrano: Honduras 2-1 Panama.... grandes estos "cipotes".”
+TommyZambranoM: @Congreso_HND aprobó moción dándole total respaldo al Presidente @JuanOrlandoH para que dentro de sus atribuciones pueda pueda llevar a cabo  el traslado de la Embajada de Honduras a la Ciudad de Jerusalén.Dios bendiga a Honduras y al  presidente @JuanOrlandoH por esa decisión. https://twitter.com/tommydiputado/status/1168676847120539649/video/1
 
-Tweets más representativos del cluster 19
-['A dormir porque me siento MUY mal de salud.'
- 'Y antes de dormir... Una ensaladita!'
- 'A dormir porque Dios está en control'
- "A dormir. Cuando NO se puede, NO se puede. Deja de intentar. Don't push it. No sirve nada a la fuerza."
- 'escuchenla antes de dormir.'
- 'Después de un finde de dormir 8 horas en dos días me despierto ahorita de la nada?! Noooo!!'
- 'NECESITO dormir con alguien. No puedo dormir solo éstos días :('
- 'Pocas cosas mejores que dormir con ochenta almohadas.'
- 'Lo más prudente es dormir.' 'A dormir gente. Al que madruga...'] 
+[Tweets más representativos del cluster 18]
+luisffaraj: @ricky_martin ¿Contratarías un músico de Honduras para que trabaje contigo y tu banda?
+TommyZambranoM: @DrMauricioOliva CN convoca a sesión el próximo martes al @congreso_hn Diario La Tribuna Honduras http://www.latribuna.hn/2017/02/16/cn-convoca-sesion-proximo-martes/
+TommyZambranoM: @JuanOrlandoH : Partido Nacional de Honduras debe devolver fondos al IHSS - Diario El Heraldo http://www.elheraldo.hn/inicio/846004-331/joh-partido-nacional-de-honduras-debe-devolver-fondos-al-ihss
+luisffaraj: @MikePortnoy You're my hero Mike. God bless you in every way. A big hug from Honduras, country you don't know exists! :) cheers!
+luisffaraj: @DonBisca EL CUARTO NIVEL DE HONDURAS!! BANDA MUSICAL
+luisffaraj: @LuisOmarTapia @Paco_Villa_ Maestro. ¿Viene a Dallas a cubrir Honduras vs Canadá? Si es así, sería un HONOR conocer a uno de mis héroes desde pequeño.
+luisffaraj: @Liz3thF Se viene un desorden social en Honduras
+luisffaraj: @LuisOmarTapia ¿es posible que Honduras de la sorpresa mañana maestro?
+luisffaraj: @LuisOmarTapia saludos al cuarto nivel de Hondurasss banda de musica!!
+TommyZambranoM: Resultado final Diputados @Congreso_HND 10 Juventud @PNH_oficial 5 « RC_2504: ¡¡Momento ameno!! Una potra donde la Juventud Nacionalista vrs Bancada Partido Nacional demostramos que en la unión está la fuerza! Partido Nacional de Honduras 🇸🇴pdt Mañana los Diputados no presentarán decretos están doblados! 😂 https://twitter.com/RC_2504/status/1554703544711843841/photo/1 — https://twitter.com/rc_2504/status/1554703544711843841 »
+TommyZambranoM: Hoy Viernes nos pusimos la Camisa Blanca para compartir con nuestro alcalde Delvin Salgado del Negrito, Diputados @BancadaPNH de Yoro y los coordinadores de Centros de votación del @PNH_oficial , seguiremos construyendo la unidad del nacionalismo y trabajando para que en Honduras… https://twitter.com/TommyZambranoM/status/1636839528852869121/photo/1
+luisffaraj: Saludos @LuisOmarTapia !! De parte de Alan, Henry y Felipe!!!! Honduras!!
+luisffaraj: @DonBisca BANDA DE MUSICAL: EL CUARTO NIVEL!! SALUDOS!! DE HONDURAS
+luisffaraj: @Rhynyx_ @Tagrushi wtf? Prefieren ver porno entonces en vez de programas evangélicos que si edifican tu vida? Con razón Honduras esta mal :)
+TommyZambranoM: Muchas felicidades en su cumpleaños gran líder del @PNH_oficial y próximo presidente de Honduras @DrMauriciolivaH que Dios le bendiga cada día de su vida junto a su familia. https://twitter.com/TommyZambranoM/status/1369140894788710401/photo/1
+luisffaraj: Hay pocas personas con las cuales NO me puedo enojar, entre ellas figuran el mejor pianista de Honduras y de @El_IVNivel @alanmartie siganlo
+luisffaraj: @DavidLuiz_4 felicidades David!! Desde Honduras un abrazo!! A big hug from Honduras, may the Lord bless you.
+TommyZambranoM: Hemos asegurado ponerle freno a la voracidad de @PartidoLibre de controlar todos los poderes del Edo. El acuerdo a que llegamos le asegura a Honduras🇭🇳 una CSJ que NO sea como la quería Mel y Libre.Por la paz y tranquilidad de Honduras @PNHBancada vamos a votar por una nueva CSJ.
+luisffaraj: @Amelgar93 @HaizelMcCarthy7 mmm si ponen en youtube "El IV Nivel honduras" encontrarian unos cuantos. Si se quieren reir pongan
+luisffaraj: @PochoLavezzi Pocho! Sos un fenomeno, te mando un abrazo desde honduras.
 
-Tweets más representativos del cluster 20
-['$MENTION$ $MENTION$ Diga more' '$MENTION$ Balas- $MENTION$'
- '$MENTION$ $MENTION$ Alfredo' '$MENTION$ $MENTION$'
- '$MENTION$ $MENTION$ $MENTION$ adivinen quien es'
- '$MENTION$ $MENTION$ MELOMANOS'
- '$MENTION$ $MENTION$ $MENTION$ 8 arranca no?'
- '$MENTION$ $MENTION$ Retratado' '$MENTION$ $MENTION$ CLASE'
- '$MENTION$ $MENTION$ $MENTION$ Yo NUNCA di spoilers de LCDP'] 
+[Tweets más representativos del cluster 19]
+TommyZambranoM: Líderes nacionalistas: “En vaca” siempre los vamos a derrotar -con @JuanOrlandoH Diario La Tribuna Honduras http://www.latribuna.hn/2017/05/22/lideres-nacionalistas-vaca-siempre-los-derrotar/
+luisffaraj: Honduras se desangra
+TommyZambranoM: Tomás Zambrano: “Diputados pretenden boicotear Alianza | Diario La Tribuna Honduras http://www.latribuna.hn/2015/02/08/tomas-zambrano-diputados-pretenden-boicotear-alianza-para-la-prosperidad/
+TommyZambranoM: Honduras: Piden derogar artículo que penaliza hablar de reelección - Diario El Heraldo Honduras http://www.elheraldo.hn/pais/774975-331/honduras-piden-derogar-art%C3%ADculo-que-penaliza-hablar-de-reelecci%C3%B3n
+luisffaraj: @marcaHONDURAS Dijo “Honduras”, no a los corruptos que la gobiernan y la tienen jodida.
+luisffaraj: ¡HONDURAS ES FINALISTA! ¡¡VAMOS CARAJO!!
+luisffaraj: Orgulloso de la selección Sub-23 de Honduras. Gracias muchachos.
+luisffaraj: Hoy es dia cero, VAMOS HONDURAS!
+luisffaraj: GRACIAS HEREDIANO: Honduras sonríe
+luisffaraj: Honduras-USA este martes 18... Con todo
+luisffaraj: Despertate Honduras. HOY PUEDE SER EL DÍA MÁS GRANDE EN LA HISTORIA DE NUESTRA NACIÓN.
+luisffaraj: CONFIRMEEEEEEEEEEEEEEEE « JenSelter: Honduras -> Miami -> Mexico City -> LA -> Greece ✈️  summer 17 😃 — https://twitter.com/jenselter/status/885544879148978176 »
+TommyZambranoM: @titoasfura el hombre que Honduras necesita « titoasfura: "Yo les digo a todos los hondureños y a los candidatos presidenciales, que este 28 de noviembre hay que esperar con paciencia, tranquilidad y sosiego los resultados a nivel nacional; que las empresas que el CNE ha contratado para este proceso hagan bien su debido trabajo". https://twitter.com/titoasfura/status/1463175499090440208/photo/1 — https://twitter.com/titoasfura/status/1463175499090440208 »
+TommyZambranoM: Congreso Nacional aprueba la nueva Ley Orgániza de la Policía Nacional - Diario La Tribuna Honduras http://www.latribuna.hn/2017/05/30/congreso-nacional-aprueba-la-nueva-ley-organiza-la-policia-nacional/
+TommyZambranoM: Sabias que? En el sur de Honduras se producen mas de 30 millónes de libras anuales de camarón @SanLorenzovalle https://twitter.com/ExploraHonduras/status/504101560805507073/photo/1”
+TommyZambranoM: Reelección en Honduras: Corte Suprema de Justicia aprueba fallo favorable - Diario La Prensa http://www.laprensa.hn/honduras/833657-417/reelecci%C3%B3n-en-honduras-corte-suprema-de-justicia-aprueba-fallo-favorable
+luisffaraj: Por una nueva Honduras
+luisffaraj: Espero algún día conocerlo @JuanLuisGuerra sería el honor más grande. Saludos desde Honduras
+RoySantosC: Estamos unidos por Honduras! https://twitter.com/RoySantosC/status/1217521351436775424/photo/1
+luisffaraj: Honduras es mi primer novia
 
-Tweets más representativos del cluster 21
-['$MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ viernes Wings J!'
- '$MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ sab Wings2'
- "$MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ sábado Friday's Galerias"
- '$MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ viernes 2bar'
- "$MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ friday's galerias viernes, sabado privado"
- '$MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ juev Valleys'
- '$MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ Carlos'
- 'Feliz viernes $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$'
- "$MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ viernes Friday's Fuente"
- '$MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ $MENTION$ juev Wings'] 
+[Tweets más representativos del cluster 20]
+luisffaraj: Poco sirve seguirnos descargando por redes sociales. La indignación nacional es evidente, nos toca salir a las calles. Nos toca defender lo poco que queda de Honduras: EL CORAZÓN DEL PUEBLO TODAVÍA LATE.... ¡Y FUERTE!VAMOS HONDURAS
+RoySantosC: Dios está haciendo cosas en Honduras que se requiere del discernimiento correcto para verlas. https://twitter.com/RoySantosC/status/1232468583155765248/photo/1
+luisffaraj: Allí estuviera en Honduras DE FRENTE a una cúpula militar o policial parado frente a todos. Yo NO me le cago a la fama, especialmente después que en mi CARA me están robando mi país.Que impotencia. Que ardor en el alma.
+RoySantosC: Los CAMBIOS que requiere un país como Honduras, son los que desarrollen ayudando al bien común; y no aquellos cambios que dividen y polarizan la sociedad, mucho menos aquellos que quiebran el orden constitucional.
+TommyZambranoM: Hoy celebramos los 224 años de la Etnia garífuna en nuestra nación; gente hermosa,llenos de fuerza y valentía,gracias por su aporte tan valioso a nuestra nación a través de su cultura,ciencia y deporte,El Dios del cielo les bendiga y sean sus generaciones benditas en Honduras.
+luisffaraj: Mi meta y mision es que mi banda sea recordad y escuchada atravez del tiempo en Honduras. Poder inspirar a los demas.. como ponerle precio?
+luisffaraj: Ok, aquí va la pista, concierto por Haití — ¿Aja? ¿Sos de Tegus? ¿De aquí? http://ask.fm/a/af1qe9he
+TommyZambranoM: Felicidades a todos los periodistas que informan con responsabilidad y construyen una nueva Honduras
+luisffaraj: ¿Qué tal el vomitivo lenguaje inclusivo ingresando a Honduras por vías del estatismo? https://twitter.com/luisffaraj/status/1491893380443422722/video/1
+luisffaraj: ¿Cuánto vale la vida en Honduras? 25 lempiras. Eso cuesta un proyectil.
+luisffaraj: ¿Es porque vivo lejos de Honduras o en realidad han parado ésas masacres y sicariatos?
+luisffaraj: En Honduras, los gobiernos de turno pelean por el primer lugar histórico en mezquindad. Libre entró a competir desde el 27 de Enero, postulándose como serio candidato a lo más bajo que ha gestionado al paísAdviértanle al Partido Nacional que peligra su primer puesto. Gracias
+luisffaraj: Se pudo haber evitado éste caos si Honduras no fuera un país con autoridades totalitarias que se burlan y escupen en la cara a su pueblo.Vea su Mona Lisa, Da Vinci. Disfruten lo que han creado, políticos corruptos.
+RoySantosC: En Honduras hay varios tipos personas: Las que creen que la anarquía es el camino para alcanzar su ambiciones. Las que se aprovecharon del poder y  creen que se quedarán impunes. Los que callan por temor y se acomodan. Los que toman su fe en Dios y no se dejan quitar su heredad.
+TommyZambranoM: Después de ver el triste espectáculo en los desfiles patrios por parte del gobierno de Libre que atentan contra los valores patrióticos ,los valores de la familia y los valores cristianos, hoy podemos decir Papi a la Orden Honduras 🇭🇳 te necesita y La ciudad Capital te Extraña. https://twitter.com/TommyZambranoM/status/1570506798922366979/photo/1
+RoySantosC: Hay un aceleramiento espiritual en Honduras, que no nos extrañe que la respuesta sobre la vacunas vendrá como un derepente que después será testimonio entre las naciones
+TommyZambranoM: reflexionar y pensar cuál es el nivel de riesgo para la vida de los Honduras del impacto de esta inseguridad en la gente mas pobre del pais
+TommyZambranoM: Grupo de Oración Legislativa del @Congreso_HND pidiendo por la Vida, La Familia y el Matrimonio en nuestra querida Honduras. https://twitter.com/tommydiputado/status/1057655208858279936/photo/1
+RoySantosC: Gobierno de Honduras no sigan provocando a Dios a más juicios, porque ya suficiente con lo que ha pasado en estos meses con tantos desastres en la capital y el país. Dejen de insistir con su necedad en temas anti-Dios que la gran mayoría no acepta. https://twitter.com/RoySantosC/status/1575249351353503755/photo/1
+RoySantosC: Hay sucesos en Honduras que son una ofensa ridícula a la inteligencia, provocados por algunos que intentan pisotear la dignidad de ciudadanos probos, con la complicidad de aquellos que manipulan la ley, en vez de aplicarla - como el personaje del aeropuerto con los 18 mil razones
 
-Tweets más representativos del cluster 22
-['El Departamento de Valle celebra los primeros 3 años de gobierno de $MENTION$ con alegría y agradecimiento por todo el apoyo al Sur.'
- 'Supervisando el proyecto de pavimentación en el sector del Cubulero Alianza, los cambios continúan en Valle gracias a $MENTION$.'
- 'Si piensan venir a Estados Unidos y hacer vida no lo haga en un estado demócrata. La izquierda pudre todo lo que toca. « choeshow: HAPPENING NOW: Just hours after a shooting on 3rd Ave in Downtown Seattle, the insanity has returned. This is the stretch between Pike/Pine St. Open air drug use, sales of all kinds of merch, trash everywhere. How is this allowed? $MENTION$ $MENTION$ $MENTION$ — »'
- 'Publicado el Decreto no. 96-2018 que se traspasa un terreno de 34.92 hectáreas en San Lorenzo, Valle a favor de la $MENTION$ para que funcione la Escuela Universitaria de Ciencias Marinas y Portuarias, seguimos legislando con apoyo de $MENTION$ en favor de la educación.'
- '"$MENTION$: Ya van a salir varios sabios a dolerse y a citar a Hugo Chavez" muchos "maduros" pendejos diría yo....'
- 'Iniciando proyecto de Pavimentación en el casco urbano del municipio de Alianza, Valle, $MENTION$ Continua con la Hora del Sur.'
- 'Inauguración del proyecto de pavimentación en el centro del municipio de Aramecina, $MENTION$ sigue desarrollando nuestro departamento.'
- '$MENTION$ eso es un compromiso fortalecer la Pn, certificandola, dándole incentivos, depurandola, para que el pueblo retome la confianza'
- 'Visitamos el Barrio Alto Verde de San Lorenzo para hacer entrega de una vivienda Digna a Marlon Funez y su familia en nombre de $MENTION$ y $MENTION$ , nuestra mayor motivación es seguir sirviéndole a la gente mas humilde de Valle,el trabajo y las respuestas no se detiene.'
- '$MENTION$ entrega cancha multiusos alumbrada a los jóvenes y niños del barrio las brisas en Nacaome, Valle, fortaleciendo el Deporte.'] 
+[Tweets más representativos del cluster 21]
+luisffaraj: @Faitelson_ESPN que ridículo. Otro destello de tu ridiculez. DE ESO se trata de respetar a tu rival: Metele 8 si podés. -Pep Guardiola
+TommyZambranoM: “@americahn: Min. 11 Gooooooool Müeller desde el manchón de penal anota el primer gol alemán!!!!!!”
+luisffaraj: @MahFooD_86 Delicioso Miami
+luisffaraj: @flores_lanza Recuerde que estoy en Miami, aquí son ‘buenas noches’.
+luisffaraj: @crisrdz7 Avísame cuando caigas a Miami.
+luisffaraj: @FRishmawy Creo que si entendió... y seguramente le dolió hacerlo pero tuvo que hacerlo y correctamente. Messi gana millones en su trabajo, ese arbitro no se puede dar el lujo de descuidar su trabajo.
+luisffaraj: @Elival_96 @shadiasaba Deja que ponga pie en Miami... no vuelve
+luisffaraj: @fylobass jajaja aqui esta fresco loco. Rico. Alla infierno fiiiijo
+luisffaraj: @jj_villeda Ahora es que condicionan la decisión del árbitro basado en ‘si hubiese sido al revés no lo pitan’¿Qué tan enferma puede estar ésta rivalidad?
+luisffaraj: @alanmartie @JoseSanchez20 mandenme saldo estoy en Miami wtf aqui no hay claro y estoy con roaming
+luisffaraj: @relymp Igual mi estimado. Espero tenerte en Miami un día, para servirte.
+luisffaraj: @Luciaguevara20 @titatorres29 Si aparece en Miami, no le daremos de otra. (A intentarlo)
+luisffaraj: @NattyPaz Por Dios, que horrible... una vida hedonista.
+luisffaraj: @jose92pj Renuncia. Venite a Miami, yo te cuido.
+luisffaraj: @rnsevilla1 Vivo bien rico en Miami
+luisffaraj: "@david_bebo: ¡La primera vez que vi a @manaoficial en el 2007! https://twitter.com/david_bebo/status/309700195506081793/photo/1" Miami?
+luisffaraj: @sirAldoEnrico me imaginé!! Q rico entrenar asi :)
+luisffaraj: @thesouth_gal Aquí en Miami otra vez al cine.
+luisffaraj: @p10villar @LuisFajardoHN Don Pepe,Acertado totalmente. Aquí depende del Estado donde crían al jugador. No se les trabaja adecuadamente desde pequeños y llegan con carencias ya mayores. Ahorita que cambiaron el sistema aquí esperemos una buena generación de aquí a 5-10 años; los ponen a tomar decisiones
+luisffaraj: @LipstickFables cuando vaya a Miami vamos a grabar
 
-Tweets más representativos del cluster 23
-['“$MENTION$: Presidente del Congreso Nacional, Mauricio Oliva, dijo que "es injusto" que EE.UU. no permita repotenciar F5.”'
- '“$MENTION$: Socializan Ley de Control de Armas con cúpula policial ”'
- 'Ignauracion del Proyecto de Electrificación en el Guanacastal $MENTION$ gestión y apoyo de $MENTION$'
- '“$MENTION$: Juan Orlando felicita al presidente colombiano por su segundo triunfo: ”'
- '“$MENTION$: Pdte. Hernández: Solicitamos apoyo a especialistas de la mina El Mochito, Sta Bárbara, helicópteros de FAH harán el traslado.”'
- '“$MENTION$: Ministerio Público presenta requerimientos fiscales en contra de accionistas de minas ilegales'
- 'O podemos ser congruentes y regresar al Estado de Derecho como prioridad « PartidoLibre: "Debemos retornar al municipalismo, para hacer crecer el poder local, la suma del poder local es el poder nacional" CG $MENTION$ — »'
- '“$MENTION$: Presidente con Héctor Ordóñez sobre el planteamiento al gobierno de USA de parte de los países CA ”'
- '“$MENTION$: Pdte Hernández aseguró que la Policía Militar y Policía Nacional llegaron para quedarse en Chamelecón. ”'
- '“$MENTION$: El 5 de agosto comparecerá ante el Congreso Nacional, el ministro de Seguridad, anuncia el presidente del legislativo.”'] 
+[Tweets más representativos del cluster 22]
+luisffaraj: A dormir porque me siento MUY mal de salud.
+luisffaraj: Y antes de dormir... Una ensaladita!
+luisffaraj: A dormir porque Dios está en control
+luisffaraj: A dormir. Cuando NO se puede, NO se puede. Deja de intentar. Don't push it. No sirve nada a la fuerza.
+luisffaraj: http://www.youtube.com/watch?v=y281553XUAA escuchenla antes de dormir.
+luisffaraj: Después de un finde de dormir 8 horas en dos días me despierto ahorita de la nada?! Noooo!!
+luisffaraj: NECESITO dormir con alguien. No puedo dormir solo éstos días :(
+luisffaraj: Pocas cosas mejores que dormir con ochenta almohadas.
+luisffaraj: Lo más prudente es dormir.
+luisffaraj: A dormir gente. Al que madruga...
+luisffaraj: @RamsesBarientos A dormir entonces, un abrazo loco. Que estés bien y que Paolo siga creciendo. Mira la foto para dormir https://twitter.com/ffaraj/status/291100663381901313/photo/1
+luisffaraj: A dormir como OSO POLAR.
+luisffaraj: A dormir con sentimientos encontrados.
+luisffaraj: Ocupo dormir como bastante.
+luisffaraj: A dormir. Qué rico.
+luisffaraj: Trate de dormirme. Una hora y pico y nada. Que horrible
+luisffaraj: A dormir. En paz.
+luisffaraj: Fallido intento de dormir
+luisffaraj: Oficialmente mas de 24 sin dormir.
+luisffaraj: No puedo dormir. Mi insomnio tiene nombre: @realmadrid  ¡VAMOS CARAJO!
 
-Tweets más representativos del cluster 24
-['“$MENTION$: ¡ LEYENDAS ! ”' '$MENTION$ ¡Totalmente Catherine!'
- '$MENTION$ ¡Gracias!' '¡Gracias por el gesto bonito! $MENTION$'
- '$MENTION$ ¡Gracias!' '$MENTION$ ¡Gracias!'
- '$MENTION$ Tildé una monosílaba, muy mal. ¡Gracias!'
- '$MENTION$ ¡Guapísima! Necesito hablar con vos.' '$MENTION$ ¡Gracias!'
- '$MENTION$ ¡Gracias!'] 
+[Tweets más representativos del cluster 23]
+luisffaraj: @_28Liz @NattyPaz Diga more
+luisffaraj: @AuraCorpse Balas- @Calle13Oficial
+luisffaraj: @ericzelaya11 @Gabbi_Diaz Alfredo
+luisffaraj: @SoyAyF @MichelletiDice http://www.laprensa.hn/vivir/383600-97/grupo-musical-el-iv-nivel-lucha-por-ser-el-mejor
+luisffaraj: @atr_ahre @snapplebreaker @bizarreblurt adivinen quien es
+luisffaraj: @alanmartie @Hanariba MELOMANOS
+luisffaraj: @gabogiron1987 @canal11hn @makawas 8 arranca no?
+luisffaraj: @BryanAlbarino @JonathanMurciaD Retratado
+luisffaraj: @ESPN_FDJ @acmilan CLASE
+luisffaraj: @RamsesBarientos @LuisFajardoHN @MarioJrHn Yo NUNCA di spoilers de LCDP
+luisffaraj: @IngrahamAngle @BelkisLopez01 🤩
+luisffaraj: @jose92pj @arpaz23 Agarrate zorra
+luisffaraj: @god_x23 @Amlm_03 capo Max
+luisffaraj: @JoseSanchez20 @jonsnoe @FernandoAndree8 Buffon maje
+luisffaraj: @julioalejandros INFORME
+luisffaraj: @ElDuoLosTresHN @carlosdrum @Nilohn mis  bebes
+luisffaraj: @elonmusk Mention Doge
+luisffaraj: Interesante José Abraham « snapplebreaker: @jose92pj @julioalejandros https://www.elfster.com/ @ffaraj — https://twitter.com/snapplebreaker/status/938132313430462465 »
+luisffaraj: @notibomba @JoseSanchez20
+luisffaraj: @GerFleitas_ @PabloSobrado7 Héroe
 
-Tweets más representativos del cluster 25
-['PENAL TODA LA VIDA. El mejor del mundo NO FALLA penales.'
- 'PENAL DE AQUI A LA CHINA'
- 'Maje voy a exámen de Penal 2... Vienen concursos. $MENTION$'
- 'Penal de aquí a la China.'
- 'Comienzan a pedir penales. Qué PERRA desesperación de equipo chico.'
- 'Cardozo tampoco falla penales.' 'Dos penales claros'
- 'JAJAJA DE DONDE HAY PENAL??????????????????????????'
- 'Penal de aquí a Taiwán.' 'No JOODAN con sus penales, FIFA diarrea.'] 
+[Tweets más representativos del cluster 24]
+luisffaraj: OTRA ROJA JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJA
+luisffaraj: "Humildat" y "valors" jajajajajajajajajajajajjaaja JAJAJAJAJAJAJAJAJAJAJA
+luisffaraj: YAYA ENORME JAJAJAJ
+luisffaraj: SIETE JAJAJAJAJAJAJAJA SEVEN!!!! JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJA
+luisffaraj: JAJAJAJAJA AMO A NASRALLAAAAA LO AMO JAJAJAJAJAJ
+luisffaraj: JAJAJAJAJAJAJAJAJJAJAJAJAJAJAAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJJAJAJAJAJAJAJAJAJAJAJAJAJA!!! https://twitter.com/ffaraj/status/333309880314241025/photo/1
+luisffaraj: JAJAJAJAJAJA https://twitter.com/ffaraj/status/325688065534345218/photo/1
+luisffaraj: AYYY DOLOR ME VOLVISTE A DAR! JAJAJAJA
+luisffaraj: Óiganlas JAJAJAJAJAJAJA https://twitter.com/dieand1986/status/880847900972077056
+luisffaraj: JAJAJAJAJAJAJAJA https://twitter.com/ffaraj/status/193807147551821824/photo/1
+luisffaraj: LA CARA DE OBAMA JAJAJAJAJAJAJAJ
+luisffaraj: JAJAJAJAJAJAJA https://twitter.com/ffaraj/status/311619678265040896/photo/1
+luisffaraj: JAJAJAJAJAJA PIQUÉ
+luisffaraj: Increible jajajajajajaajajajjaajaj https://twitter.com/ffaraj/status/197581063705468928/photo/1
+luisffaraj: JAJAJAJAJAJAJAJAJAJAJAJAJAJA https://twitter.com/ffaraj/status/289859591389466625/photo/1
+luisffaraj: JAJAJAJAJAJA PAREN YA https://twitter.com/ffaraj/status/996498454003306496/photo/1
+luisffaraj: JAJAAJJJAA https://twitter.com/ffaraj/status/334189599586930690/photo/1
+luisffaraj: JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAA "NO TE VAYAS VALDES"
+luisffaraj: JAJAJAJAJ AY KEKOS JAJAJAJAJAJA
+luisffaraj: Uyyy pique jajajajajajajajjaj
 
-Tweets más representativos del cluster 26
-['Apago el televisor. No puedo más- Madita sea.'
- 'Televicentro pasó ayer una película porno a las 4pm.'
- 'SAN PEDRO SULA ES AURINEGROOOOOOOOOOOOOOOO! NI EN PITIPAR NOS GANAN!!!'
- 'Quién es ése torpe que tiene Canal 11 en la cancha? Qué IGNORANTE, wow. Cualquier PAPO sale en televisión ahora.'
- 'Es más interesante ver Telefantasías que ésta POTRA'
- 'Chile tiene un equipazo. De los mejores del mundo.'
- 'Me urge cambiar de teléfono.' '¡SAN PEDRO SULA ES AURINEGRO!'
- 'San Pedro Sula es aurinegro y punto.'
- '¡SAN PEDRO SULA ES AURINEGRO! ¡Éste año somos campeones!'] 
+[Tweets más representativos del cluster 25]
+luisffaraj: @negritoanton @angelfernando82 @kevinvertigo @dagofullguitar @pulsar_rock @LosCheles @Krisis_Band @delirium_rock @Warockshn viernes Wings J!
+luisffaraj: @negritoanton @fajardo_henry @ATK105 @HugoRock77 @RamsesBarientos @david_bebo @god_x23 @Jerryscava80s @fylobass @CunadosdeTodos sab Wings2
+luisffaraj: @negritoanton @angelfernando82 @kevinvertigo @Animahonduras @guillermoandrsn @JACO2013 @Jerryscava80s sábado Friday's Galerias
+luisffaraj: @negritoanton @HugoRock77 @isaacPenfer @juniorur @Jerryscava80s @Krisis_Band @kevinvertigo @__GIBS__ @MoeOryan @naldocervantes viernes 2bar
+luisffaraj: @TokedeKedasps @negritoanton @__gibs__ @unionrockhn @zerostresshn @kevinvertigo @jerryscava80s friday's galerias viernes, sabado privado
+luisffaraj: @negritoanton @fajardo_henry @ATK105 @HugoRock77 @RamsesBarientos @david_bebo @god_x23 @Jerryscava80s @fylobass @CunadosdeTodos juev Valleys
+luisffaraj: @jj_villeda @FRishmawy @yanuariopaz @jeffSMolinari @DiogenesAcosta @homer_faraj Carlos
+luisffaraj: Feliz viernes @RamsesBarientos @gapb_7 @angelfernando82 @TavoGodZend @__GIBS__ @alanmartie @Hanariba @jorgetorreslive https://twitter.com/ffaraj/status/365788363124535296/photo/1
+luisffaraj: @negritoanton @angelfernando82 @kevinvertigo @LosCheles @Animahonduras @HugoRock77 @musicindustryH @sivarmusic viernes Friday's Fuente
+luisffaraj: @negritoanton @HugoRock77 @Krisis_Band @MoeOryan @delirium_rock @angelfernando82 @god_x23 @RamsesBarientos @ATK105 @adriansigfred juev Wings
+luisffaraj: @negritoanton @PopoHn75 @ATK105 @angelfernando82 @AuraCorpse @AlternaHn @juanvigu11 @naldocervantes @ValleysBBQ_HN @Krisis_Band juev Wings2
+luisffaraj: @angelfernando82 @johnnybegoodhn @negritoanton @warockshn @kevinvertigo @zerostresshn viernes Pockets sabado Friday's galerias
+luisffaraj: @negritoanton @angelfernando82 @__GIBS__ @god_x23 @gblair83 @JACO2013 @UnionRockHn @Warockshn @jorgetorreslive viernes Valley's. Sab JardinC
+luisffaraj: @GabyFloresO_O @adriansigfred @Guayocaster @musicindustryH @musicatracha @Gaby_Cox @LiamMusica @CarmenBoquin @fervarelahn gabo guzman?
+luisffaraj: @mcuhollnd @ChrisEvans @julioalejandros @arpaz23 @jose92pj @JoseSanchez20 ayudenme
+luisffaraj: @negritoanton @EduardoUZ @fajardo_henry @Fyloband @fylobass @warocks_fanclub @__GIBS__ @god_x23 @FuadHK @Tatovides viernes Fridays circun
+luisffaraj: @DiBrasco @ExorHN @NonoElBohemio @TavoVallecillo @jcpinpro @JMiguelPortillo @Chaveztoon @AllanV_ @carloszunigahn_ @Jampedrano504 @Aprilis @sourireestbeau @AndyBorjas @CamilleOrtez @abelardovrc @RamsesBarientos @delayeezy @josejd @JCLAROS_ ❤️❤️❤️❤️
+luisffaraj: @negritoanton @angelfernando82 @god_x23 @juniorur @kevinvertigo @Animahonduras 14 en club arabe, 15 en chicago, sabado 16 fridays galerias
+luisffaraj: @allanfajardo29 @DiogenesAcosta @HgarciaTV @homer_faraj @cristobalsoria @JuanKinka @FRishmawy @kameloki Uffff que 11.
+luisffaraj: @negritoanton @AngelaBendeck @angelfernando82 @kevinvertigo @__GIBS__  @god_x23 @johnnybegoodhn viernes apertura Premios Extra en Tegus :)
 
-Tweets más representativos del cluster 27
-['$MENTION$ $MENTION$ Take me back! Take me back again!!'
- '$MENTION$ maje es una hegemonía terrible'
- '$MENTION$ $MENTION$ MYYYYY KNUCKLES HAVE TURNED TO WHITE!!'
- '$MENTION$ me lleva p....' '$MENTION$ am not!'
- "$MENTION$ Porque he's a faggot oversinger"
- "$MENTION$ He's by far, my fav character."
- '$MENTION$ Pour some sugar// Deff Leppard'
- '$MENTION$ Please fire McGuire' '$MENTION$ Es algo terrible'] 
+[Tweets más representativos del cluster 26]
+TommyZambranoM: El Departamento de Valle celebra los primeros 3 años de gobierno de @JuanOrlandoH con alegría y agradecimiento por todo el apoyo al Sur. https://twitter.com/tommydiputado/status/825062092772409344/photo/1
+TommyZambranoM: Supervisando el proyecto de pavimentación en el sector del Cubulero Alianza, los cambios continúan en Valle gracias a @JuanOrlandoH. https://twitter.com/tommydiputado/status/820041366088646658/photo/1
+luisffaraj: Si piensan venir a Estados Unidos y hacer vida no lo haga en un estado demócrata. La izquierda pudre todo lo que toca. « choeshow: HAPPENING NOW: Just hours after a shooting on 3rd Ave in Downtown Seattle, the insanity has returned. This is the stretch between Pike/Pine St. Open air drug use, sales of all kinds of merch, trash everywhere. How is this allowed?@MayorofSeattle @downtownseattle @SeattlePD https://twitter.com/choeshow/status/1498123308516052995/video/1 — https://twitter.com/choeshow/status/1498123308516052995 »
+TommyZambranoM: Publicado el Decreto no. 96-2018 que se traspasa un terreno de 34.92 hectáreas en San Lorenzo, Valle a favor de la @UNAHoficial para que funcione la Escuela Universitaria de Ciencias Marinas y Portuarias, seguimos legislando con apoyo de @JuanOrlandoH en favor de la educación. https://twitter.com/tommydiputado/status/1101123809548087296/photo/1
+luisffaraj: "@JoseSanchez20: Ya van a salir varios sabios a dolerse y a citar a Hugo Chavez" muchos "maduros" pendejos diría yo....
+TommyZambranoM: Iniciando proyecto de Pavimentación en el casco urbano del municipio de Alianza, Valle, @JuanOrlandoH Continua con la Hora del Sur. https://twitter.com/tommydiputado/status/879752758387249153/photo/1
+TommyZambranoM: Inauguración del proyecto de pavimentación en el centro del municipio de Aramecina, @JuanOrlandoH sigue desarrollando nuestro departamento. https://twitter.com/tommydiputado/status/820637935611576320/photo/1
+TommyZambranoM: @saraiespinal eso es un compromiso fortalecer la Pn, certificandola, dándole incentivos, depurandola, para que el pueblo retome la confianza
+TommyZambranoM: Visitamos el Barrio Alto Verde de San Lorenzo para hacer entrega de una vivienda Digna a Marlon Funez y su familia en nombre de @JuanOrlandoH y @VidaMejorHN , nuestra mayor motivación es seguir sirviéndole a la gente mas humilde de Valle,el trabajo y las respuestas no se detiene. https://twitter.com/tommydiputado/status/1137125695287701504/photo/1
+TommyZambranoM: @JuanOrlandoH entrega cancha multiusos alumbrada a los jóvenes y niños del barrio las brisas en Nacaome, Valle, fortaleciendo el Deporte. https://twitter.com/tommydiputado/status/821389379147071488/photo/1
+TommyZambranoM: Iniciamos el proyecto de remodelación del parque central de Aramecina, Valle, sigue cumpliendo @JuanOrlandoH con sus promesas al Sur. https://twitter.com/tommydiputado/status/892517845560684544/photo/1
+luisffaraj: @SalamancaT24 Freedom of speech. La ley te permite lo que naturalmente tenes si no existiera el Estado: Libertad.No pueden decirte que profesar y que no profesar. Lo que yo hice es estudiar apologética cristiana y así desmantelar esas posiciones y argumentos para abrir sus ojos.
+TommyZambranoM: @WashoEscoto los cambios en el sistema educativo se deben gracias a @JuanOrlandoH por la decisiones trascendentales que tomó desde el CN
+TommyZambranoM: Hoy celebramos la Navidad en almuerzo con nuestros amigos del @PNH_oficial de mi querido Goascorán y celebramos la victoria de nuestro alcalde Gaspar PazMi compromiso es con ustedes, seguir trabajando por todos los que han confiado en mí en cada elección del depto de Valle https://twitter.com/TommyZambranoM/status/1472356947215196164/photo/1
+TommyZambranoM: @olimpisima la felicito sí ha venido a valle a darle respuesta a la gente nuestra , la motivamos para que lo siga haciendo
+TommyZambranoM: Mi más sentido pésame por la pérdida de su padre @rafaelcallejas un hombre que trabajo mucho por el bienestar de nuestro depto de Valle
+luisffaraj: @amdesjardines Ésa basura de joh que en la CARA del pueblo TRAICIONÓ a su propia constitución apoyás? Vaya amor a la patria el que tenes.
+TommyZambranoM: Aniversario del funcionamiento del centro de salud de amapala valle con la primera dama @anagarciacarias
+TommyZambranoM: @Abriendo_Brecha la iniciativa la presentaron todos los diputados de todos los partidos de valle y choluteca
+TommyZambranoM: En nombre del presidente @JuanOrlandoH entregamos a familias de la aldea de San Jerónimo, Barrio Gracias a Dios, El  Chaparral , 17 de Septiembre, Ismael Acosta, La Cuesta y  Barrio La Ceibita de San Lorenzo el KIT DE AYUDA HUMANITARIA a través del programa NO ESTÁN SOLOS. https://twitter.com/TommyZambranoM/status/1406624786206367754/photo/1
 
-Tweets más representativos del cluster 28
-['"$MENTION$: $MENTION$ ok"//"apasionar" bebé. Haga énfasis.'
- '$MENTION$ $MENTION$ YES!!' '$MENTION$ $MENTION$ yo no! :)'
- '$MENTION$ $MENTION$ Mmm no fui tan fan'
- '$MENTION$ $MENTION$ NOOOOOOOOOOOOOOOOOOO'
- '"$MENTION$: $MENTION$ bro escucha esta rola..barry white-never gonna give You up"// uffff uffff!!'
- '$MENTION$ $MENTION$ $MENTION$ Ok'
- '$MENTION$ $MENTION$ Golden Retrievers'
- '$MENTION$ $MENTION$ Revisa Snapchat'
- '$MENTION$ $MENTION$ You are an imbecile. The context you moron.'] 
+[Tweets más representativos del cluster 27]
+TommyZambranoM: “@Abriendo_Brecha: Presidente del Congreso Nacional, Mauricio Oliva, dijo que "es injusto" que EE.UU. no permita repotenciar F5.”
+TommyZambranoM: “@hondudiario: Socializan Ley de Control de Armas con cúpula policial http://tinyurl.com/qgzby4u”
+TommyZambranoM: Ignauracion del Proyecto de Electrificación en el Guanacastal @SanLorenzovalle gestión y apoyo de @JuanOrlandoH https://twitter.com/tommydiputado/status/574010229009989632/photo/1
+TommyZambranoM: “@DiarioTiempo: Juan Orlando felicita al presidente colombiano por su segundo triunfo: http://goo.gl/A9y9RY https://twitter.com/DiarioTiempo/status/478555066924675073/photo/1”
+TommyZambranoM: “@hoy_mismo: Pdte. Hernández: Solicitamos apoyo a especialistas de la mina El Mochito, Sta Bárbara, helicópteros de FAH harán el traslado.”
+TommyZambranoM: “@radiohrn: Ministerio Público presenta requerimientos fiscales en contra de accionistas de minas ilegales  http://tinyurl.com/kcpqrv5
+luisffaraj: O podemos ser congruentes y regresar al Estado de Derecho como prioridad « PartidoLibre: "Debemos retornar al municipalismo, para hacer crecer el poder local, la suma del poder local es el poder nacional" CG @manuelzr https://twitter.com/PartidoLibre/status/1491901573093543941/video/1 — https://twitter.com/partidolibre/status/1491901573093543941 »
+TommyZambranoM: “@HildaHernandezA: Presidente con Héctor Ordóñez sobre el planteamiento al gobierno de USA de parte de los países CA https://twitter.com/HildaHernandezA/status/492278517531701248/photo/1”
+TommyZambranoM: “@hoy_mismo: Pdte Hernández aseguró que la Policía Militar y Policía Nacional llegaron para quedarse en Chamelecón. https://twitter.com/hoy_mismo/status/494959378252840960/photo/1”
+TommyZambranoM: “@americahn: El 5 de agosto comparecerá ante el Congreso Nacional, el ministro de Seguridad, anuncia el presidente del legislativo.”
+TommyZambranoM: “@Abriendo_Brecha: Unos 300 millones de dólares se invertirán en la zona sur del país en proyectos de energía solar y eólica.”
+TommyZambranoM: Pedimos a las Bancadas que escuchen al pueblo que pide apoyo para la Policia Militar @JuanOrlandoH @anagarciacarias https://twitter.com/tommydiputado/status/555569339399950336/photo/1
+TommyZambranoM: CN esperará sugerencias de Comisión para incluirlos en la ley policial - @DrMauricioOliva  http://www.elheraldo.hn/pais/953060-466/cn-esperar%C3%A1-sugerencias-de-comisi%C3%B3n-para-incluirlos-en-la-ley-policial
+TommyZambranoM: “@americahn: Las Fuerzas Armadas recomienda que en la nueva ley de armas se deje un margen de 5 armas por persona .”
+TommyZambranoM: “@NotiCortosHN: El Presidente del Congreso Nacional, Mauricio Oliva pide no satanizar el caso de la Diputada Nacionalista Diana Urbina.”
+TommyZambranoM: @Almagro_OEA2015 Y donde esta la independencia y libre determinación de los estados Y el principio de no injerencia, la misión de la Unión Europea que no ocupa votos regionales como ud, afirma que constataron las actas de la alianza y son las mismas de los resultados del TSE.
+TommyZambranoM: Total respaldo a la Policia Militar del Orden Público para que siga llevando seguridad @JuanOrlandoH @HildaHernandezA https://twitter.com/tommydiputado/status/555426532534284288/photo/1
+TommyZambranoM: “@TeleprensaH: Socializan con clubes de tiro, caza y pesca y empresas de seguridad proyecto ley de control de armas http://bit.ly/1l7K78J
+TommyZambranoM: “@radiohrn: Redada de cobradores del Impuesto de Guerra realiza Fuerza Nacional Antiextorsion radiohrn”
+TommyZambranoM: “@JuanOrlandoH: La Policía Militar ya tiene dos mil efectivos listos para darle seguridad a su pueblo. https://twitter.com/JuanOrlandoH/status/464248699640885248/photo/1”
 
-Tweets más representativos del cluster 29
-['$MENTION$ $MENTION$ HAHAHA mira ve'
- '$MENTION$ Rrrrrrola. Bátase el pelo.'
- '"$MENTION$: El aceite de oliva virgen tiene el mismo efecto antiinflamatorio que el ibuprofeno" $MENTION$'
- '$MENTION$ Imborrable' '$MENTION$ $MENTION$ HAHAHAHAHAHA EN CHAMELECON'
- '$MENTION$ compre proteína habbibti'
- '$MENTION$ $MENTION$ HHAHAH $MENTION$'
- '$MENTION$ $MENTION$ defina humildat :)'
- '$MENTION$ $MENTION$ Hahaha alguien quítemele la pacha'
- '$MENTION$ Inolvidable'] 
+[Tweets más representativos del cluster 28]
+TommyZambranoM: “@FutFrases: ¡ LEYENDAS ! https://twitter.com/FutFrases/status/482232213740584960/photo/1”
+luisffaraj: @Cathywanderpool ¡Totalmente Catherine!
+luisffaraj: @Gabbsp94 ¡Gracias!
+luisffaraj: http://www.laprensa.hn/inicio/878341-411/as%C3%AD-eran-de-ni%C3%B1os-los-famosos-hondure%C3%B1os?page=3 ¡Gracias por el gesto bonito! @DiarioLaPrensa
+luisffaraj: @arpaz23 ¡Gracias! https://twitter.com/ffaraj/status/1045198229778964480/photo/1
+luisffaraj: @MontIzaguirre ¡Gracias!
+luisffaraj: @MarchsanzHN Tildé una monosílaba, muy mal. ¡Gracias!
+luisffaraj: @camiquintero17 ¡Guapísima! Necesito hablar con vos.
+luisffaraj: @GisselleAndino ¡Gracias!
+luisffaraj: @moisesdb27 ¡Gracias!
+luisffaraj: @maurivarela87 ¡Gracias!
+luisffaraj: @kagisg ¡Gracias! ¡Me urge una!
+luisffaraj: @Hugo61270Hugo ¡Gracias!
+luisffaraj: @allanfajardo29 ¡Dejaste fuera a Macías!
+luisffaraj: @RauCast ¡Está brutal! Gracias.
+luisffaraj: @alexandraOre18 ¡Gracias!
+luisffaraj: @tragicalwinter ¡Gracias Valería!
+luisffaraj: @ncSuazo ¡Gracias!
+luisffaraj: @EliGuzman_ gracias por eso
+luisffaraj: @GabyFloresO_O gracias Gabby! Que alguien como vos diga eso, vale!
 
-Tweets más representativos del cluster 30
-["El IV Nivel hoy en Chili's 9:00pm"
- 'Sábado 18 de éste mes en JARDINES CAFÉ. EL IV NIVEL trae el primer tributo del 2014 Entrada gratis…'
- "Chilli's mañana! 9:00pm arranca el shoooooooow" 'Hoy en Jardines Cafe!'
- 'donde tocan este viernes y sabado? — JARDINES CAFÉ el viernes Sábado en éste súper evento.'
- '$MENTION$ tributo Mana en Jardines Cafe! 7:00pm entrada gratis'
- 'holaaa! hoy casualmente fui a jardines cafe y te vi con la banda... — Gracias Ale. Ayer si tocamos con TODO mira...'
- 'HOY EN JARDINES CAFÉ 8:00 PM LA ESPERA TERMINÓ CARAJOOOOO'
- 'HOY en Jardines Cafe. Es HOY sabado en JARDINES CAFE MARA, VAMOS CON TODO Y UN POCO MAS-'
- 'Volvemos a Jardines Cafe el 2 de agosto. Yeah baby.'] 
+[Tweets más representativos del cluster 29]
+luisffaraj: PENAL TODA LA VIDA. El mejor del mundo NO FALLA penales.
+luisffaraj: PENAL DE AQUI A LA CHINA
+luisffaraj: Maje voy a exámen de Penal 2... Vienen concursos. @CFdez7
+luisffaraj: Penal de aquí a la China.
+luisffaraj: Comienzan a pedir penales. Qué PERRA desesperación de equipo chico.
+luisffaraj: Cardozo tampoco falla penales.
+luisffaraj: Dos penales claros
+luisffaraj: JAJAJA DE DONDE HAY PENAL??????????????????????????
+luisffaraj: Penal de aquí a Taiwán.
+luisffaraj: No JOODAN con sus penales, FIFA diarrea.
+luisffaraj: "Falta" inexistente fuera del área, pita penal y LO EXPULSA. ÁRBITRO MIERDA.
+luisffaraj: PENAL DE AQUI A LA CHINA NO JODANNNN
+luisffaraj: Hay cosas injustas en ésta vida y después los penales. Eso no define a un equipo. Sólo el trofeo.
+luisffaraj: Nunca es penal
+luisffaraj: Penal de aquí a la China
+luisffaraj: Penales no. Que golee la suciedad ahorita....
+luisffaraj: @LetyGuerrero714 yo estaba ahogado de la risa. Le dí mute a mi micrófono.
+luisffaraj: @ajbc31 @allanfajardo29 Tengo dos tablets, 1 Galaxy y 1 Iphone: ¿Cuál recomendada que sustrae más caca?
+luisffaraj: Se vuelve a manchar el deporte con ése invento de penal.
+luisffaraj: PENAL DE AQUÍ A LA CHINA
 
-Tweets más representativos del cluster 31
-['$MENTION$ Peor Higuain' '$MENTION$ Igualmente Javi, que Dios t bendiga.'
- 'Gracias $MENTION$ por las primeras 50 casas entregadas en $MENTION$ llego la hora del sur.'
- '$MENTION$ YO te AMO con mi vida entera.'
- '$MENTION$ Creéme que igual yo pero CUANDO VENIS'
- '$MENTION$ Dios te bendiga mi rey y ese corazón enorme que tenes. Un abrazo, ¡Felicidades toro!'
- '$MENTION$ que Dios las bendiga por igual :)'
- '$MENTION$ Que encule igual que roca'
- '$MENTION$ igual bendiciones y te invitamos que visites el sur encantado de nuestro País .'
- '$MENTION$ perfecto. Vienen a sol por igual?'] 
+[Tweets más representativos del cluster 30]
+luisffaraj: Apago el televisor. No puedo más-Madita sea.
+luisffaraj: Televicentro pasó ayer una película porno a las 4pm.
+luisffaraj: SAN PEDRO SULA ES AURINEGROOOOOOOOOOOOOOOO! NI EN PITIPAR NOS GANAN!!!
+luisffaraj: Quién es ése torpe que tiene Canal 11 en la cancha? Qué IGNORANTE, wow. Cualquier PAPO sale en televisión ahora.
+luisffaraj: Es más interesante ver Telefantasías que ésta POTRA
+luisffaraj: Chile tiene un equipazo. De los mejores del mundo.
+luisffaraj: Me urge cambiar de teléfono.
+luisffaraj: ¡SAN PEDRO SULA ES AURINEGRO!
+luisffaraj: San Pedro Sula es aurinegro y punto.
+luisffaraj: ¡SAN PEDRO SULA ES AURINEGRO! ¡Éste año somos campeones!
+luisffaraj: Si el Internet Explorer sigue vivo...yo puedo salir del Friendzone.
+luisffaraj: Me urge andar telefono. Maldita situacion.
+luisffaraj: Confirmado: Polache 10:45pmQué descanse, San Pedro Sula.
+luisffaraj: Acabo de ver a un amigo mío en un anuncio de Televicentro. Si quiera por ahí lo veo.
+luisffaraj: ¡San Pedro SUDA!
+luisffaraj: El equipo más cerdo de la historia del deporte quedando tetra-campeón.
+luisffaraj: ¡San Pedro Sula es AURINEGRO!
+luisffaraj: Después de un largo día por la pérdida de la selección... Me escucharon quejarme por teléfono se… https://www.instagram.com/p/BJOuIDzAqhR/
+luisffaraj: Por cierto, el tributo a Ricardo Arjona sera con LA ORQUESTA CONTRASTE DE SAN PEDRO SULA.
+luisffaraj: Prometo tirar una fiesta cuando salga del Friendzone. Por ahora están instalando el cable y el wifi aquí. Ya vamos avanzando en tecnología.
 
-Tweets más representativos del cluster 32
-['$MENTION$ toda esta y la otra semana'
- '"$MENTION$: $MENTION$ quien es ese?"//Isco?'
- 'Hoy no te lo había dicho: Te amo $MENTION$'
- '$MENTION$ estoy desnudo y acostado.' '$MENTION$ Está libre'
- '$MENTION$ En èsta' 'Amigo de madrugada $MENTION$ qué hacés?'
- '$MENTION$ usted el año pasado « MsjsBuenos: El Sábado por la noche — »'
- '$MENTION$ Hahahahaha me han mandado un par de el'
- '$MENTION$ Esta fea JSL'] 
+[Tweets más representativos del cluster 31]
+TommyZambranoM: La única forma que saben Gobernar los de Libre es seguir poniendo excusas en el pasado , hoy el país está viviendo un Éxodo algo bíblico. https://twitter.com/TommyZambranoM/status/1585420702542340096/video/1
+RoySantosC: El huracán ETA una señal divina que nos dice: este año, no conviene ningún feriado ante la amenaza latente del verdugo Covid 19.No es un feriado lo que levantará la economía, sino, las verdaderas oportunidades.Oramos por sabiduría en la toma de decisiones.
+RoySantosC: Los CIENTÍFICOS buscan la vacuna contra el Covid 19 - pero JESUCRISTO dejó la palabra de poder que sana todo mal, tal como lo dice Mt. 10.1 "A cada uno le dio poder para expulsar malos espíritus y para sanar toda clase de enfermedades."Al que cree todo le es posible (Mr. 9.23)
+RoySantosC: Los EXPERTOS preveen lo peor con respecto al Covid 19 - pero del lado de DIOS veo su mano de amor sujetar a su pueblo, su voz llamando a arrepentimiento;  y soplando viento & fuego de avivamiento espiritual. El el mejor momento para  acercarse al Señor!
+RoySantosC: LARRY BRILLIANT:El COVID 19 es capaz de infectar a 7.8 mil millones de personas. Es la pandemia más peligrosa. Me asusta que no recibiremos una vacuna en 12 a 18 meses.Es parte de lo que opina el médico experto en Pandemias.https://elperiodico.com.gt/nacion/2020/03/23/el-medico-que-ayudo-a-derrotar-a-la-viruela-explica-lo-que-viene/
+luisffaraj: @EzeBaigorriaok Cuando viví en Miami y salía en bicicleta me gritaban irresponsable porque el virus ‘vivía en el aire’ 🤡
+RoySantosC: Discutían dos personas: una decía "se dice, la Covid, porque es enfermedad" - la otra respondía, "no, se dice, el Covid, porque es un virus que provoca enfermedad"Increíble discutir por trivialidades! Y más cuando comunicadores lo atizan.Fomentemos la paz!Sigamos orando.
+luisffaraj: Gracias por tanto, influencers. Ahora el virus llegará menos fuerte gracias al maquillaje en la mascarilla.¡Cómo han cambiado al mundo! « terrell2spirit: hospitals are currently having issues to ration out face masks, meanwhile people are creating trash content like this? i hate it here https://twitter.com/kafafendi/status/1239874454504771585/video/1 — https://twitter.com/terrell2spirit/status/1239995850937569281 »
+luisffaraj: Mi vida cambió cuando una chava en Miami me dijo: “Sin usar La Biblia, comprobame que Dios existe”. Di tan malos argumentos... prometí nunca más avergonzar el evangelio de esa manera. El Cristiano 2021 vive mucho de emociones y ‘pellejos parados’ por momentos de adoración 🧵
+RoySantosC: Volver al confinamiento no es la salida ante excesivo contagios de Covid 19. Porque las personas que no atienden ordenanzas siempre estarán en las calles. Ante una actitud indiferente, sólo quedan las consecuencias. Lamentablemente!
+RoySantosC: NO MAL INTERPRETAR CIERRE DE CULTOS DE IGLESIAS POR AMENAZA DE CORONAVIRUShttps://m.facebook.com/story.php?story_fbid=2527910404204159&id=1626450427683499 https://twitter.com/RoySantosC/status/1240378584574935040/photo/1
+RoySantosC: Debemos acatar todas las medidas de seguridad que sugiere el gobierno ante amenaza de coronavirus. LA FE nos da seguridad en Dios, pero EL SENTIDO COMUN nos llama a ser diligentes y cuidarnos.Prov. 22:3El avisado ve el mal y se esconde; Mas los simples pasan y reciben el daño. https://twitter.com/RoySantosC/status/1239614274793869314/photo/1
+luisffaraj: @AnyaMayr deja de mandarme virus por el inbox jaja
+RoySantosC: Es Dios quien decide la vida o muerte de una persona, nadie más. El virus Covid 19 es un verdugo permitido por Dios para un trato con su pueblo, la humanidad y los gobernantes de la tierra para que se vuelvan en arrepentimiento. Vuélvase a Dios y conviértase de su mal camino.
+luisffaraj: En muchas ciudades del mundo (especialmente en Estados Unidos) han quitado la Biblia de la escuela pública porque ofendía una muy pequeña minoría y en su lugar metieron la ideología de género que ofende a la gran mayoría solo por gusto de esa misma minoría ofendida.
+luisffaraj: Para los que no saben en mi último Tweet: Anton LaVey escritor y fundador de la iglesia y biblia satánica.
+RoySantosC: No nos PREOCUPEMOS por salvarnos del contagio del Covid 19, sino OCUPÉMONOS en fortalecer nuestra relación personal con el amado Espíritu Santo, por medio de la oración y la palabra de Dios - y en atender todas las medida preventidas y de seguridad.
+RoySantosC: El Covid 19 sigue amenazante, pero Dios sigue vivo y es Señor sobre todo - solo es de buscarle y estaremos seguros por la eternidad.
+RoySantosC: El Coronavirus estará activo en las naciones hasta que Dios haya alcanzado Su propósito en Su iglesia: que se quebrante la división entre sus ministros y en la familia, la idolotría, la arrogancia, la murmuración, la fornicaciones, la codicia de cosas malas, y el tentar al Señor.
+luisffaraj: Fuera el colmo que no sostuvieran a Dios como máxima autoridad, nadie puso en tela de juicio eso. El atacar espanta pájaros dejalo para los progres; mi crítica fuera clara: No sostienen que La Palabra revelada es el bastión máximo de autoridad. « AdolfoKastillon: @luisffaraj Estás muy mal. La Iglesia tiene como máxima autoridad a Dios, que nos habla a través de la verdad revelada, que está en la Biblia y en las enseñanzas orales de los apóstoles (Aka Tradición). La Biblia da testimonio de esto en: 2 Tes 2,15; 1 Tes 2,13; 2 Tim 1,13. — https://twitter.com/adolfokastillon/status/1582083024040390657 »
 
-Tweets más representativos del cluster 33
-['$MENTION$ $MENTION$ $MENTION$ Yamaha es increible. Solo el probado la absolut birch. No la recording... dw sigue siendo la mama'
- '$MENTION$ buena musica ya no hay' '$MENTION$ Me molesta ver éste álbum'
- '$MENTION$ $MENTION$ O solo porque sean jueces en Viña del Mar son intocables y prodigios en la música? A saber como. Maricas son'
- '$MENTION$ $MENTION$ de donde voy a ser arrogante o algo asi si soy nadie en la musica nacional? Just saying...'
- '$MENTION$ músico. Estudiante. Analista. Escritor. Compositor. Modelo. Amigo tuyo :)'
- '$MENTION$ las altas las hace el pianista pq JBJ mucha mota se metió jajaja'
- '$MENTION$ $MENTION$ sé tocar funk, rock, jazz basico... Ocupo haber compartido con Bono para ser profesional? Chambón.'
- '$MENTION$ $MENTION$ Yo leí otra cosa, hay que ser ALGUIEN en la música para expresarse de ésa manera. Primero ejecutémos algo...'
- '$MENTION$ $MENTION$ Uno de los recitales futbolísticos más grandes en la historia de mundiales'] 
+[Tweets más representativos del cluster 32]
+luisffaraj: @mandrewnouwen @michaelhsweet Take me back! Take me back again!!
+luisffaraj: @kikinho1291 maje es una hegemonía terrible
+luisffaraj: @VixMen777 @UnderoathBand MYYYYY KNUCKLES HAVE TURNED TO WHITE!!
+luisffaraj: @Xoch_Gomez me lleva p....
+luisffaraj: @itsJoanHidalgo am not!
+luisffaraj: @AshSussmann Porque he's a faggot oversinger
+luisffaraj: @jpaulabbott He's by far, my fav character.
+luisffaraj: @pluviohaze Pour some sugar// Deff Leppard
+luisffaraj: @elonmusk Please fire McGuire
+luisffaraj: @gisel_espinoza Es algo terrible
+luisffaraj: @LizethGalo Done!
+luisffaraj: @dbardales27 YES!
+luisffaraj: @ElenaSussmann yes!
+luisffaraj: @Rhevolverr George Clooney
+luisffaraj: @dbardales27 Yes!
+luisffaraj: @S_Alejandrasv he was!
+luisffaraj: @Ansorto Yes!
+luisffaraj: @DiscussingFilm Terrible movie
+luisffaraj: @dbardales27 inbox
+luisffaraj: @josselinejf yup
 
-Tweets más representativos del cluster 34
-['Por petición de muchos es oficial: Haré una camisa con el lema \'\'Ser músico no es ser vago" Saludos'
- 'La musica inedita de El Iv Nivel disfrute!'
- 'Acabo de ver a “Ñejo” en vivo y me da vergüenza a personas que admiran a semejante chavacanada. Que chistoso ver reggaetoneros en vivo. Es como escuchar a Plaza Sésamo en vivo y en directo.'
- 'Extraño la música vieja de iglesia.'
- 'Mejor álbum Pop del año "Drama Y Luz" para aquellos que \'saben\' de música y los critican jajajajaja MANÁ!'
- 'Jon Secada! Que rico vamos a tocar música de éste señor.'
- 'Amo la música, tanto....tanto....'
- 'Ahora resulta que si cantas en Kareokes tambien te felicitan por el dia del musico JAJAAJAJ por Dios, titulo que no todos tienen. Calma.'
- 'Por ésto quiero mi música inédita, para que la mara la coree!! PRONTO!!'
- 'Soy tan feliz. Voy a grabar mi musica, LO MIO!!'] 
+[Tweets más representativos del cluster 33]
+luisffaraj: "@AshSussmann: @ffaraj ok"//"apasionar" bebé. Haga énfasis.
+luisffaraj: @medbrendag @JulioCZuniga1 YES!!
+luisffaraj: @god_x23 @angelfernando82 yo no! :)
+luisffaraj: @titoanic @TavoVallecillo Mmm no fui tan fan
+luisffaraj: @Marcatransfer @marca NOOOOOOOOOOOOOOOOOOO
+luisffaraj: "@jaonsae_e15: @ffaraj bro escucha esta rola..barry white-never gonna give You up"// uffff uffff!!
+luisffaraj: @sharonvalenzu10 @anaie9 @Rdgz98 Ok
+luisffaraj: @karlylawyer @johanpr07 Golden Retrievers
+luisffaraj: @JoseSanchez20 @FCBayernES Revisa Snapchat
+luisffaraj: @JoeNBC @davidlabrava You are an imbecile. The context you moron.
+luisffaraj: @Laughingmichell @Solangelee @TonyRobbins Ok Karen
+luisffaraj: @amdesjardiness @alesiapoulette yehaaa
+luisffaraj: @JoseSanchez20 @Espaniolista ok
+luisffaraj: @Producer_JV @ChampionsLeague En KSP @snapplebreaker
+luisffaraj: @En0 @alesiapoulette no, please don't
+luisffaraj: @MAlejandroP91 @homer_faraj Uy.
+luisffaraj: @gabytopadilla @IndirectoVIP DAME YA el username
+luisffaraj: "@TransferSources: Outrageous nutmeg. http://vine.co/v/MxEijOPWmiZ"//NOO NOO NOOOO NOO @homer_felipe @FRishmawy13 @JoseSanchez20 @julioalejandros
+luisffaraj: @Prawlitox @OtroFutboleroHn @raphaelvarane Ok
+luisffaraj: Fantastic Four hoy en Fogoncito!! @alanmartie @El_IVNivel @Hanariba
 
-Tweets más representativos del cluster 35
-['Jimmy Falon' 'Increíble. Steve Jobs trabajó para ATARI.' 'Rick'
- 'Increíble Jack Reacher, demasiado.' 'Stallone is the MAN'
- 'JACK REACHER!!' 'The Purge 2 ahorita.' 'RESIDENT EVIL 5' 'ASTROS'
- 'Stacey Jaxx'] 
+[Tweets más representativos del cluster 34]
+luisffaraj: @delayeezy @arpaz23 HAHAHA mira ve
+luisffaraj: @gabytopadilla Rrrrrrola. Bátase el pelo.
+luisffaraj: "@EresCurioso: El aceite de oliva virgen tiene el mismo efecto antiinflamatorio que el ibuprofeno" @thenameisLexie
+luisffaraj: @kagisgarcia Imborrable
+luisffaraj: @snapplebreaker @julioalejandros HAHAHAHAHAHA EN CHAMELECON
+luisffaraj: @Tagrushi compre proteína habbibti
+luisffaraj: @Zuar_Gamaliel @AnubisRamses3 HHAHAH @SammyMarz83
+luisffaraj: @alanmartie @equilikua defina humildat :) https://twitter.com/ffaraj/status/365551683004141568/photo/1
+luisffaraj: @carloszunigahn_ @TavoVallecillo Hahaha alguien quítemele la pacha
+luisffaraj: @Liz3thF Inolvidable
+luisffaraj: @hlrodriguez85 @evelynim_ Adivinen
+luisffaraj: @aimeepaz5 @BuscadorYouTube Vomitando
+luisffaraj: @Fabi0993 @El_IVNivel claroooooooooo
+luisffaraj: @stephanobutto "incumplimiento de funciones"
+luisffaraj: @alanmartie rrrrrrr que feo
+luisffaraj: "@pluviohaze: @ffaraj we are! Basta de reclamos✋."//we used to be....
+luisffaraj: @JoseSanchez20 SETIENISMO
+luisffaraj: @LuisOmarTapia Irrepetibles
+luisffaraj: @snapplebreaker @Marleyanie @bizarreblurt Hahahahaha hola jóvenes
+luisffaraj: @snapplebreaker @KukuRM lloré
 
-Tweets más representativos del cluster 36
-['I hate those moments right before you go to sleep, when you are forced to think about all the things you tried so hard to forget.'
- "Can't go on living this way... Nothing's al... RIGHT!!!!!!!!!!!!!!!!!!!"
- 'Life as it is' 'I was yours to hold'
- "Oh these times are hard they're making us crazy.. Don't give up on me, baby."
- 'They come to build a wall between us'
- "Well then, let's have an amazing goodbye."
- "While I'm drinking Jack all alone in my local bar"
- "And I'm wanted...dead or alive!"
- "You'll be the prince and I'll be the princesssss it's a love story baby just say yeeeees"] 
+[Tweets más representativos del cluster 35]
+luisffaraj: El IV Nivel hoy en Chili's 9:00pm https://socialcam.com/s/uN992u1x
+luisffaraj: Sábado 18 de éste mes en JARDINES CAFÉ. EL IV NIVEL trae el primer tributo del 2014Entrada gratis… http://instagram.com/p/i2RvVTqeFw/
+luisffaraj: Chilli's mañana! 9:00pm arranca el shoooooooow
+luisffaraj: Hoy en Jardines Cafe!
+luisffaraj: donde tocan este viernes y sabado? — JARDINES CAFÉ el viernesSábado en éste súper evento. http://ask.fm/a/ap231ba2
+luisffaraj: @negritoanton tributo Mana en Jardines Cafe! 7:00pm entrada gratis
+luisffaraj: holaaa! hoy casualmente fui a jardines cafe y te vi con la banda... — Gracias Ale. Ayer si tocamos con TODO mira... http://ask.fm/a/ajqlaqjp
+luisffaraj: HOY EN JARDINES CAFÉ 8:00 PMLA ESPERA TERMINÓ CARAJOOOOO
+luisffaraj: HOY en Jardines Cafe. Es HOY sabado en JARDINES CAFE MARA, VAMOS CON TODO Y UN POCO MAS- https://twitter.com/ffaraj/status/358517491837857792/photo/1
+luisffaraj: Volvemos a Jardines Cafe el 2 de agosto. Yeah baby.
+luisffaraj: Ya estamos listos en Jardines Cafe.
+luisffaraj: Ya listos para el especial ACÚSTICO de Maná y Soda Stereo hoy en Jardines Café. 8:00 PM entrada… http://instagram.com/p/pZtzoyKeM-/
+luisffaraj: @astriderp @SoyAyF el IV magico hoy en Chillis. Oseaaaa tienen que ir va. Amira, engancha a papi. 9:00 pm tempranoski
+luisffaraj: @RamsesBarientos tributo a Mana aqui de nuevo en Jardines Cafe el 30 de agosto VIERNES... @god_x23 tocara again con nosotros. Privilegio.
+luisffaraj: Esta semana: Jueves en 2Bar&Grill "Halloween Night" 9pmViernes en Jardines Café 8:00pmSábado en Valleys 8:00pm
+luisffaraj: ¡HOY EN JARDINES CAFÉ! El IV Nivel la rompe hoy miércoles de Semana Santa. VENGAAAASE si todavía está… http://instagram.com/p/m3LJ-qKeGR/
+luisffaraj: TRIBUTO A MANA EN JARDINES CAFE, VIERNES 30 DE ESTE MES. SALUDOSSSS!!
+luisffaraj: Se espera un mega show ahorita en jardines café.
+luisffaraj: Chicago UNO se viste de gala hoy: El IV Nivel en vivo a partir de las 9:57 PM.
+luisffaraj: Les recuerdo en Jardines Café éste viernes El Iv Nivel presentará un brutaaal tributo a Maná! También nuestras rolas inéditas!
 
-Tweets más representativos del cluster 37
-['$MENTION$ $MENTION$ Que delicioso. Eternos fracasados segundones, anti-fútbol.'
- '$MENTION$ Comte no es de la Juve? Anti-fútbol chucos'
- '$MENTION$ hiciste falta VOS no el remedo de jugador Bengston'
- '$MENTION$ Que jugadorazo'
- '$MENTION$ Que jugador que era... lástima la pubalgia'
- '$MENTION$ Modric és un JUGADORAZO de primera.'
- '$MENTION$ $MENTION$ será mañana noche de fútbol par de duros'
- '$MENTION$ O tenemos un montón de fuerza... y hay que usarla.'
- '$MENTION$ COMENTANDO DE FÚTBOL $MENTION$'
- '$MENTION$ $MENTION$ ¿Estos idiotas saben de fútbol?'] 
+[Tweets más representativos del cluster 36]
+luisffaraj: @JoseSanchez20 Peor Higuain
+luisffaraj: @javi12music Igualmente Javi, que Dios t bendiga.
+TommyZambranoM: Gracias @JuanOrlandoH por las primeras 50 casas entregadas en @SanLorenzovalle  llego la hora del sur. https://twitter.com/tommydiputado/status/535221190672285696/photo/1
+luisffaraj: @Alean179 YO te AMO con mi vida entera.
+luisffaraj: @sirAldoEnrico Creéme que igual yo pero CUANDO VENIS
+luisffaraj: @SammyTVC Dios te bendiga mi rey y ese corazón enorme que tenes. Un abrazo, ¡Felicidades toro!
+luisffaraj: @fanpagefaraj que Dios las bendiga por igual :)
+luisffaraj: @JoseSanchez20 Que encule igual que roca
+TommyZambranoM: @JoselinOficial_ igual bendiciones y te invitamos que visites el sur encantado de nuestro País .
+luisffaraj: @jaonsae_e15 perfecto. Vienen a sol por igual?
+luisffaraj: @GloriaAlvarez85 Debatí conmigo acerca del tema, Gloria.
+luisffaraj: @RamsesBarientos Mi hermano, recibir a Jesucristo en tu corazón!! Creer que El se clavó en una cruz y te dió vida eterna. La única manera!
+luisffaraj: @alexachinchi @emrata yup igual que ig
+luisffaraj: @bella89 iguaaaal :) proxima semana és buena
+luisffaraj: @jonsnoe @JoseSanchez20 Igual de llorones ambos
+TommyZambranoM: @JuanOrlandoH apoyando a la tercera edad en el Caimito San Lorenzo con bolsas solidarias. https://twitter.com/tommydiputado/status/526115167118319617/photo/1
+luisffaraj: @TavoGodZend es mi favorita igual!
+luisffaraj: @patyzu10 ¡Un gusto de igual manera!
+luisffaraj: @julioalejandros @GalGadot @WonderWomanFilm Así estoy leyendo mister. Pero ojalá sepa que DC es violencia y no gayadas. Ojo, soy re fan de Marvel. Pero debe haber una diferencia total.
+luisffaraj: @gabogiron1987 Igual capo
 
-Tweets más representativos del cluster 38
-['IV ИIVΞL' 'WEINDENFELLER' '¡Iker! ¡Iker!' 'IKER...VUELVE.' 'Iker'
- 'Casi humanos' 'Y suena My Immortal!!!' 'Rolota' 'A comer chocokrispis!!'
- 'RT o sos progre'] 
+[Tweets más representativos del cluster 37]
+luisffaraj: @jjeimmy toda esta y la otra semana
+luisffaraj: "@julioalejandros: @ffaraj quien es ese?"//Isco?
+luisffaraj: Hoy no te lo había dicho: Te amo @AlejandroSanz
+luisffaraj: @SoyAyF estoy desnudo y acostado.
+luisffaraj: @LuisFajardoHN Está libre
+luisffaraj: @capitalchivas En èsta
+luisffaraj: Amigo de madrugada @RamsesBarientos qué hacés?
+luisffaraj: @Sjmadrid usted el año pasado « MsjsBuenos: El Sábado por la noche https://vine.co/v/i52hWYuwPb3 — https://twitter.com/msjsbuenos/status/693913046775926784 »
+luisffaraj: @RonnieMinera Hahahahaha me han mandado un par de el
+luisffaraj: @JoseSanchez20 Esta fea JSL
+luisffaraj: @AndreaPonce27 Guaco- Ella junto con Gilberto Santa Rosa
+luisffaraj: @angelfernando82 @negritoanton y quien és mejor q diablos?
+luisffaraj: @Residente De eso hablabas en Apocalíptico
+luisffaraj: @ShadiaSakhel @HenrySakhel y escogiste el llanto...
+luisffaraj: @RDHenriquez7 Como cien se me salieron
+luisffaraj: @FenafuthOrg quiero que sepan que me dan asco, me dan vergüenza y me voy a asegurar que todos sepan de sus picardías. Asco me dan.
+luisffaraj: @RolaVare Esta buenísima
+luisffaraj: @david_bebo Los originales, a precios navideños.
+luisffaraj: @zaldivar_allan Hubiese querido estar allí con mis sobrinas
+luisffaraj: @alocaraccioli ¿Que es juul? @arpaz23
 
-Tweets más representativos del cluster 39
-['QUE GOLAZOOOO!!!!!!!' 'QUE GOLAZOOOO NO ME JODANNNN!!!!!'
- 'GOOOOOL GOOOOOL CARDOZO GOLAZO NO JODAS' 'QUE GOLAZOOOOOOOO!!'
- 'Señor, dame fuerzas.' 'QUE GOLAZOOOOOOO!!!!' 'Yo la amo'
- 'POR LA PUTAAAAA QUE GOLAZOOOOOOOOOO' 'Amo Party in the USA.'
- 'Lili Van Der Woodsen DA ASCO'] 
+[Tweets más representativos del cluster 38]
+luisffaraj: @carlosdrum @Guayocaster @popedrums Yamaha es increible. Solo el probado la absolut birch. No la recording... dw sigue siendo la mama
+luisffaraj: @asorto28 buena musica ya no hay
+luisffaraj: @snapplebreaker Me molesta ver éste álbum
+luisffaraj: @negritoanton @angelfernando82 O solo porque sean jueces en Viña del Mar son intocables y prodigios en la música? A saber como. Maricas son
+luisffaraj: @god_x23 @AuraCorpse de donde voy a ser arrogante o algo asi si soy nadie en la musica nacional? Just saying...
+luisffaraj: @Amlm_03 músico. Estudiante. Analista. Escritor. Compositor. Modelo. Amigo tuyo :)
+luisffaraj: @AuraCorpse las altas las hace el pianista pq JBJ mucha mota se metió jajaja
+luisffaraj: @2Jerrygal @RamsesBarientos sé tocar funk, rock, jazz basico... Ocupo haber compartido con Bono para ser profesional? Chambón.
+luisffaraj: @RamsesBarientos @2Jerrygal Yo leí otra cosa, hay que ser ALGUIEN en la música para expresarse de ésa manera. Primero ejecutémos algo...
+luisffaraj: @TonyDeMayo @MadridCFyB Uno de los recitales futbolísticos más grandes en la historia de mundiales
+luisffaraj: @LipstickFables deberias de escuchar todo el playlist que nos volamos ayer.
+luisffaraj: @danicasd18 soñé que estudiabamos juntos en La Ceiba. Era como un tipo de conservatorio de música. Vess jaja ya van dos veces
+luisffaraj: Por Dios que amo ser músico. Ésto NO se compara, talvez al amor de madre. De ahí a NADA. @Hanariba @alanmartie
+luisffaraj: @HaizelMcCarthy7 @amelgar93 jaja esa cancion la escribio Adrian, el vocalista!
+luisffaraj: @alanmartie No es algo negativo, pero Bacilos tiene cero que ver en tu formacion como musico me atrevo a decirlo a ciegas.
+luisffaraj: @2Jerrygal @RamsesBarientos Aquí el desconocido sos vos hermano. Hablás como si fueras alguien en la música hondureña.. Vaya "crítico"
+luisffaraj: @RamsesBarientos @2Jerrygal jajajaja lo bueno que ahorita me acabas de confirmar tu ignorancia musical estimado Jerry. El jazz se estudia.
+luisffaraj: @2Jerrygal @RamsesBarientos Y vos mi estimado Jerry quién sos en la música? Tocás la flauta dulce si quiera?
+luisffaraj: @GeorgeMarino Tocando La Planta y de Música Ligera
+luisffaraj: @alesiapoulette no sabía que escuchabas música.
 
-Tweets más representativos del cluster 40
-['Yo no soy de ésos que se sienten superior a la mujer, yo me declaro dócilmente dominado.'
- 'Cuando una mujer le aconseja a usted como amigo varón en cuestiones sentimentales: NO escuche. Recuerde que ellas hablan por capricho.'
- 'Hay que ser idiota para no entender que ella es todo lo que busco en una mujer.'
- 'Te consideras machista? — Yo no soy de esos que se sienten superior a la mujer, yo me declaro docilmente nominad...'
- 'Hoy no siento que el cielo se viste de gris. Y la luz no ilumina mi caminar....'
- '¿Qué cosas nunca vas a entender de las mujeres?'
- 'Me voy a enamorar de una mujer que me diga:"No me importa que andes tatuado...."'
- 'algo que te vuelva loco de las mujeres? — Pink lingerie'
- 'Lagertha de Vikings, tiene que ser la mujer PERFECTA. Después de aquella blanquita, pelo negro corto... Vive allí por donde e tatúo.'
- 'Y que te sientas mujer solamente conmigo...'] 
+[Tweets más representativos del cluster 39]
+luisffaraj: Por petición de muchos es oficial: Haré una camisa con el lema ''Ser músico no es ser vago" Saludos
+luisffaraj: La musica inedita de El Iv Nivel https://soundcloud.com/el-iv-nivel disfrute!
+luisffaraj: Acabo de ver a “Ñejo” en vivo y me da vergüenza a personas que admiran a semejante chavacanada.Que chistoso ver reggaetoneros en vivo. Es como escuchar a Plaza Sésamo en vivo y en directo.
+luisffaraj: Extraño la música vieja de iglesia.
+luisffaraj: Mejor álbum Pop del año "Drama Y Luz" para aquellos que 'saben' de música y los critican jajajajaja MANÁ!
+luisffaraj: Jon Secada! Que rico vamos a tocar música de éste señor.
+luisffaraj: Amo la música, tanto....tanto....
+luisffaraj: Ahora resulta que si cantas en Kareokes tambien te felicitan por el dia del musico JAJAAJAJ por Dios, titulo que no todos tienen. Calma.
+luisffaraj: Por ésto quiero mi música inédita, para que la mara la coree!! PRONTO!!
+luisffaraj: Soy tan feliz. Voy a grabar mi musica, LO MIO!!
+luisffaraj: Disfrute de la musica de El Iv Nivel aqui https://soundcloud.com/el-iv-nivel
+luisffaraj: Me llega la música de don Carlos Vives. Tiene más sabor que una pachicleta fakkk
+luisffaraj: Mis bastardos vecinos no ocupan mucho para armar un pijín con música. Y hoy que es Navidad se van a beber hasta el agua de los floreros y la bulla seguirá hasta mañana 6 AM. Invítenme, no jodan....
+luisffaraj: Esta vida del músico, dormirse tarde y despertarse tarde me tiene reventado.
+luisffaraj: Si se pasara una ley al Congreso para apoyar al músico tuvieramos menos delincuentes y más artistas.
+luisffaraj: ¡Nada más el Ingeniero Salvador Nasralla y su reacción después de escuhar nuestra música en Premios… http://instagram.com/p/h5VVdAqeGG/
+luisffaraj: Después tomé una decisión para no ahogar el sentimiento, guardé mi celular yse me salieron las lágrimas. Señores, ese es el poder de la música. Ese es el impacto que causa una canción que la escuchabas desde pequeño (entre otras favoritas mías de U2). Un concierto cambió mi vida.
+luisffaraj: Top diez canciones de música hondureña para ti — No van en órden:Hojas secas- Diablos NegrosEn la oscuridad- ... http://ask.fm/a/almjkk2o
+luisffaraj: Quiero pegar en la música nacional con mi música, para tener fama? Ni cerca. Para hacer lo que hizo alguien conmigo una vez: Inspirar.
+luisffaraj: Escuche la musica de MI banda totalmente gratis por aqui vee https://soundcloud.com/el-iv-nivel TRES ROLOTAS!!
 
-Tweets más representativos del cluster 41
-['2021: Consumir pornografía es educativo y utilizar anticonceptivos es responsabilidad; pero promover la pureza, abstinencia, maternidad y heterosexualidad es perversión y opresión'
- 'Queridas feministas: ¿Por qué no han comenzado una campaña para crear consciencia de la serie ‘Cuties’ de Netflix -explotación sexual de menores-? ¿No habrían likes, ni bailecitos tontos allí verdad? Es cierto, no es parte de la agenda :cross_mark:'
- 'C- Los colores arcoíris representan a la comunidad en específico, no a los homosexuales. Muchos no están de acuerdo con la ideología de género y tampoco forman parte de la comunidad. Deberían de tener más cuidado con el mensaje ‘inclusivo’ que desean enviar con esto.'
- 'Las feministas están solas porque se visten y se cortan el cabello como hombres. Llegan a los 40 años de edad quejándose por estar solas, ¿qué esperabas si tu facha es la misma de John Travolta? La feminidad es tan atractiva. Damas, entre más femeninas, más bellas.'
- '“Las feministas luchan por derechos que ya tienen, los homosexuales por derechos que no existen, las abortistas por convertir delitos en derechos, y los socialistas por convertir todas estas mentes débiles en votos para llegar al poder” -Shalom Pérez Carranza'
- 'Genderfucking: El esfuerzo consciente por subvertir las nociones tradicionales de identidad y roles de género. Esto se puede llevar a cabo con estética queer o drag. Judith Butler es la gasolina de Hollywood « EmilioYitzhak: No sé por qué se sorprenden del ritual satánico en los Grammys. Sabemos que el satanismo es el culto del yo y la muerte, lo cual compone la mayoría de la música de moda de varias décadas. Ahora son más explícitos, pero es lo único que cambia. — »'
- 'Recuerdo cuando a las mujeres les daba vergüenza que los nudes se hicieran virales, ahora los venden a $5 Los militantes LGBTQ deben saber que no son especiales porque practican una sexualidad desenfrenada. Son especiales porque están creados a la imagen de Dios. Sigamos…'
- 'La ley prohíbe a maestros de primaria discutir temas sobre la orientación sexual. Esto para asegurar que los niños reciban educación y no adoctrinamiento. Hollywoodienses siguen llorando ésta ley. A la ideología de género se le vomita, no se le tolera. « tatiana123658: $MENTION$ De que trata esa ley? :exploding_head: — »'
- 'El público cuenta con bebés, niños pequeños y pre adolescentes viendo penes, hombres en hilo y erotismo. Meta: Enseñar el modelo del neo-hombre, desacralizado totalmente. « MythinformedMKE: Can someone with progressive sensibilities please tell us how these sexualized displays can possibly be OK for children to watch?? Don’t understand how this can be applauded. — »'
- 'Solos los que padecen de una anomalía psíquica pueden considerar malo prohibir químicos y cirugías de transición para menores. Los demócratas en Estados Unidos son un conglomerado de enfermos y trastornados de la cabeza « libsoftiktok: Biden suggests it’s “sinful” and “cruel” to ban puberty blockers and sex change surgeries for kids. — »'] 
+[Tweets más representativos del cluster 40]
+luisffaraj: Jimmy Falon
+luisffaraj: Increíble. Steve Jobs trabajó para ATARI.
+luisffaraj: Rick
+luisffaraj: Increíble Jack Reacher, demasiado.
+luisffaraj: Stallone is the MAN
+luisffaraj: JACK REACHER!!
+luisffaraj: The Purge 2 ahorita.
+luisffaraj: RESIDENT EVIL 5
+luisffaraj: ASTROS
+luisffaraj: Stacey Jaxx
+luisffaraj: X-MEN starts now
+luisffaraj: Now watching GOTHAM
+luisffaraj: Ragnarok: BRUTAL.
+luisffaraj: Jack Reacher!
+luisffaraj: Armageddon
+luisffaraj: BILLY JOYA
+luisffaraj: THOR tonight
+luisffaraj: Prisioners (Hugh, Terrence and Jake)
+luisffaraj: AY AY AY AY AY!! ¡LA MAMÁ DE LOS POLLITOS!! « netflix: What happened to Jesse Pinkman?El Camino: A Breaking Bad MovieOctober 11 https://twitter.com/netflix/status/1165393399882473474/video/1 — https://twitter.com/netflix/status/1165393399882473474 »
+luisffaraj: Movie: Freelancers- 50 cent, Robert Deniro... A ver!
 
-Tweets más representativos del cluster 42
-['$MENTION$ Es una proeza que CR haya conseguido algo con un equipo irrelevante en Europa. Messi es ARGENTINO cuna de jugadores élite en la historia. Ronaldo no alcanzó pelear una final, peor tres de Euro. Perdió una de Euro, nada más. Hizo lo impensable: Campeón con Portugal.'
- '$MENTION$ TRES Champions League en una imagen. ¡Dos de los mejores de la historia blanca!'
- '$MENTION$ ¿Qué hizo de ilegal el Madrid?'
- '$MENTION$ encima de puestos uefa jajajajajaa'
- '$MENTION$ en la final de su equipo en la MLS. Al Santos de México... Etc'
- 'Alegres los habitantes de Goascoran por este proyecto de alumbrado del estadio de grama sintética ejecutado por el presidente $MENTION$'
- '$MENTION$ Pero Ribery y Robben, los dos.. Tienen problemas en manos a manos. Por eso no son mediáticos. Les pesa definir partidos.'
- '$MENTION$ Duele pero estoy de acuerdo bebé. El Madrid ha ganado ya sin CR. Pero es mi vida.'
- '$MENTION$ Pero lo bueno que estuvimos en el Bayern-FCB y BV-Real Madrid jajajajajajaja'
- '$MENTION$ Pues bien que tiene una Champions en su palmarés. Fácil hablar después de logros.'] 
+[Tweets más representativos del cluster 41]
+luisffaraj: I hate those moments right before you go to sleep, when you are forced to think about all the things you tried so hard to forget.
+luisffaraj: Can't go on living this way... Nothing's al... RIGHT!!!!!!!!!!!!!!!!!!!
+luisffaraj: Life as it is
+luisffaraj: I was yours to hold
+luisffaraj: Oh these times are hard they're making us crazy.. Don't give up on me, baby.
+luisffaraj: They come to build a wall between us
+luisffaraj: Well then, let's have an amazing goodbye.
+luisffaraj: While I'm drinking Jack all alone in my local bar
+luisffaraj: And I'm wanted...dead or alive!
+luisffaraj: You'll be the prince and I'll be the princesssss it's a love story baby just say yeeeees
+luisffaraj: Have You struggled? Have You worried?
+luisffaraj: Let's get lost tonight, you can be my black Kate Moss tonight.
+luisffaraj: I'm running from the enemy inside.
+luisffaraj: Lady, here me tonight
+luisffaraj: You're better than drugs.. ADDICTIVE FOR LIFE.
+luisffaraj: You can be a good boy Shaun...or you can be a son of a gun.
+luisffaraj: I cannot sleep, I cannot dream tonight.
+luisffaraj: And everybody said that we would never last. But deep inside I bet now they take it back...
+luisffaraj: You're getting it all over me, X-rated.
+luisffaraj: And it's hard to hold the candle in the cold November Rain
 
-Tweets más representativos del cluster 43
-['Eyaaaaaaa gol de Messi.'
- 'Alguien que me preste palabras para describir a Cristiano... no se explica.'
- 'Si conozco a Ramos, Cristiano, Modric o Kroos... no se si podré subir foto debido al infarto. Ocupo prepararme para no llorar.'
- 'Cristiano ya no le celebra los goles al Barza. Q feo.'
- 'Muchos desacuerdos dentro del marco del respeto. Ser cristiano no es sinónimo de homofobia.'
- 'POSTEEEEE DE CR7!!!'
- 'Por cierto, todavía sostengo esto… « luisffaraj: Kylian Mbappe es el mejor del mundo — »'
- 'Chuck Bass cae bien A VECES. Pero que hdp más arrogante. Ni CR7 en sus días.'
- 'Dos de el MEJOR DEL MUNDO. RONALDO DOS SANTOS' 'Murió Lito Luzardo?????'] 
+[Tweets más representativos del cluster 42]
+luisffaraj: @CholismoATM @FernandoAndree8 Que delicioso. Eternos fracasados segundones, anti-fútbol.
+luisffaraj: @Davidfep Comte no es de la Juve? Anti-fútbol chucos
+luisffaraj: @Jonaaa9 hiciste falta VOS no el remedo de jugador Bengston
+luisffaraj: @FernandoAndree8 Que jugadorazo
+luisffaraj: @LuisOmarTapia Que jugador que era... lástima la pubalgia
+luisffaraj: @Ricar_Aguilera Modric és un JUGADORAZO de primera.
+TommyZambranoM: @KJimenez10 @StanChavez será mañana noche de fútbol par de duros
+luisffaraj: @carloszunigahn_ O tenemos un montón de fuerza... y hay que usarla.
+luisffaraj: @RamsesBarientos COMENTANDO DE FÚTBOL @JoseSanchez20
+luisffaraj: @elchiringuitotv @JLSanchez78 ¿Estos idiotas saben de fútbol?
+luisffaraj: @daroFernandez78 @UEFAEURO Hacia ver el fútbol tan fácil
+luisffaraj: @chacofunesjr @Jampedrano504 ¿Entrega? La entrega no solamente es ‘correrlas todas’, eso es ineficiente en el fútbol moderno, en especial con un rival que tiene posesión clara de la pelota. No tenemos argumento futbolístico alguno, cero idea... la entrega es lo de menos.
+luisffaraj: "@DiarioLaPrensa: Carlos Pavón fue inscrito como jugador en el Real España: http://bit.ly/WOBWgs" @__GIBS__
+luisffaraj: @SoyAyF el Governor mató a Martínez. Qué bien, me caía mal ése asesino.
+luisffaraj: @Nina88m México 86, Alemania 2006, España 82, Corea/Japon 2002, Sudafrica 2010 no fueron campeones :)
+luisffaraj: @AlianzaFC_sv ojalá pierdan la categoría y desaparezcan del mapa del fútbol.
+luisffaraj: @jj_villeda @DiogenesAcosta @fredyro19 ¡Maradona es inexplicable! Hizo lo impensable en el fútbol, lo irrepetible. Al igual que Pelé ganando los TRES mundiales. TRES no uno. Esas son categorías aparte, estamos hablando que deshicieron en la total élite del fútbol.
+luisffaraj: @kikinho1291 Ése maje!! Jugadorazo!
+luisffaraj: @quimdomenech @JoseSanchez20 awwwww ¿ya no son los Avengers del fútbol? Hace una semana era parason
+luisffaraj: Nunca concluimos quien tuvo mejor trayectoria en el fútbol de los dos @pavonplummer https://twitter.com/ffaraj/status/1102630828734119936/photo/1
 
-Tweets más representativos del cluster 44
-['Vamos España!! Me dicen que llevamos 4 postes?! Vamoooos! Maldita clase ésta quiero salir a ver a mi real! Vamooos!'
- 'A lo LOCO se vive mejor « futbol_rebelde: En reunión con gente del Leeds, Bielsa consultó cuánto debe trabajar un hincha para poder comprar una entrada. El cálculo dio tres horas. Tras esto, Marcelo hizo que los jugadores limpiaran el predio donde entrenan para que tomaran conciencia del esfuerzo que hacen los hinchas — »'
- 'Que me encanta ésta etapa del fútbol europeo. Aquí es cuando chispean En galones, pero llega el mes de Mayo y son lágrimas. Que rico.'
- 'Qué injusto és el fútbol. Una vez más la FIFA está engañada y sabe poco. Doble cara tienen.'
- '$MENTION$ Entonces te basas en gambetas, en jugadas que no llegaron a ganarte títulos solo "momentos" en un partido :) de qué sirve?'
- 'REAL, REAL… NO LE FALLES A TU HINCHADA HOY: AQUÍ ESTOY, ¡ESPAÑA MORIRÉ!'
- 'JAJAJAJAJAJAJAJAJAJAJAJAJAJA AY DIOS LAS COSAS QUE UNO LEE « MotivacionesF: El próximo heredero del trono del fútbol :crown: — »'
- 'Damos pena en política, fútbol, costumbres, noticias y mucho más. ¡Qué vergüenza!!'
- 'La defensa de España anda perdida. Alba, Ramos y Dave JAMÁS se juntaron.'
- 'El fútbol fue pisoteado hoy.'] 
+[Tweets más representativos del cluster 43]
+luisffaraj: IV ИIVΞL
+luisffaraj: WEINDENFELLER
+luisffaraj: ¡Iker! ¡Iker!
+luisffaraj: IKER...VUELVE.
+luisffaraj: Iker
+luisffaraj: Casi humanos
+luisffaraj: Y suena My Immortal!!!
+luisffaraj: Rolota http://www.youtube.com/watch?v=xtz4yzQrGQ0
+luisffaraj: A comer chocokrispis!!
+luisffaraj: RT o sos progre https://twitter.com/luisffaraj/status/1431457350620155904/photo/1
+luisffaraj: Wow, me caigoooooo
+luisffaraj: SOS inútil Chicharo-
+luisffaraj: IKEEEEEEEER IKEEEEER!!
+luisffaraj: Wow. KEYLOR Navas.
+luisffaraj: 76 días sobrio
+luisffaraj: IKEEEEEER
+luisffaraj: TAREAL ! !
+luisffaraj: UUUUUYYYYY WEINDENFELLER CABRON
+luisffaraj: INCREIBLEEEE!! RATA!!
+luisffaraj: Pitaaa arbitrooo
 
-Tweets más representativos del cluster 45
-['Vamos máquina' 'Vamooos carajooo vamos' 'VAMOS MÁQUINA'
- 'VAMOS AURINEGROS!!!! VAMOS!!!' 'Vamos realeza!'
- 'Kiko Casilla VAMOS LOCO' 'Mi amooooor!!' 'VAMOS AURINEGROS!!!'
- 'Vamos aurinegros' 'GOOOOOOOOOOL!! AURINEGRO!! A REMONTAR VAMOS!!'] 
+[Tweets más representativos del cluster 44]
+luisffaraj: QUE GOLAZOOOO!!!!!!!
+luisffaraj: QUE GOLAZOOOO NO ME JODANNNN!!!!!
+luisffaraj: GOOOOOL GOOOOOL CARDOZO GOLAZO NO JODAS
+luisffaraj: QUE GOLAZOOOOOOOO!!
+luisffaraj: Señor, dame fuerzas.
+luisffaraj: QUE GOLAZOOOOOOO!!!!
+luisffaraj: Yo la amo
+luisffaraj: POR LA PUTAAAAA QUE GOLAZOOOOOOOOOO
+luisffaraj: Amo Party in the USA.
+luisffaraj: Lili Van Der Woodsen DA ASCO
+luisffaraj: ME ORINO!! QUE GOLAZOOOOOOOOOOOOOOOO!!
+luisffaraj: AZTECAZO
+luisffaraj: GOLAZOOOOOOOOO GOLAZOOOO!!!! SIGAN SOCANDOOO SIGAN SOCANDO QUE YA SE DEFECAN!! GOLAZOO!!
+luisffaraj: NO ME JODANNN QUE GOLAZOO!!!!!!! CINCOOOOO
+luisffaraj: El gatoooooo!! Kariiiim! Sepultados.
+luisffaraj: NO PUEDE SER LO DE INSIGNE! QUEEEEEEEE GOLAZOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+luisffaraj: QUE GOLAZOOOO
+luisffaraj: MI VIDA TIENE SENTIDO: TENGO EL BOLETO DE BATMAN YA!! VAMOOOS :'(
+luisffaraj: QUE GOLAZOOOOOOO QUIERO DESNUDARME!!!
+luisffaraj: QUE GOLAZOOOOOO!!!!!!! GOOLAZOOOO
 
-Tweets más representativos del cluster 46
-['Perdieron aquellos que dijimos... LÁSTIMA que no es el Granada jaja'
- 'Si es alagartada la mara en semáforos.'
- 'Ya quiero el 2do tiempo... Voy a entrenar! Qué rico!'
- 'Awww todo era risas para los chucos! Que delicioso!!! Que rico!!'
- 'Terrible. « ArturoZelayaG: $MENTION$ No puede ser que caíste en ese space HAHAHAHAHAHAHA. No sos el primero, pero tampoco el último — »'
- 'Mago de Oz 16 de Febrero Tegucigalpa.. Marc Anthony 23 de febrero en la capital igual.'
- 'Que rico volver a las canchas! A agarrar nivel de nuevo.'
- 'Ricooo patín al imbécil ése jajaja'
- 'JAJAJAJA AY DIOS como les regalan penales. Chucos son, chucos serán SIEMPRE.'
- 'AYY QUE RICO YA ME BORRAN DE FACEBOOK JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJA SIGAN BORRANDOME!! JAJAJAJAJAJ!!'] 
+[Tweets más representativos del cluster 45]
+luisffaraj: Yo no soy de ésos que se sienten superior a la mujer, yo me declaro dócilmente dominado.
+luisffaraj: Cuando una mujer le aconseja a usted como amigo varón en cuestiones sentimentales: NO escuche. Recuerde que ellas hablan por capricho.
+luisffaraj: Hay que ser idiota para no entender que ella es todo lo que busco en una mujer.
+luisffaraj: Te consideras machista? — Yo no soy de esos que se sienten superior a la mujer, yo me declaro docilmente nominad... http://ask.fm/a/b7kloof8
+luisffaraj: Hoy no siento que el cielo se viste de gris. Y la luz no ilumina mi caminar....
+luisffaraj: ¿Qué cosas nunca vas a entender de las mujeres?
+luisffaraj: Me voy a enamorar de una mujer que me diga:"No me importa que andes tatuado...."
+luisffaraj: algo que te vuelva loco de las mujeres? — Pink lingerie http://ask.fm/a/appcag75
+luisffaraj: Lagertha de Vikings, tiene que ser la mujer PERFECTA. Después de aquella blanquita, pelo negro corto... Vive allí por donde e tatúo.
+luisffaraj: Y que te sientas mujer solamente conmigo...
+luisffaraj: Mi Salvador resucitó. Mi Dios está vivo.“Y el Señor me librará de toda obra mala, y me preservará para su reino celestial. A El sea gloria por los siglos de los siglos. Amén.”No tengo palabras, solo una: GRACIAS. https://twitter.com/ffaraj/status/980522160572780544/photo/1
+luisffaraj: Éste clima es para estar embramado con la mujer.
+luisffaraj: No hay mujer difícil, son hombres lentos.
+luisffaraj: La mujer hondureña es preciosa. La mujer gringa por más que parezca muñeca de revista, no me gusta.
+luisffaraj: Para que me guste una mujer? Tiene que tener mas cerebro que chiches y nalgas.
+luisffaraj: Soy macho 100% y me gustan las mujeres. Pero cuando escuche a Alejandro Fernandez se me sale la mujer....
+luisffaraj: “De la abundancia del corazón, habla la boca.” Si usted solo tira odio, ¿adivine de qué está lleno su corazón?
+luisffaraj: Si una mujer te da una segunda oportunidad y no la aprovechas... no sé, matate.
+luisffaraj: Alguna mujer te ha intimidado? — Claro que si. Mas de una, creo... http://ask.fm/a/a1da2me8
+luisffaraj: El sueño de una mujer no es encontrar al hombre perfecto, sino comer mucho y no engordar.
 
-Tweets más representativos del cluster 47
-['La diferencia es que Iniesta es campeón del mundo con su selección mientras Messi vomita cuando juega con su país.'
- 'Wow, todos son Juventus ahora. Increíble el hondureño chepión jajajajaja saludos!'
- 'Que alguien me explique el POR QUE Suarez JODE y JODE y JODE con no llamar a Rambo. POR QUE? POR QUE SI LO NECESITAMOS A GRITOS? POR QUE?'
- 'A falta de Messi.... los árbitros están.'
- 'Como que el Münich se va liso ésta temporada.'
- 'Jugó en Inglaterra contra Tévez, Cristiano Ronaldo, Gerrard, etc... y viene a cagarla en el mundial. Imperdonable, Wilson.'
- 'En la última final de UCL: FCB-ManU, me enfermé de ésto mismo! 2011. Ésta vez no tan grave... Qué será?'
- 'Septiembre: ¡El mejor equipo del mundo! ¡Visca! ¡La posesion es todo! ¡Siempre Messi! Mayo: ¡Árbitro ladrón! ¡Madrid basura! ¡Siempre robando! ¡Los de blanco son corruptos! ¡Siempre la FIFA! Que bello el circo.'
- 'Que feo ha de ser encarar al Münich mañana con un cuatro a CERO. ESO tiene que ser desesperante. Como novia cuando no le ha venido la regla.'
- 'Entiendo q sean italianos pero tiene más fútbol la New Horizon que el Milan'] 
+[Tweets más representativos del cluster 46]
+luisffaraj: 2021: Consumir pornografía es educativo y utilizar anticonceptivos es responsabilidad; pero promover la pureza, abstinencia, maternidad y heterosexualidad es perversión y opresión https://twitter.com/luisffaraj/status/1427474391588384770/photo/1
+luisffaraj: Queridas feministas: ¿Por qué no han comenzado una campaña para crear consciencia de la serie ‘Cuties’ de Netflix -explotación sexual de menores-?¿No habrían likes, ni bailecitos tontos allí verdad?Es cierto, no es parte de la agenda ❌
+luisffaraj: C- Los colores arcoíris representan a la comunidad en específico, no a los homosexuales. Muchos no están de acuerdo con la ideología de género y tampoco forman parte de la comunidad. Deberían de tener más cuidado con el mensaje ‘inclusivo’ que desean enviar con esto.
+luisffaraj: Las feministas están solas porque se visten y se cortan el cabello como hombres. Llegan a los 40 años de edad quejándose por estar solas, ¿qué esperabas si tu facha es la misma de John Travolta? La feminidad es tan atractiva. Damas, entre más femeninas, más bellas.
+luisffaraj: “Las feministas luchan por derechos que ya tienen, los homosexuales por derechos que no existen, las abortistas por convertir delitos en derechos, y los socialistas por convertir todas estas mentes débiles en votos para llegar al poder”-Shalom Pérez Carranza
+luisffaraj: Genderfucking: El esfuerzo consciente por subvertir las nociones tradicionales de identidad y roles de género. Esto se puede llevar a cabo con estética queer o drag.Judith Butler es la gasolina de Hollywood « EmilioYitzhak: No sé por qué se sorprenden del ritual satánico en los Grammys. Sabemos que el satanismo es el culto del yo y la muerte, lo cual compone la mayoría de la música de moda de varias décadas. Ahora son más explícitos, pero es lo único que cambia. https://twitter.com/EmilioYitzhak/status/1622768651706277888/video/1 — https://twitter.com/emilioyitzhak/status/1622768651706277888 »
+luisffaraj: Recuerdo cuando a las mujeres les daba vergüenza que los nudes se hicieran virales, ahora los venden a $5Los militantes LGBTQ deben saber que no son especiales porque practican una sexualidad desenfrenada. Son especiales porque están creados a la imagen de Dios. Sigamos…
+luisffaraj: La ley prohíbe a maestros de primaria discutir temas sobre la orientación sexual. Esto para asegurar que los niños reciban educación y no adoctrinamiento. Hollywoodienses siguen llorando ésta ley.A la ideología de género se le vomita, no se le tolera. « tatiana123658: @luisffaraj De que trata esa ley? 🤯 — https://twitter.com/tatiana123658/status/1508527415731052554 »
+luisffaraj: El público cuenta con bebés, niños pequeños y pre adolescentes viendo penes, hombres en hilo y erotismo.Meta: Enseñar el modelo del neo-hombre, desacralizado totalmente. « MythinformedMKE: Can someone with progressive sensibilities please tell us how these sexualized displays can possibly be OK for children to watch??   Don’t understand how this can be applauded.    https://twitter.com/Dominiquetaegon/status/1630948003962912768/video/1 — https://twitter.com/mythinformedmke/status/1630986666960715780 »
+luisffaraj: Solos los que padecen de una anomalía psíquica pueden considerar malo prohibir químicos y cirugías de transición para menores.Los demócratas en Estados Unidos son un conglomerado de enfermos y trastornados de la cabeza « libsoftiktok: Biden suggests it’s “sinful” and “cruel” to ban puberty blockers and sex change surgeries for kids. https://twitter.com/ReduxxMag/status/1635326853555830786/video/1 — https://twitter.com/libsoftiktok/status/1635384964786302978 »
+luisffaraj: Debido a que ‘pedofilo’ suena muy fuerte, la izquierda ha empleado la guerra del lenguaje hace décadas y por allí meter su agenda. Ahora es ‘Persona Atraída a Menores’ (PAM) la cual es *map en inglés.Enfermos degenerados. « libsoftiktok: 🚨🚨🚨This non-binary assistant professor at Old Dominion University is trying to normalize the term MAP (Minor Attracted Persons) https://twitter.com/libsoftiktok/status/1458985538334068740/video/1 — https://twitter.com/libsoftiktok/status/1458985538334068740 »
+luisffaraj: Si Brad Pitt se pone un arito se ve ESTRELLA pero si una persona de aqui del pais lo hace es gay o raro? Doble moral pueblito!
+luisffaraj: En Estados Unidos se prohíben las terapias de conversión para ayudar a los homosexuales que desean cambiar su orientación sexual.En Estados Unidos se permite la mutilación corporal de niños; castración y masectomías para los que desean conversión física.Daños irreversibles
+luisffaraj: Respondo a “La Heterosexualidad y La Monogamía es impuesta” https://twitter.com/luisffaraj/status/1619506593321852932/video/1
+luisffaraj: Esperando con ansias el dragón lesbiano
+RoySantosC: Viruela del Mono, otro verdugo que Dios ha permitido a causa de que la humanidad insiste por el pecado y la maldad - su amenaza primaria es a quienes viven sexualmente fuera de la voluntad de Dios; y, un mensaje claro a quienes insisten en meter a la fuerza ideologías de género. https://twitter.com/RoySantosC/status/1559435591388995584/photo/1
+luisffaraj: El anisexualismo es un arte o una pasion? — una enfermedad http://ask.fm/a/a1a8jhqh
+luisffaraj: @MajoPineda26 Tu premisa inicial es enseñar métodos anticonceptivos pero después hablas de parir (post acto sexual) claramente no te referís a evitar el acto sexual en sí.
+luisffaraj: Que espeluznante futuro se viene con políticos trans, “pansexuales” y más pedofilos.Los aspirantes de derecha a puestos políticos tienen que formarse en debate y argumentación para sobreponerse en intercambios de ideas a nivel público. Exponer a los pseudo intelectuales no es…
+luisffaraj: La administración de Biden ha emitido una nueva guía que avala la cirugía de cambio de sexo como "cuidado de afirmación de género" para los niños.¿Desde cuándo el abuso de menores es cuidar de ellos? « ADFLegal: Biden's HHS has issued new guidance endorsing sex-change surgery as "gender-affirming care" for children. "This extreme policy will leave a legacy of pain and regret that no child should have to endure." - ADF's @ryanlbangert Read more ⬇️https://dailycaller.com/2022/03/31/joe-biden-hhs-child-sex-changes-transgender/ — https://twitter.com/adflegal/status/1509939171833622536 »
 
-Tweets más representativos del cluster 48
-['Destruido' 'POROPOPOOOO POROPOPOOOO EL QUE NO SALTE ES chuco MARICOOOON'
- 'Si la máquina gana hoy pasa a segundo puesto .' 'Desnuda'
- 'HOY EN TEGUCIGALPA. ¡Los Galanes!' '¡Vivos éste cuatro de Octubre!'
- '¡Adiós equipo jetón! ¡Solo fueron jeta toda la temporada!'
- 'Queeee lindo!! Vamos carajo 4ta victoria!' 'Bendito sea Jehová'
- 'Eres veneno vil.'] 
+[Tweets más representativos del cluster 47]
+luisffaraj: @carloszunigahn_ Es una proeza que CR haya conseguido algo con un equipo irrelevante en Europa. Messi es ARGENTINO cuna de jugadores élite en la historia. Ronaldo no alcanzó pelear una final, peor tres de Euro. Perdió una de Euro, nada más. Hizo lo impensable: Campeón con Portugal.
+luisffaraj: @Palomo_ESPN TRES Champions League en una imagen. ¡Dos de los mejores de la historia blanca!
+luisffaraj: @allanfajardo29 ¿Qué hizo de ilegal el Madrid?
+luisffaraj: @JoseSanchez20 encima de puestos uefa jajajajajaa
+luisffaraj: @Ricar_Aguilera en la final de su equipo en la MLS. Al Santos de México... Etc
+TommyZambranoM: Alegres los habitantes de Goascoran por este proyecto de alumbrado del estadio de grama sintética ejecutado por el presidente @JuanOrlandoH https://twitter.com/tommydiputado/status/811692292843175938/photo/1
+luisffaraj: @JesusPas92 Pero Ribery y Robben, los dos.. Tienen problemas en manos a manos. Por eso no son mediáticos. Les pesa definir partidos.
+luisffaraj: @Nilohn Duele pero estoy de acuerdo bebé. El Madrid ha ganado ya sin CR. Pero es mi vida.
+luisffaraj: @alanmartie Pero lo bueno que estuvimos en el Bayern-FCB y BV-Real Madrid jajajajajajaja
+luisffaraj: @fredhermel Pues bien que tiene una Champions en su palmarés. Fácil hablar después de logros.
+luisffaraj: @thebarcagirl Nadie dijo que era fácil, salvo a los Barcelonas....
+luisffaraj: "@ESPNDatos: Claudio Bravo llegó a 8 partidos de Liga sin recibir gol esta temporada. https://twitter.com/ESPNDatos/status/523573228405415936/photo/1"//Ya va a llegar al Bernabeu :)
+luisffaraj: @kagisgarcia Campeones 2006-2007 que le remontamos al FCB. Yo tengo la de Zizou esa misma (ya se había retirado pero es mi ídolo)
+luisffaraj: @As_TomasRoncero caes mal... Y soy Madrid
+luisffaraj: @RamsesBarientos Atlético ganó en Bernabeu y Madrid empató en el Calderón. Atleti le toca ir al Nou Camp en la ÚLTIMA fecha de la Liga jajaj
+luisffaraj: @FernandoAndree8 Si es mano.... pero el Bayern se cansa de fallar.
+luisffaraj: @87gag Dame alguien que ha metido una chilena a 2.23 mts de altura al mejor portero de la historia, al mejor equipo de Italia en cuartos de final de Champions League.Te espero.
+luisffaraj: @JoseSanchez20 Quemado y viene de ganar una CHAMPIONS LEAGUE. ¿Lees las incoherencias que pones???
+luisffaraj: @vipjava Si era tan facil meterles 6 entonces porque el Madrid fue el primer equipo en la historia en hacerlo? :)
+luisffaraj: @2010MisterChip para mi... el más cargado de morbo. Le sigue el 2012 el Madrid sentencia la Lig nou Camp. Cualquiera de los dos.
 
-Tweets más representativos del cluster 49
-['Y usted desvelándose estudiando Comunicaciones y Publicidad en un país donde premian la pendejada y no la inteligencia.'
- 'Lo hemos venido advirtiendo todos los sectores del país, pero sorprende que no se escucha - y estoy seguro que si otro partido político gobernara, tuviésemos caos con quemas y destrucción. Quiten ambiciones de poder y hagan lo correcto tal como prometieron. HN observa! « diarioelheraldo: Los expertos coinciden que si la elección de la CSJ se realiza sin la ratificación de la directiva de la CN, este proceso estaría marcado con vicios de nulidad — »'
- 'Como sabrán, nunca hablo de política, no me gusta tocar el tema; mejor hablemos de series. Solo una consulta a mis amiguitos azules: ¿Qué diferencia hay entre ustedes y los seguidores de Pablo Escobar?'
- 'Enhorabuena combate a la corrupción en HN! Solo pedimos que sea una acción de justicia, y no por persecución política ni por venganza, mucho menos por sospechas. Para evitar q al final de los juicios en la Cortes, las instituciones veedoras no queden burladas como siempre.'
- 'Todos queremos saber la verdad sobre los hospitales móviles, pero debemos esperar informes de los auditores y de entes encargados de fiscalizar - para no estar igual, como muchos desbocados que hablan disparates, solo dejándose llevar por el morbo político. Cuidado!'
- 'Si solamente escuchamos información alineada con nuestra ideología o solo leemos contenido con el cual coincidimos políticamente; si solamente conversamos con personas que se mueven en nuestro mismo círculo socio-económico, solamente nos volveremos intolerantes e ignorantes.'
- 'RESPUESTA DE DIOS a oraciones de la iglesia por elección de CSJ, ese conflicto después de firmado acuerdo — partidos de oposición deben exigir que PSH entre a negociación, porque el gobierno el pueblo se lo entregó a la Alianza entre Libre-PSH. Hay que volver al camino correcto.'
- 'Por las malas decisiones de Libre en materia económica los convierte en Los responsables que en el país este la Canasta Básica por las nubes , no se laven las manos culpando al Gobierno anterior ya nadie les cree.'
- 'Las decisiones caprichosas que toman los que gobiernan al final tendrá sus consecuencias - los desfiles patrios lo convirtieron en un desfile político e ideológico que recibió el rechazo de los hondureños y sorprendió que hasta de sus mismos seguidores. Se cumple Eclesiastés 7.13'
- 'Debemos orar a Dios para que el gobierno se enfoque en gobernar para el bien de HN y no para otras ambiciones de poder; que ordenen JD del CN y que en todo el proceso legislativo en especial la elección de CSJ y FG lo haga conforme a ley, para evitar una crisis peor a la de 2009.'] 
+[Tweets más representativos del cluster 48]
+luisffaraj: Eyaaaaaaa gol de Messi.
+luisffaraj: Alguien que me preste palabras para describir a Cristiano... no se explica.
+luisffaraj: Si conozco a Ramos, Cristiano, Modric o Kroos... no se si podré subir foto debido al infarto. Ocupo prepararme para no llorar.
+luisffaraj: Cristiano ya no le celebra los goles al Barza. Q feo.
+luisffaraj: Muchos desacuerdos dentro del marco del respeto. Ser cristiano no es sinónimo de homofobia.https://www.instagram.com/tv/CQh4nMaJkcJ/?utm_medium=copy_link https://twitter.com/luisffaraj/status/1408569605480718340/video/1
+luisffaraj: POSTEEEEE DE CR7!!!
+luisffaraj: Por cierto, todavía sostengo esto… « luisffaraj: Kylian Mbappe es el mejor del mundo — https://twitter.com/luisffaraj/status/1599445794121125890 »
+luisffaraj: Chuck Bass cae bien A VECES. Pero que hdp más arrogante. Ni CR7 en sus días.
+luisffaraj: Dos de el MEJOR DEL MUNDO. RONALDO DOS SANTOS
+luisffaraj: Murió Lito Luzardo?????
+luisffaraj: Vamooooossss Dortmund!! Gol!!
+luisffaraj: Cristiano que acabas de hacer :D
+luisffaraj: Dani Alves parecía la Orca de Sea World cuando le brinca a Cristiano. Lástima por el humano, un dios bajó la pelota enfrente de el. Dichoso.
+luisffaraj: Hoy un taxista recibió a Cristo
+luisffaraj: Cristiano tiene q cambiar de banda.
+luisffaraj: 40 kilos de salsa, en la cara dos soles.
+luisffaraj: Ángel, SOMOS ARENA Y MAR...!
+luisffaraj: ASÍ ES. RONALDO ANDA LA TIZA MOJADA.
+luisffaraj: AGARRENSE QUE MONSTRUO DE BANDA VIENE
+luisffaraj: 3 am... Insomnio. Que mal ésto. Chet chet chet.
 
-Tweets más representativos del cluster 50
-['ÉSTO ES PARA UDS PA QUE SE LO GOZEN' 'Que golazo... 3 a 0...'
- 'Que golazo.' 'Peter Chech es irreal.'
- 'Héctor El Father - Payaso Increíble.'
- 'gordillo estupido obeso — Besitos' 'MAURICIO VILLEDA TENES MI VOTO'
- 'Que golazo mete Arbeloa.' 'GOLAZO DEL COLOMBIANO DE ORO'
- 'Que golazo el de Eboue'] 
+[Tweets más representativos del cluster 49]
+luisffaraj: Vamos España!! Me dicen que llevamos 4 postes?! Vamoooos! Maldita clase ésta quiero salir a ver a mi real! Vamooos!
+luisffaraj: A lo LOCO se vive mejor « futbol_rebelde: En reunión con gente del Leeds, Bielsa consultó cuánto debe trabajar un hincha para poder comprar una entrada. El cálculo dio tres horas. Tras esto, Marcelo hizo que los jugadores limpiaran el predio donde entrenan para que tomaran conciencia del esfuerzo que hacen los hinchas https://twitter.com/futbol_rebelde/status/1026130796191666177/photo/1 — https://twitter.com/futbol_rebelde/status/1026130796191666177 »
+luisffaraj: Que me encanta ésta etapa del fútbol europeo. Aquí es cuando chispean En galones, pero llega el mes de Mayo y son lágrimas. Que rico.
+luisffaraj: Qué injusto és el fútbol. Una vez más la FIFA está engañada y sabe poco. Doble cara tienen.
+luisffaraj: @MariooPavon Entonces te basas en gambetas, en jugadas que no llegaron a ganarte títulos solo "momentos" en un partido :) de qué sirve?
+luisffaraj: REAL, REAL… NO LE FALLES A TU HINCHADA HOY: AQUÍ ESTOY, ¡ESPAÑA MORIRÉ!
+luisffaraj: JAJAJAJAJAJAJAJAJAJAJAJAJAJA AY DIOS LAS COSAS QUE UNO LEE « MotivacionesF: El próximo heredero del trono del fútbol 👑 https://twitter.com/MotivacionesF/status/881937884785332224/photo/1 — https://twitter.com/motivacionesf/status/881937884785332224 »
+luisffaraj: Damos pena en política, fútbol, costumbres, noticias y mucho más.¡Qué vergüenza!!
+luisffaraj: La defensa de España anda perdida. Alba, Ramos y Dave JAMÁS se juntaron.
+luisffaraj: El fútbol fue pisoteado hoy.
+luisffaraj: Que JUGADOR es Kanté
+luisffaraj: Ver a Pirlo jugar es como escuchar a Mozart, son dos obras maestras. Y seguimos la metáfora: Ver jugar a Bengston es como escuchar a Polache
+luisffaraj: Eres Real España!!! Me llega :D — HASTA LA MUERTE http://ask.fm/a/ak3e5il5
+luisffaraj: @PDexter30 Vi que debatió con Carlos Muñoz. Pero, no lo he visto debatir con alguien de altura. ¿Por qué se niega a debatir?
+luisffaraj: @DiarioDiez EN VEZ DE ENFOCARSE EN EL CLÂSICO ESPAÑA-MARATHON, POSTEAN COSAS DE LA LIGA ESPAÑOLA. DAN PENA, SON UNA VERGÜENZA.
+luisffaraj: El Atleti tiene 11 GLADIADORES, no jugadores.
+luisffaraj: Alexis Sánchez:"Soy un jugadorazo" la jugada de ahorita dice que NO lo és jajaja jugador MALO! MALO! TORTA!
+luisffaraj: Inmerecido. Pero el fútbol es de HACER, no merecer.
+luisffaraj: Si no existiera Real España que equipo fueras de la liga Hondureña — Motagua http://ask.fm/a/a18qine6
+luisffaraj: Para que los logros tengan mérito tus jugadores tienen que ser todos de la filial! O sino no se vale!!
 
-Tweets más representativos del cluster 51
-['No me importa ser tu juguete humano, cumple tu misión! YO ESTARÉ EN PIE.'
- 'Hay gente que nunca aprende, siempre és lo mismo.'
- 'American Pie... No puede ser lo q acabo de ver jajajaja'
- 'SE ME CAE EL PELO'
- 'No sé que es más malo: si cachetear a tu mamá o Robinho.'
- 'Felíz día mi doctora Lul, la lloro todos los días.'
- 'AMO vivir con mi abuela. Qué bendición tenerla aquí.'
- 'Nunca vamos a progresar como nación si existen rolas como Socadita.'
- 'No sé si quiero causar envidia o molestia pero mi boleto de Batman lo tengo hace 3 semanas.'
- 'No hay día que no le pida que me ayude a ser un mejor siervo.'] 
+[Tweets más representativos del cluster 50]
+luisffaraj: Vamos máquina
+luisffaraj: Vamooos carajooo vamos https://twitter.com/ffaraj/status/296707834710749184/photo/1
+luisffaraj: VAMOS MÁQUINA
+luisffaraj: VAMOS AURINEGROS!!!! VAMOS!!!
+luisffaraj: Vamos realeza!
+luisffaraj: Kiko Casilla VAMOS LOCO
+luisffaraj: Mi amooooor!! https://twitter.com/ffaraj/status/364946272748204032/photo/1
+luisffaraj: VAMOS AURINEGROS!!!
+luisffaraj: Vamos aurinegros
+luisffaraj: GOOOOOOOOOOL!! AURINEGRO!! A REMONTAR VAMOS!!
+luisffaraj: A VOLAR
+luisffaraj: Vamooos realeza!! Vaamooos carajo!
+luisffaraj: VAMOOOOS MI PAIS HERMOSOOO BELLOOO PRECIOSOOOOOO DIOS MIO CALMAME
+luisffaraj: Vamos aurinegrooooos!!
+luisffaraj: VAMOS AURINEGROS!! VAMOOOS!!
+luisffaraj: VAMOSS VAMOS REAAAAAL VAMOS CARAJOOOOOOOOOOO
+luisffaraj: GOOOOOOOOOOOOOOL VAMOS CARAJO!! VAMOS!!
+luisffaraj: VAMOS REALEZA!!!!!!!!
+luisffaraj: YA HACIENDO FILA..  VAMOS PAIS....
+luisffaraj: VAMOOOOOOS AURINEGROS!! LINDOO
 
-Tweets más representativos del cluster 52
-['Seguramente vas a enfrentar vientos fuertes, burlas, cansancio y desanimo, pero volver atrás no es una opción, volver atrás es perder, renunciar es morir. Somos de los que avanzamos en Fe, de los que nos aferramos a la cruz y soportamos toda tempestad , no vamos a retroceder!!!!'
- '$MENTION$ ¿Qué tuviera de malo que un maestro cada mañana lea un versículo diario? Ponele: ‘’Buenos dias, ama a tu prójimo como a ti mismo!” Uno de los tres más grandes mandamientos. Ya saben estudiantes, toca tolerarse el uno al otro” hoy en la clase de Cálculo toca ver.... (¡Y ya!)'
- 'Nenas: Lo peor para nosotros -hombres- és que digan boconadas. Damas no se expresan con palabras sucias. Aprendan a hablar, les quita mucho.'
- '$MENTION$ ¿Cómo logra poner su cabeza en la almohada por las noches y descansar tranquilo? Me parece increíble cuanta oscuridad late dentro del corazón de nuestros gobernantes, a veces quiero pensar que se tocarán el corazón y otras veces pienso que no tienen uno. « Rackiminchy: ... — »'
- '“Si se humillare mi pueblo, sobre el cual mi nombre es invocado, y oraren, y buscaren mi rostro, y se convirtieren de sus malos caminos; entonces yo oiré desde los cielos, y perdonaré sus pecados, y sanaré su tierra.” 2 Crónicas 7:14'
- 'EL HIJO DE DIOS no se congrega en el templo por quién predicará - sino que va a la Casa de su Padre. No se congrega para escuchar lo que quiere - sino para recibir lo que necesita. No busca un templo para sentirse bien - sino el lugar que Dios le llevó para cumplir su propósito.'
- 'No es bueno, no es humano burlarse de el estado de forma física de otra persona. No se hace.'
- 'Cuando usted ora a Dios, en el momento propicio ÉL sale a su favor. Igual cuando oramos por la nación. Isaías 65:24 "Y sucederá que antes que ellos clamen, yo responderé; aún estarán hablando, y yo habré oído."'
- 'Sos más grande que tu dolor Sos más grande que tu pasado Sos más grande que tus miedos No sos un error Naciste para un propósito'
- 'No existe tal cosa como un logro que haya acontecido naturalmente. La actitud proviene de aquellos que están interesados en hacer que las papadas sucedan.'] 
+[Tweets más representativos del cluster 51]
+luisffaraj: Perdieron aquellos que dijimos... LÁSTIMA que no es el Granada jaja
+luisffaraj: Si es alagartada la mara en semáforos.
+luisffaraj: Ya quiero el 2do tiempo... Voy a entrenar! Qué rico!
+luisffaraj: Awww todo era risas para los chucos! Que delicioso!!! Que rico!!
+luisffaraj: Terrible. « ArturoZelayaG: @luisffaraj No puede ser que caíste en ese space HAHAHAHAHAHAHA. No sos el primero, pero tampoco el último — https://twitter.com/arturozelayag/status/1494563806298578946 »
+luisffaraj: Mago de Oz 16 de Febrero Tegucigalpa.. Marc Anthony 23 de febrero en la capital igual.
+luisffaraj: Que rico volver a las canchas! A agarrar nivel de nuevo.
+luisffaraj: Ricooo patín al imbécil ése jajaja
+luisffaraj: JAJAJAJA AY DIOS como les regalan penales. Chucos son, chucos serán SIEMPRE.
+luisffaraj: AYY QUE RICO YA ME BORRAN DE FACEBOOK JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJA SIGAN BORRANDOME!! JAJAJAJAJAJ!!
+luisffaraj: Lo peor que es tan mal café 🤢 « DaniPandiita: Como buena mexicana, conocedora de la economía de mi país, les juro que no entiendo como pueden gastarse $80 en un café del Starbucks. ¡Es mucho dinero! — https://twitter.com/danipandiita/status/1588364416243802120 »
+luisffaraj: Juan Carlos Zuniga es un gran hombre, pero como alcalde dejo mucho mucho que desear. Demasiados baches en la ciudad, es horrible.
+luisffaraj: Olimpia será campeón del Torneo Apertura 2011" -Recibe éste y otros chistes mas en tu celular enviando la palabra "Ganas tienen" al 7070!!!
+luisffaraj: Que rico, entrenamiento de calle!!
+luisffaraj: Pucha nací un 15 de septiembre del 91. Soy más patriota que José Cecilio del Valle o que Mel Gibson. Amo mi nación bendita.
+luisffaraj: Siempre és rico tocar en UNO! Gracias.... TOTALES.
+luisffaraj: AY QUE RICO 2 A 0
+luisffaraj: Que rico, el 1ero de diciembre a tocar RHCP.
+luisffaraj: Qué rico hacer piernas.
+luisffaraj: que es lo más rico que has tenido en la boca? — jajaja los labios de una dama http://ask.fm/a/a18khhah
 
-Tweets más representativos del cluster 53
-['La literatura de investigación sobre la conversación eficaz muestra que la “entrega de mensajes” no funciona (Lewin, 1998, pp. 115-116) Los mensajes son información transmitida en transacciones unidireccionales.'
- '“Cuando una ley es injusta lo correcto es desobedecer” – Mahatma Gandhi'
- 'Las personas que viven del pasado sufren depresión, histeria, se amargan y se vuelven violentas - en cambio las que lo superan, no permiten que errores les detengan y hacen cambios sustanciales: se autocorrigen, reempoderan, demuestran nuevas virtudes - su influencia es mayor.'
- 'Cuando Dios ha decidido poner su mano de autoridad sobre las naciones de la tierra, no hay absolutamente nada que lo pueda detener o hacer cambiar de idea. El sigue sacudiendo las naciones buscando que la humanidad se arrepienta y se vuelva a ÉL, y que su iglesia se santifique.'
- 'La soltería es responsabilidad.'
- 'Las vibraciones de pensamientos y sentimientos no se pueden medir de la forma en que medimos la energía y la materia. De modo que la idea de "combinar energías" en la espiritualidad metafísica no está respaldada por la ciencia. Abrazos'
- 'A un niño no se le enseña a respetar un gay, se le enseña a respetar A un niño no se le enseña a no insultar un negro, se le enseña a no insultar A un niño no se le enseña a no maltratar una niña, se le enseña a no maltratar El problema está en los que diferencian los respetos'
- 'Las propuestas que hacen muchos candidatos a elección popular no convence, porque están muy lejos de lo que son como persona. Con solo escucharles hablar deja mucho que desear. Es urgente un mensaje de unidad de país, esperanza generacional, fe a Dios y edificación familiar.'
- 'La inmadurez y el orgullo envanecido por ambiciones personales es lo que impide a un equipo trabajar en unidad. Cuando alguien, por ese tipo de actitudes sacrifica a su equipo, refleja su poca fuerza, y termina eliminado de toda posibilidad de ganar. ¡hay que cambiar de actitud!'
- 'Muchos usan la física cuántica como punto referente y pues, reduccionista al final queriendo poner como fundamento humano que somos meramente “energía” y “vibras”- :thinking_face: :thread:'] 
+[Tweets más representativos del cluster 52]
+luisffaraj: La diferencia es que Iniesta es campeón del mundo con su selección mientras Messi vomita cuando juega con su país.
+luisffaraj: Wow, todos son Juventus ahora. Increíble el hondureño chepión jajajajaja saludos!
+luisffaraj: Que alguien me explique el POR QUE Suarez JODE y JODE y JODE con no llamar a Rambo. POR QUE? POR QUE SI LO NECESITAMOS A GRITOS? POR QUE?
+luisffaraj: A falta de Messi.... los árbitros están.
+luisffaraj: Como que el Münich se va liso ésta temporada.
+luisffaraj: Jugó en Inglaterra contra Tévez, Cristiano Ronaldo, Gerrard, etc... y viene a cagarla en el mundial. Imperdonable, Wilson.
+luisffaraj: En la última final de UCL: FCB-ManU, me enfermé de ésto mismo! 2011. Ésta vez no tan grave... Qué será?
+luisffaraj: Septiembre: ¡El mejor equipo del mundo! ¡Visca! ¡La posesion es todo! ¡Siempre Messi!Mayo: ¡Árbitro ladrón! ¡Madrid basura! ¡Siempre robando! ¡Los de blanco son corruptos! ¡Siempre la FIFA! Que bello el circo.
+luisffaraj: Que feo ha de ser encarar al Münich mañana con un cuatro a CERO. ESO tiene que ser desesperante. Como novia cuando no le ha venido la regla.
+luisffaraj: Entiendo q sean italianos pero tiene más fútbol la New Horizon que el Milan
+luisffaraj: Noooooo se murió Aragones :( noo
+luisffaraj: Señor Suárez: TENES A BECKELES EN EL CAMPO CAGANDOSE EN OFENSIVA Y DEFENSIVA, CIEGO.
+luisffaraj: SUÁREZ ÉS LO PEOR
+luisffaraj: Martes 17 de septiembre la vida cobra sentido: ¡Vuelve la Champions!
+luisffaraj: ''La gente que critica a Neymar es la misma que cambia de trabajo por cinco mil bolas más''
+luisffaraj: Maldito fútbol. Hasta el sueño me quita... ¡Vamos Madrid!
+luisffaraj: ¿Qué será que Messi uno más en la selección?
+luisffaraj: Corinthians se proclama campeón INVICTO de la Libertadores. Juee....
+luisffaraj: Conferencia de Prensa, Suárez.
+luisffaraj: Lo siento por los Hondu-catalanes pero a su ''Barca reforzado'' le ensartaron 3 a CERO, CASI CASI como el Munich! Casi! Que ricooo!!
 
+[Tweets más representativos del cluster 53]
+luisffaraj: Destruido
+luisffaraj: POROPOPOOOO POROPOPOOOO EL QUE NO SALTE ES chuco MARICOOOON
+luisffaraj: Si la máquina gana hoy pasa a segundo puesto .
+luisffaraj: Desnuda
+luisffaraj: HOY EN TEGUCIGALPA. ¡Los Galanes! https://twitter.com/ffaraj/status/578435054038163456/photo/1
+luisffaraj: ¡Vivos éste cuatro de Octubre! https://twitter.com/ffaraj/status/648699002574077952/photo/1
+luisffaraj: ¡Adiós equipo jetón! ¡Solo fueron jeta toda la temporada!
+luisffaraj: Queeee lindo!! Vamos carajo 4ta victoria!
+luisffaraj: Bendito sea Jehová
+luisffaraj: Eres veneno vil.
+luisffaraj: MURIÓ CHESPIRITO :(
+luisffaraj: Mira Micaela como bial boogaloo!
+luisffaraj: ESO ES ROJA NO JODAN
+luisffaraj: iVAMOS GRINGOS!
+luisffaraj: Nombe ya lloro
+luisffaraj: Qué golazos los de la máquina hoy por Dios.
+luisffaraj: QUE GRANDE LA MÁQUINA CARAJO
+luisffaraj: Aunque eso brille no vaaaale!
+luisffaraj: Andale, andale mami ei ei oh ohhh
+luisffaraj: Al Morazán a ver al equipo único de mi ciudad! Vaaaamos aurinegros!
+
+[Tweets más representativos del cluster 54]
+luisffaraj: Y usted desvelándose estudiando Comunicaciones y Publicidad en un país donde premian la pendejada y no la inteligencia. https://twitter.com/ffaraj/status/1002673621540753409/photo/1
+RoySantosC: Lo hemos venido advirtiendo todos los sectores del país, pero sorprende que no se escucha - y estoy seguro que si otro partido político gobernara, tuviésemos caos con quemas y destrucción. Quiten ambiciones de poder y hagan lo correcto tal como prometieron. HN observa! « diarioelheraldo: Los expertos coinciden que si la elección de la CSJ se realiza sin la ratificación de la directiva de la CN, este proceso estaría marcado con vicios de nulidadhttps://www.elheraldo.hn/honduras/ratificacion-directiva-congreso-nacional-crisis-constitucional-GC9499668 — https://twitter.com/diarioelheraldo/status/1557007543339085825 »
+luisffaraj: Como sabrán, nunca hablo de política, no me gusta tocar el tema; mejor hablemos de series. Solo una consulta a mis amiguitos azules: ¿Qué diferencia hay entre ustedes y los seguidores de Pablo Escobar?
+RoySantosC: Enhorabuena combate a la corrupción en HN! Solo pedimos que sea una acción de justicia, y no por persecución política ni por venganza, mucho menos por sospechas. Para evitar q al final de los juicios en la Cortes, las instituciones veedoras no queden burladas como siempre.
+RoySantosC: Todos queremos saber la verdad sobre los hospitales móviles, pero debemos esperar informes de los auditores y de entes encargados de fiscalizar - para no estar igual, como muchos desbocados que hablan disparates, solo dejándose llevar por el morbo político.Cuidado!
+luisffaraj: Si solamente escuchamos información alineada con nuestra ideología o solo leemos contenido con el cual coincidimos políticamente; si solamente conversamos con personas que se mueven en nuestro mismo círculo socio-económico, solamente nos volveremos intolerantes e ignorantes.
+RoySantosC: RESPUESTA DE DIOS a oraciones de la iglesia por elección de CSJ, ese conflicto después de firmado acuerdo — partidos de oposición deben exigir que PSH entre a negociación, porque el gobierno el pueblo se lo entregó a la Alianza entre Libre-PSH. Hay que volver al camino correcto. https://twitter.com/RoySantosC/status/1625851869854838786/photo/1
+TommyZambranoM: Por las malas decisiones de Libre en materia económica los convierte en Los responsables que en el país este la Canasta Básica por las nubes , no se laven las manos culpando al Gobierno anterior ya nadie les cree. https://twitter.com/TommyZambranoM/status/1587090080237293568/video/1
+RoySantosC: Las decisiones caprichosas que toman los que gobiernan al final tendrá sus consecuencias - los desfiles patrios lo convirtieron en un desfile político e ideológico que recibió el rechazo de los hondureños y sorprendió que hasta de sus mismos seguidores. Se cumple Eclesiastés 7.13 https://twitter.com/RoySantosC/status/1570463626170884098/photo/1
+RoySantosC: Debemos orar a Dios para que el gobierno se enfoque en gobernar para el bien de HN y no para otras ambiciones de poder; que ordenen JD del CN y que en todo el proceso legislativo en especial la elección de CSJ y FG lo haga conforme a ley, para evitar una crisis peor a la de 2009.
+RoySantosC: Esperanzador aprobación de leyes contra la corrupción en HN. Ahora a esperar que los entes encargados  de hacer justicia, accionen sin excepción alguna, en todos los gobiernos; pues vemos a algunos funcionarios en el gobierno actual, que tienen condenas y andan Libres.
+RoySantosC: En mi derecho como ciudadano hondureño, hago un llamado: que no se puede elegir una nueva CSJ, ni FG, ni seguir legislando, mientras  no se ordene constitucionalmente la JD del CN. Los partidos políticos, la sociedad civil deben actuar con responsabilidad. Es el destino de HN.
+RoySantosC: El diputado Carlos Zelaya fue claro en decir con contundencia que siguen una agenda (Foro de São Pablo), si después dijera algo al respecto, solo sería para dorar la píldora. Pecan de inocentes quienes creen que se tendrá una CSJ independiente. Libre va aprovecharse del poder.
+RoySantosC: Los únicos que hablan de “golpe de estado” son los que buscan una constituyente. Ya no les funciona crear división y caos con mentiras, porque ahora son gobierno en una alianza. El país no quiere más crisis, entonces dejen de provocarla. Dios cuida de HN—¡Iglesia sigamos orando! https://twitter.com/RoySantosC/status/1610895079413108736/photo/1
+RoySantosC: Bíblicamente, el gobierno de la alianza y sobre todo Libre está cosechando el odio divisor que sembró en 12 años, y más, con una gestión con ilegalidades y abusos. Hoy ante tantos riesgos hay que corregir, volverse a Dios, edificar para el bien común y procuremos la paz. Oremos+! https://twitter.com/RoySantosC/status/1582398113024659457/photo/1
+luisffaraj: 1. Implementan una ley donde tipifican la protesta como “Terrorismo” y todas sus aplicaciones penales.2. Prohiben la portación de armas mientras dura las elecciones y escrutinio, considerando alargarlo. Ósea, desarman al pueblo.3. Militarizan la nación.¿QUÉ NO ES DICTADURA?
+RoySantosC: Aplaudo la decisión de gobierno, en declarar emergencia en Centro Penales. Pero también, tiene que ir con todo para descubrir las mentes macabras que planifican y pagan esas matanzas - pues no es suficiente con capturar a los ejecutores. ¡Dejemos a autoridades hacer su trabajo! https://twitter.com/RoySantosC/status/1206966747456249856/photo/1
+RoySantosC: No es de extrañarnos con la libertad otorgada al señor Chimirri, pues en HN ya es costumbre ver la aprobacion de leyes que favorecen a funcionarios que cargan probados casos de corrupción. ¿Dónde quedó el combate a la corrupción?Esto nos dice, que lo que viene es peor!
+RoySantosC: Aplaudimos la decisión del gobierno en dar prioridad a la iglesia del Señor, al permitir  iniciar sus reuniones en la primera fase de reapertura, ya que eso trae de parte de Dios fuerza espiritual y que su mano nos siga ayudando para enfrentar esta batalla.
+RoySantosC: Invito a CN a dar celeridad a estas iniciativas que son de gran ayuda al trabajador hondureño. ¡Confío que se hará pronto! « JuanOrlandoH: Más del 60% de los trabajadores hondureños solo ven pasar su salario a fin de mes. Es urgente que el @Congreso_HND retome la discusión de la Ley de Alivio de Deuda y se pongan en los zapatos de los demás. https://twitter.com/JuanOrlandoH/status/1176113989228609536/video/1 — https://twitter.com/juanorlandoh/status/1176113989228609536 »
+
+[Tweets más representativos del cluster 55]
+luisffaraj: ÉSTO ES PARA UDS PA QUE SE LO GOZEN
+luisffaraj: Que golazo... 3 a 0...
+luisffaraj: Que golazo.
+luisffaraj: Peter Chech es irreal.
+luisffaraj: Héctor El Father - PayasoIncreíble.
+luisffaraj: gordillo estupido obeso — Besitos http://ask.fm/a/b01o4iei
+luisffaraj: MAURICIO VILLEDA TENES MI VOTO
+luisffaraj: Que golazo mete Arbeloa.
+luisffaraj: GOLAZO DEL COLOMBIANO DE ORO
+luisffaraj: Que golazo el de Eboue
+luisffaraj: HOY EN LA VACANTEEEEE
+luisffaraj: Qué GOLAZO marca Dí María. Qué bárbaro.
+luisffaraj: Qué golazo, Gaymar.
+luisffaraj: Golazo metió la loca
+luisffaraj: Que GOLAZO acabo de ver en vivo. GOLAZO de la Lazio, qué locura de gol del brasileiro. Carajo que bárbaro.
+luisffaraj: BENGSTON BASURA!! JUGADOR BASURA!! BASOFIA!!! RETIRATE TORTA!! TORTA!!
+luisffaraj: QUE GOLAZO DE BALE
+luisffaraj: Siento que viajo en la nube volandora de Gokú
+luisffaraj: Otro golazo. Que bochorno.
+luisffaraj: “Gol p*ta madre gol” y en lágrimas... ni más ni menos como lo gritábamos todos. Lloré como niño ese gol. « Villeda1956: Y a falta de pocos días para la CopaDelMundo, he aquí el gol que más he gritado en mis 21 años de vida. Gracias infinitas @carlocostly31. https://twitter.com/Cris_Villeda10/status/1004716042256633859/video/1 — https://twitter.com/cris_villeda10/status/1004716042256633859 »
+
+[Tweets más representativos del cluster 56]
+luisffaraj: No me importa ser tu juguete humano, cumple tu misión! YO ESTARÉ EN PIE.
+luisffaraj: Hay gente que nunca aprende, siempre és lo mismo.
+luisffaraj: American Pie... No puede ser lo q acabo de ver jajajaja
+luisffaraj: SE ME CAE EL PELO
+luisffaraj: No sé que es más malo: si cachetear a tu mamá o Robinho.
+luisffaraj: Felíz día mi doctora Lul, la lloro todos los días.
+luisffaraj: AMO vivir con mi abuela. Qué bendición tenerla aquí.
+luisffaraj: Nunca vamos a progresar como nación si existen rolas como Socadita.
+luisffaraj: No sé si quiero causar envidia o molestia pero mi boleto de Batman lo tengo hace 3 semanas.
+luisffaraj: No hay día que no le pida que me ayude a ser un mejor siervo.
+luisffaraj: ODIO cuando se me acaba la bebida antes que la comida -.-
+luisffaraj: ...y sacarme de adentro tus besos, tu cuerpo....
+luisffaraj: De regreso a casa por un par de días https://twitter.com/luisffaraj/status/1613394736449994752/photo/1
+luisffaraj: Acabo de ver lo más salvaje: un cura con un arito.
+luisffaraj: En avión, por tren, por mar...por donde sea.
+luisffaraj: Wow. Qué hambre tengo. Estar home alone tiene pros y contras: Nadie te cocina. Dammit!
+luisffaraj: Soñé que andaba un arito en la oreja derecha.
+luisffaraj: Bendito sea Dios en todo momento
+luisffaraj: Por cierto, CR donde sea que agarre a Buffon...
+luisffaraj: Después de un nuevo adiós siempre cuesta despertar.
+
+[Tweets más representativos del cluster 57]
+TommyZambranoM: Seguramente vas a enfrentar vientos fuertes, burlas, cansancio y desanimo, pero volver atrás no es una opción, volver atrás es perder, renunciar es morir. Somos de los que avanzamos en Fe, de los que nos aferramos a la cruz y soportamos toda tempestad , no vamos a retroceder!!!!
+luisffaraj: @carloszunigahn_ ¿Qué tuviera de malo que un maestro cada mañana lea un versículo diario? Ponele: ‘’Buenos dias, ama a tu prójimo como a ti mismo!” Uno de los tres más grandes mandamientos. Ya saben estudiantes, toca tolerarse el uno al otro” hoy en la clase de Cálculo toca ver.... (¡Y ya!)
+luisffaraj: Nenas: Lo peor para nosotros -hombres- és que digan boconadas. Damas no se expresan con palabras sucias. Aprendan a hablar, les quita mucho.
+luisffaraj: @JuanOrlandoH ¿Cómo logra poner su cabeza en la almohada por las noches y descansar tranquilo? Me parece increíble cuanta oscuridad late dentro del corazón de nuestros gobernantes, a veces quiero pensar que se tocarán el corazón y otras veces pienso que no tienen uno. « Rackiminchy: ... https://twitter.com/Rackiminchy/status/1272309770486190085/video/1 — https://twitter.com/rackiminchy/status/1272309770486190085 »
+luisffaraj: “Si se humillare mi pueblo, sobre el cual mi nombre es invocado, y oraren, y buscaren mi rostro, y se convirtieren de sus malos caminos; entonces yo oiré desde los cielos, y perdonaré sus pecados, y sanaré su tierra.”2 Crónicas 7:14 https://twitter.com/luisffaraj/status/1324213454413176833/photo/1
+RoySantosC: EL HIJO DE DIOS no se congrega en el templo por quién predicará - sino que va a la Casa de su Padre. No se congrega para escuchar lo que quiere - sino para recibir lo que necesita. No busca un templo para sentirse bien - sino el lugar que Dios le llevó para cumplir su propósito. https://twitter.com/RoySantosC/status/1238110712796532740/photo/1
+luisffaraj: No es bueno, no es humano burlarse de el estado de forma física de otra persona. No se hace.
+RoySantosC: Cuando usted ora a Dios, en el momento propicio ÉL sale a su favor. Igual cuando oramos por la nación.Isaías 65:24"Y sucederá que antes que ellos clamen, yo responderé; aún estarán hablando, y yo habré oído."
+luisffaraj: Sos más grande que tu dolorSos más grande que tu pasadoSos más grande que tus miedosNo sos un errorNaciste para un propósito
+luisffaraj: No existe tal cosa como un logro que haya acontecido naturalmente.La actitud proviene de aquellos que están interesados en hacer que las papadas sucedan.
+luisffaraj: "Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados."-Jesucristo « emilyepalmer: El juez también señaló que había recibido cartas de la madre y los hermanos de Tony: “eran cartas maravillosas, las leí todas y cada una”. El fiscal siguió calificando la declaración de Tony de "asombrosa" y "deslumbrante". — https://twitter.com/emilyepalmer/status/1376975997472550917 »
+luisffaraj: “Las personas primero, las estrategias despues’’
+RoySantosC: El bien que se haga, por muy pequeño que se vea, tendrá su fruto; de igual manera, el mal siempre tendrá sus consecuencias.Mateo 7.17,19 Así, todo buen árbol da buenos frutos, pero el árbol malo da frutos malos.Todo árbol que no da buen fruto, es cortado y echado en el fuego.
+luisffaraj: “Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás, ni la llama arderá en ti.”Isaías 43:2
+TommyZambranoM: termina el tiempo de la demora y entras en tiempo de aceleramiento ,desempolva ese libro donde tienes escrito esos grandes sueños porque uno a uno Dios te va a responder,vas camino a cumplimiento, nunca pares de soñar ; Dios está contigo y te va a cumplir el deseo de tu corazón .
+luisffaraj: @HaizelMcCarthy7 no podes olvidar como te hizo sentir una persona... Eso siempre estará allí. Olvidar la persona si.
+TommyZambranoM: Nunca cierres tu mano para dar , la mano que siempre da;siempre tendrá ,el dar te habilita para que recibas cosecha ,por pequeña o grande que sea la semilla ;si o si te produce. El efecto de la bendición es multiplicador ,cada vez que bendices ,la medida que recibes es buena.
+TommyZambranoM: El deseo de Dios es bendecirte; no compitas con nadie pues a cada quien Dios le dio de acuerdo a Su gracia ; eres único ; el día que Dios te creo te hizo genuino; no eres copia de nadie eres imagen y semejanza de Dios; sé genuino .
+luisffaraj: Ahora extraños son los que dictan cuanto tiempo de luto hay que guardar para volver a tener una relación.Estamos jodidos. « lecoloche: Creo que el señor Germán Ponce tuvo que guardarle un poco mas de luto a su ex esposa. Creen uds que dos años es suficiente para casarse otra vez? — https://twitter.com/lecoloche/status/1352655096568492032 »
+luisffaraj: Quien usa tu pasado para condenar y traerte tristeza es aquel mismo que está derrotado. Jesucristo es el único que mira en lo que podes llegar a convertirte. Podemos ser esperanza para el perdido y agua para el que tenga sed: Un arma que no destruye, un arma forjada con amor.
+
+[Tweets más representativos del cluster 58]
+luisffaraj: La literatura de investigación sobre la conversación eficaz muestra que la “entrega de mensajes” no funciona (Lewin, 1998, pp. 115-116) Los mensajes son información transmitida en transacciones unidireccionales.
+luisffaraj: “Cuando una ley es injusta lo correcto es desobedecer”– Mahatma Gandhi
+RoySantosC: Las personas que viven del pasado sufren depresión, histeria, se amargan y se vuelven violentas - en cambio las que lo superan, no permiten que errores les detengan y hacen cambios sustanciales: se autocorrigen, reempoderan, demuestran nuevas virtudes - su influencia es mayor.
+RoySantosC: Cuando Dios ha decidido poner su mano de autoridad sobre las naciones de la tierra, no hay absolutamente nada que lo pueda detener o hacer cambiar de idea. El sigue sacudiendo las naciones buscando que la humanidad se arrepienta y se vuelva a ÉL, y que su iglesia se santifique. https://twitter.com/RoySantosC/status/1309468019169595398/photo/1
+luisffaraj: La soltería es responsabilidad.
+luisffaraj: Las vibraciones de pensamientos y sentimientos no se pueden medir de la forma en que medimos la energía y la materia. De modo que la idea de "combinar energías" en la espiritualidad metafísica no está respaldada por la ciencia.Abrazos
+luisffaraj: A un niño no se le enseña a respetar un gay, se le enseña a respetarA un niño no se le enseña a no insultar un negro, se le enseña a no insultarA un niño no se le enseña a no maltratar una niña, se le enseña a no maltratarEl problema está en los que diferencian los respetos
+RoySantosC: Las propuestas que hacen muchos candidatos a elección popular no convence, porque están muy lejos de lo que son como persona. Con solo escucharles hablar deja mucho que desear.Es urgente un mensaje de unidad de país, esperanza generacional, fe a Dios y edificación familiar.
+RoySantosC: La inmadurez y el orgullo envanecido por ambiciones personales es lo que impide a un equipo trabajar en unidad. Cuando alguien, por ese tipo de actitudes sacrifica a su equipo, refleja su poca fuerza, y termina eliminado de toda posibilidad de ganar. ¡hay que cambiar de actitud!
+luisffaraj: Muchos usan la física cuántica como punto referente y pues, reduccionista al final queriendo poner como fundamento humano que somos meramente “energía” y “vibras”- 🤔🧵
+TommyZambranoM: Este es un tiempo de oportunidades; de conexiones divinas , de relaciones estratégicas, hay portales abiertos para entrar a poseer , sacúdete de la frustración, este es tiempo de salida a la prueba ; las puertas que El abrió son para gozo , paz , bienestar y plenitud .
+luisffaraj: Si son productos químicos, son "materia". Y esta materia está formada por átomos que chocan y vibran. Por lo tanto, el objetivo de uno puede ser esforzarse en actividades y crear un entorno que libere buenas vibraciones neuroquímicas.Ésta teoría simplemente es...
+luisffaraj: “Resistencia a la tiranía es obediencia a Dios”-John Knox
+luisffaraj: Dentro de esos 52 incluyo lecturas que quiero volver a revisar como ser los Diálogos Socráticos, The Problem of Pain (Lewis), Man’s Search for Meaning de Frankl y La Presencia ignorada de Dios.Continuo con la misma nomenclatura de Historia, Filosofía, Teología y Psicología.
+luisffaraj: Una actitud de aprendizaje en tiempos difíciles hará que dejemos de sangrar encima de personas que no nos han cortado.
+RoySantosC: Que fácil es responsabilizar a uno, cuando los responsables son todos. La verdad siempre llega en el momento preciso.
+luisffaraj: hacer cosas buenas para sentirse bien. La ciencia no vincula los sentimientos y la espiritualidad a sus leyes de vibración porque los átomos; piedras, metal o agua no tienen pensamientos y sentimientos, y la ciencia no puede cuantificar los atributos espirituales en nada.
+luisffaraj: Una madre de familia grave de salud que tuvo que hacer un esfuerzo ENORME físicamente para poder estar en la boda de su HIJA, cometió UN error nada más y SÓLO UNO: Caer en boca del hondureño.Doña Ninoska, espero haya tenido un tiempo espectacular con su familia;
+luisffaraj: La maldad del mundo había llegado a tal punto que Dios tuvo que intervenir permitiendo ésta pandemia. Se detuvo en gran manera la muerte de inocentes, menos abortos realizados; el crimen y otros actos de maldad han perdido fuerza.La luz siempre domina sobre las tinieblas.
+luisffaraj: Un contenido intelectual sin una práctica vivencial nos deja con un escolasticismo inmovilizador. Por otro lado, una práctica vivencial no anclada en un contenido intelectual nos deja con un misticismo impotente.
