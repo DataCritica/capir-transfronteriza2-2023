@@ -1,0 +1,3031 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.433">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>brasilsemaborto analysis</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
+<script src="https://unpkg.com/@jupyter-widgets/html-manager@*/dist/embed-amd.js" crossorigin="anonymous"></script>
+
+
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+        <div class="quarto-navbar-tools ms-auto">
+</div>
+          <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><code>brasilsemaborto</code> analysis</li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Home</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text">Brasil</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/brasilsemaborto.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="citation" data-cites="brasilsemaborto">@brasilsemaborto</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/nikolas_dm.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="citation" data-cites="nikolas_dm">@nikolas_dm</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/pastormalafaia.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="citation" data-cites="PastorMalafaia">@PastorMalafaia</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+ <span class="menu-text">Colombia</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/unidosxlavidaco.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="citation" data-cites="UnidosxlaVidaCo">@UnidosxlaVidaCo</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/mariafdacabal.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="citation" data-cites="MariaFdaCabal">@MariaFdaCabal</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/misionpaz.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="citation" data-cites="misionpaz_">@misionpaz_</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+ <span class="menu-text">Ecuador</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/familiaecuador.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="citation" data-cites="_FamiliaEcuador">@_FamiliaEcuador</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/etorrescobo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="citation" data-cites="etorrescobo">@etorrescobo</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../pages/mamelafialloflo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="citation" data-cites="MamelaFialloFlo">@MamelaFialloFlo</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#nikolas_dm-analysis" id="toc-nikolas_dm-analysis" class="nav-link active" data-scroll-target="#nikolas_dm-analysis"><code>nikolas_dm</code> analysis</a></li>
+  <li><a href="#pastormalafaia-analysis" id="toc-pastormalafaia-analysis" class="nav-link" data-scroll-target="#pastormalafaia-analysis"><code>PastorMalafaia</code> analysis</a></li>
+  <li><a href="#dataviz" id="toc-dataviz" class="nav-link" data-scroll-target="#dataviz">Dataviz</a></li>
+  <li><a href="#topics" id="toc-topics" class="nav-link" data-scroll-target="#topics">Topics</a></li>
+  <li><a href="#update-topics" id="toc-update-topics" class="nav-link" data-scroll-target="#update-topics">Update topics</a></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.dev/fer-aguirre/capir-transfronteriza2-2023/blob/main/pages/test.ipynb" class="toc-action">Edit this page</a></p><p><a href="https://github.com/fer-aguirre/capir-transfronteriza2-2023/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><code>brasilsemaborto</code> analysis</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<div class="cell" data-execution_count="18">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="op">!</span>python <span class="op">-</span>m spacy download pt_core_news_sm</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># load the spacy model for Portuguese (Brazil)</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>nlp <span class="op">=</span> spacy.load(<span class="st">"pt_core_news_sm"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+    - Avoid using `tokenizers` before the fork if possible
+    - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Collecting pt-core-news-sm==3.5.0
+  Downloading https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.5.0/pt_core_news_sm-3.5.0-py3-none-any.whl (13.0 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 13.0/13.0 MB 9.6 MB/s eta 0:00:000m eta 0:00:01[36m0:00:01
+Requirement already satisfied: spacy&lt;3.6.0,&gt;=3.5.0 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from pt-core-news-sm==3.5.0) (3.5.4)
+Requirement already satisfied: smart-open&lt;7.0.0,&gt;=5.2.1 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (6.3.0)
+Requirement already satisfied: pydantic!=1.8,!=1.8.1,&lt;1.11.0,&gt;=1.7.4 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (1.10.9)
+Requirement already satisfied: wasabi&lt;1.2.0,&gt;=0.9.1 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (1.1.2)
+Requirement already satisfied: tqdm&lt;5.0.0,&gt;=4.38.0 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (4.65.0)
+Requirement already satisfied: preshed&lt;3.1.0,&gt;=3.0.2 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (3.0.8)
+Requirement already satisfied: thinc&lt;8.2.0,&gt;=8.1.8 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (8.1.10)
+Requirement already satisfied: spacy-loggers&lt;2.0.0,&gt;=1.0.0 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (1.0.4)
+Requirement already satisfied: cymem&lt;2.1.0,&gt;=2.0.2 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (2.0.7)
+Requirement already satisfied: setuptools in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (68.0.0)
+Requirement already satisfied: pathy&gt;=0.10.0 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (0.10.2)
+Requirement already satisfied: catalogue&lt;2.1.0,&gt;=2.0.6 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (2.0.8)
+Requirement already satisfied: spacy-legacy&lt;3.1.0,&gt;=3.0.11 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (3.0.12)
+Requirement already satisfied: numpy&gt;=1.15.0 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (1.24.4)
+Requirement already satisfied: typer&lt;0.10.0,&gt;=0.3.0 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (0.9.0)
+Requirement already satisfied: requests&lt;3.0.0,&gt;=2.13.0 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (2.31.0)
+Requirement already satisfied: jinja2 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (3.1.2)
+Requirement already satisfied: packaging&gt;=20.0 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (23.1)
+Requirement already satisfied: langcodes&lt;4.0.0,&gt;=3.2.0 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (3.3.0)
+Requirement already satisfied: srsly&lt;3.0.0,&gt;=2.4.3 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (2.4.6)
+Requirement already satisfied: murmurhash&lt;1.1.0,&gt;=0.28.0 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (1.0.9)
+Requirement already satisfied: typing-extensions&gt;=4.2.0 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from pydantic!=1.8,!=1.8.1,&lt;1.11.0,&gt;=1.7.4-&gt;spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (4.7.0)
+Requirement already satisfied: idna&lt;4,&gt;=2.5 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from requests&lt;3.0.0,&gt;=2.13.0-&gt;spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (3.4)
+Requirement already satisfied: charset-normalizer&lt;4,&gt;=2 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from requests&lt;3.0.0,&gt;=2.13.0-&gt;spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (3.1.0)
+Requirement already satisfied: certifi&gt;=2017.4.17 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from requests&lt;3.0.0,&gt;=2.13.0-&gt;spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (2023.5.7)
+Requirement already satisfied: urllib3&lt;3,&gt;=1.21.1 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from requests&lt;3.0.0,&gt;=2.13.0-&gt;spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (1.26.16)
+Requirement already satisfied: blis&lt;0.8.0,&gt;=0.7.8 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from thinc&lt;8.2.0,&gt;=8.1.8-&gt;spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (0.7.9)
+Requirement already satisfied: confection&lt;1.0.0,&gt;=0.0.1 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from thinc&lt;8.2.0,&gt;=8.1.8-&gt;spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (0.1.0)
+Requirement already satisfied: click&lt;9.0.0,&gt;=7.1.1 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from typer&lt;0.10.0,&gt;=0.3.0-&gt;spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (8.1.3)
+Requirement already satisfied: MarkupSafe&gt;=2.0 in /home/fxr/.local/share/virtualenvs/capir_transfronteriza2_2023-f1a4fPBO/lib/python3.8/site-packages (from jinja2-&gt;spacy&lt;3.6.0,&gt;=3.5.0-&gt;pt-core-news-sm==3.5.0) (2.1.3)
+
+[notice] A new release of pip is available: 23.0.1 -&gt; 23.1.2
+[notice] To update, run: pip install --upgrade pip
+✔ Download and installation successful
+You can now load the package via spacy.load('pt_core_news_sm')</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="251">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_csv(<span class="st">'../data/processed/tweets.csv'</span>)</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="bu">len</span>(df))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>/tmp/ipykernel_5750/1855968218.py:1: DtypeWarning:
+
+Columns (6,10,18,19,20,26,28,38,39,40,45,46,47,48,54) have mixed types. Specify dtype option on import or set low_memory=False.
+</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>200827</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="256">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># split column into two columns after '|'</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>df[[<span class="st">'date'</span>, <span class="st">'time'</span>]] <span class="op">=</span> df[<span class="st">'local_time'</span>].<span class="bu">str</span>.split(<span class="st">'T'</span>, expand<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>df.head(<span class="dv">1</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="256">
+<div>
+
+
+<table class="dataframe table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">query</th>
+<th data-quarto-table-cell-role="th">id</th>
+<th data-quarto-table-cell-role="th">timestamp_utc</th>
+<th data-quarto-table-cell-role="th">local_time</th>
+<th data-quarto-table-cell-role="th">user_screen_name</th>
+<th data-quarto-table-cell-role="th">text</th>
+<th data-quarto-table-cell-role="th">possibly_sensitive</th>
+<th data-quarto-table-cell-role="th">retweet_count</th>
+<th data-quarto-table-cell-role="th">like_count</th>
+<th data-quarto-table-cell-role="th">reply_count</th>
+<th data-quarto-table-cell-role="th">...</th>
+<th data-quarto-table-cell-role="th">media_alt_texts</th>
+<th data-quarto-table-cell-role="th">mentioned_names</th>
+<th data-quarto-table-cell-role="th">mentioned_ids</th>
+<th data-quarto-table-cell-role="th">hashtags</th>
+<th data-quarto-table-cell-role="th">intervention_type</th>
+<th data-quarto-table-cell-role="th">intervention_text</th>
+<th data-quarto-table-cell-role="th">intervention_url</th>
+<th data-quarto-table-cell-role="th">country</th>
+<th data-quarto-table-cell-role="th">date</th>
+<th data-quarto-table-cell-role="th">time</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>from:TommyZambranoM</td>
+<td>1.638175e+18</td>
+<td>1679406309</td>
+<td>2023-03-21T13:45:09</td>
+<td>TommyZambranoM</td>
+<td>Los Nacionalistas para lograr la renovación de...</td>
+<td>0.0</td>
+<td>30.0</td>
+<td>117.0</td>
+<td>58.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>pnh_oficial</td>
+<td>201589327</td>
+<td>librenuncamas</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Honduras</td>
+<td>2023-03-21</td>
+<td>13:45:09</td>
+</tr>
+</tbody>
+</table>
+
+<p>1 rows × 64 columns</p>
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="257">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="co"># convert 'date' column to datetime format</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>df[<span class="st">'date'</span>] <span class="op">=</span> pd.to_datetime(df[<span class="st">'date'</span>], <span class="bu">format</span><span class="op">=</span><span class="st">'%Y-%m-</span><span class="sc">%d</span><span class="st">'</span>, errors<span class="op">=</span><span class="st">'coerce'</span>)</span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df.shape)</span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>df.head(<span class="dv">1</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>(200827, 64)</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="257">
+<div>
+
+
+<table class="dataframe table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">query</th>
+<th data-quarto-table-cell-role="th">id</th>
+<th data-quarto-table-cell-role="th">timestamp_utc</th>
+<th data-quarto-table-cell-role="th">local_time</th>
+<th data-quarto-table-cell-role="th">user_screen_name</th>
+<th data-quarto-table-cell-role="th">text</th>
+<th data-quarto-table-cell-role="th">possibly_sensitive</th>
+<th data-quarto-table-cell-role="th">retweet_count</th>
+<th data-quarto-table-cell-role="th">like_count</th>
+<th data-quarto-table-cell-role="th">reply_count</th>
+<th data-quarto-table-cell-role="th">...</th>
+<th data-quarto-table-cell-role="th">media_alt_texts</th>
+<th data-quarto-table-cell-role="th">mentioned_names</th>
+<th data-quarto-table-cell-role="th">mentioned_ids</th>
+<th data-quarto-table-cell-role="th">hashtags</th>
+<th data-quarto-table-cell-role="th">intervention_type</th>
+<th data-quarto-table-cell-role="th">intervention_text</th>
+<th data-quarto-table-cell-role="th">intervention_url</th>
+<th data-quarto-table-cell-role="th">country</th>
+<th data-quarto-table-cell-role="th">date</th>
+<th data-quarto-table-cell-role="th">time</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>from:TommyZambranoM</td>
+<td>1.638175e+18</td>
+<td>1679406309</td>
+<td>2023-03-21T13:45:09</td>
+<td>TommyZambranoM</td>
+<td>Los Nacionalistas para lograr la renovación de...</td>
+<td>0.0</td>
+<td>30.0</td>
+<td>117.0</td>
+<td>58.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>pnh_oficial</td>
+<td>201589327</td>
+<td>librenuncamas</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Honduras</td>
+<td>2023-03-21</td>
+<td>13:45:09</td>
+</tr>
+</tbody>
+</table>
+
+<p>1 rows × 64 columns</p>
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="22">
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>df[<span class="st">'user_screen_name'</span>].unique()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="22">
+<pre><code>array(['TommyZambranoM', 'nikolas_dm', 'etorrescobo', 'RoySantosC',
+       'MamelaFialloFlo', 'PastorMalafaia', 'luisffaraj', 'MariaFdaCabal',
+       '0', 'UnidosxlaVidaCo', 'misionpaz_', '_FamiliaEcuador',
+       'brasilsemaborto'], dtype=object)</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="258">
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>brasilsemaborto <span class="op">=</span> df[df[<span class="st">'user_screen_name'</span>] <span class="op">==</span> <span class="st">'brasilsemaborto'</span>]</span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(brasilsemaborto.shape)</span>
+<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a>brasilsemaborto.sort_values(by<span class="op">=</span><span class="st">'date'</span>, ascending<span class="op">=</span><span class="va">True</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>(1411, 64)</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="258">
+<div>
+
+
+<table class="dataframe table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">query</th>
+<th data-quarto-table-cell-role="th">id</th>
+<th data-quarto-table-cell-role="th">timestamp_utc</th>
+<th data-quarto-table-cell-role="th">local_time</th>
+<th data-quarto-table-cell-role="th">user_screen_name</th>
+<th data-quarto-table-cell-role="th">text</th>
+<th data-quarto-table-cell-role="th">possibly_sensitive</th>
+<th data-quarto-table-cell-role="th">retweet_count</th>
+<th data-quarto-table-cell-role="th">like_count</th>
+<th data-quarto-table-cell-role="th">reply_count</th>
+<th data-quarto-table-cell-role="th">...</th>
+<th data-quarto-table-cell-role="th">media_alt_texts</th>
+<th data-quarto-table-cell-role="th">mentioned_names</th>
+<th data-quarto-table-cell-role="th">mentioned_ids</th>
+<th data-quarto-table-cell-role="th">hashtags</th>
+<th data-quarto-table-cell-role="th">intervention_type</th>
+<th data-quarto-table-cell-role="th">intervention_text</th>
+<th data-quarto-table-cell-role="th">intervention_url</th>
+<th data-quarto-table-cell-role="th">country</th>
+<th data-quarto-table-cell-role="th">date</th>
+<th data-quarto-table-cell-role="th">time</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">200826</td>
+<td>from:brasilsemaborto</td>
+<td>3.058479e+09</td>
+<td>1249075158</td>
+<td>2009-07-31T21:19:18</td>
+<td>brasilsemaborto</td>
+<td>3ª MARCHA NACIONAL DA CIDADANIA PELA VIDA, 30/...</td>
+<td>NaN</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2009-07-31</td>
+<td>21:19:18</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">200825</td>
+<td>from:brasilsemaborto</td>
+<td>3.058681e+09</td>
+<td>1249075899</td>
+<td>2009-07-31T21:31:39</td>
+<td>brasilsemaborto</td>
+<td>@ivocorreia SE VOCÊ É CONTRA A LEGALIZAÇÃO DO ...</td>
+<td>NaN</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>ivocorreia</td>
+<td>1252159320784990209</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2009-07-31</td>
+<td>21:31:39</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">200824</td>
+<td>from:brasilsemaborto</td>
+<td>3.058779e+09</td>
+<td>1249076252</td>
+<td>2009-07-31T21:37:32</td>
+<td>brasilsemaborto</td>
+<td>@brunabites Se vc é a favor da VIDA desde a CO...</td>
+<td>NaN</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>brunabites</td>
+<td>14813507</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2009-07-31</td>
+<td>21:37:32</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">200823</td>
+<td>from:brasilsemaborto</td>
+<td>3.072853e+09</td>
+<td>1249147934</td>
+<td>2009-08-01T17:32:14</td>
+<td>brasilsemaborto</td>
+<td>Hoje, um ano da morte da menina Marcela, anenc...</td>
+<td>NaN</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2009-08-01</td>
+<td>17:32:14</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">200821</td>
+<td>from:brasilsemaborto</td>
+<td>3.080696e+09</td>
+<td>1249182794</td>
+<td>2009-08-02T03:13:14</td>
+<td>brasilsemaborto</td>
+<td>Amanhã, domingo, um grupo de militantes do Bra...</td>
+<td>NaN</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2009-08-02</td>
+<td>03:13:14</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">199420</td>
+<td>from:brasilsemaborto</td>
+<td>1.605020e+18</td>
+<td>1671501563</td>
+<td>2022-12-20T01:59:23</td>
+<td>brasilsemaborto</td>
+<td>A honraria, concedida pelo Ministério da Mulhe...</td>
+<td>NaN</td>
+<td>1.0</td>
+<td>3.0</td>
+<td>1.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2022-12-20</td>
+<td>01:59:23</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">199419</td>
+<td>from:brasilsemaborto</td>
+<td>1.605020e+18</td>
+<td>1671501564</td>
+<td>2022-12-20T01:59:24</td>
+<td>brasilsemaborto</td>
+<td>A Ordem do Mérito Princesa Isabel foi criada p...</td>
+<td>NaN</td>
+<td>1.0</td>
+<td>2.0</td>
+<td>1.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2022-12-20</td>
+<td>01:59:24</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">199418</td>
+<td>from:brasilsemaborto</td>
+<td>1.605020e+18</td>
+<td>1671501589</td>
+<td>2022-12-20T01:59:49</td>
+<td>brasilsemaborto</td>
+<td>Saiba mais https://www.brasilsemaborto.org/mov...</td>
+<td>0.0</td>
+<td>1.0</td>
+<td>2.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2022-12-20</td>
+<td>01:59:49</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">199417</td>
+<td>from:brasilsemaborto</td>
+<td>1.606400e+18</td>
+<td>1671830534</td>
+<td>2022-12-23T21:22:14</td>
+<td>brasilsemaborto</td>
+<td>Feliz Natal a todos! https://twitter.com/brasi...</td>
+<td>0.0</td>
+<td>4.0</td>
+<td>22.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2022-12-23</td>
+<td>21:22:14</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">199416</td>
+<td>from:brasilsemaborto</td>
+<td>1.609546e+18</td>
+<td>1672580702</td>
+<td>2023-01-01T13:45:02</td>
+<td>brasilsemaborto</td>
+<td>Feliz Ano Novo a todos! https://twitter.com/br...</td>
+<td>0.0</td>
+<td>7.0</td>
+<td>42.0</td>
+<td>1.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2023-01-01</td>
+<td>13:45:02</td>
+</tr>
+</tbody>
+</table>
+
+<p>1411 rows × 64 columns</p>
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="24">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>PastorMalafaia <span class="op">=</span> df[df[<span class="st">'user_screen_name'</span>] <span class="op">==</span> <span class="st">'PastorMalafaia'</span>]</span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(PastorMalafaia.shape)</span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a>PastorMalafaia.sort_values(by<span class="op">=</span><span class="st">'date'</span>, ascending<span class="op">=</span><span class="va">True</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>(43709, 64)</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="24">
+<div>
+
+
+<table class="dataframe table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">query</th>
+<th data-quarto-table-cell-role="th">id</th>
+<th data-quarto-table-cell-role="th">timestamp_utc</th>
+<th data-quarto-table-cell-role="th">local_time</th>
+<th data-quarto-table-cell-role="th">user_screen_name</th>
+<th data-quarto-table-cell-role="th">text</th>
+<th data-quarto-table-cell-role="th">possibly_sensitive</th>
+<th data-quarto-table-cell-role="th">retweet_count</th>
+<th data-quarto-table-cell-role="th">like_count</th>
+<th data-quarto-table-cell-role="th">reply_count</th>
+<th data-quarto-table-cell-role="th">...</th>
+<th data-quarto-table-cell-role="th">media_alt_texts</th>
+<th data-quarto-table-cell-role="th">mentioned_names</th>
+<th data-quarto-table-cell-role="th">mentioned_ids</th>
+<th data-quarto-table-cell-role="th">hashtags</th>
+<th data-quarto-table-cell-role="th">intervention_type</th>
+<th data-quarto-table-cell-role="th">intervention_text</th>
+<th data-quarto-table-cell-role="th">intervention_url</th>
+<th data-quarto-table-cell-role="th">country</th>
+<th data-quarto-table-cell-role="th">date</th>
+<th data-quarto-table-cell-role="th">hour</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">88893</td>
+<td>from:PastorMalafaia</td>
+<td>1.593199e+10</td>
+<td>1276266463</td>
+<td>2010-06-11T14:27:43</td>
+<td>PastorMalafaia</td>
+<td>@duduganneto todas as 5as.feira as 17 e 19:30 ...</td>
+<td>NaN</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>duduganneto</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2010-06-11</td>
+<td>14:27:43</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">88892</td>
+<td>from:PastorMalafaia</td>
+<td>1.593220e+10</td>
+<td>1276266641</td>
+<td>2010-06-11T14:30:41</td>
+<td>PastorMalafaia</td>
+<td>Neste sábado, dia 12/6 estarei no "SANTIFICA B...</td>
+<td>NaN</td>
+<td>1.0</td>
+<td>0.0</td>
+<td>3.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2010-06-11</td>
+<td>14:30:41</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">88891</td>
+<td>from:PastorMalafaia</td>
+<td>1.593226e+10</td>
+<td>1276266702</td>
+<td>2010-06-11T14:31:42</td>
+<td>PastorMalafaia</td>
+<td>Não perca o programa VITORIA EM CRISTO neste s...</td>
+<td>NaN</td>
+<td>5.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2010-06-11</td>
+<td>14:31:42</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">88890</td>
+<td>from:PastorMalafaia</td>
+<td>1.622124e+10</td>
+<td>1276605560</td>
+<td>2010-06-15T12:39:20</td>
+<td>PastorMalafaia</td>
+<td>Na próxima 5ª feira estarei na Assembléia de D...</td>
+<td>NaN</td>
+<td>5.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2010-06-15</td>
+<td>12:39:20</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">88889</td>
+<td>from:PastorMalafaia</td>
+<td>1.622132e+10</td>
+<td>1276605648</td>
+<td>2010-06-15T12:40:48</td>
+<td>PastorMalafaia</td>
+<td>@llucianaalex ainda não tenho, por enquanto, ...</td>
+<td>NaN</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>llucianaalex</td>
+<td>138289635</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2010-06-15</td>
+<td>12:40:48</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">45189</td>
+<td>from:PastorMalafaia</td>
+<td>1.636895e+18</td>
+<td>1679101211</td>
+<td>2023-03-18T01:00:11</td>
+<td>PastorMalafaia</td>
+<td>Imperdível! Esse vídeo é para deixar qualquer ...</td>
+<td>0.0</td>
+<td>14.0</td>
+<td>117.0</td>
+<td>137.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2023-03-18</td>
+<td>01:00:11</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">45188</td>
+<td>from:PastorMalafaia</td>
+<td>1.637046e+18</td>
+<td>1679137239</td>
+<td>2023-03-18T11:00:39</td>
+<td>PastorMalafaia</td>
+<td>Povo abençoado do Brasil, assista hoje, às 9h,...</td>
+<td>0.0</td>
+<td>10.0</td>
+<td>137.0</td>
+<td>88.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>programadetv|silasmalafaia|vitóriaemcristo</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2023-03-18</td>
+<td>11:00:39</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">45187</td>
+<td>from:PastorMalafaia</td>
+<td>1.637061e+18</td>
+<td>1679140817</td>
+<td>2023-03-18T12:00:17</td>
+<td>PastorMalafaia</td>
+<td>PROGRAMA VITÓRIA EM CRISTO | 18.03.23 https://...</td>
+<td>0.0</td>
+<td>5.0</td>
+<td>109.0</td>
+<td>110.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2023-03-18</td>
+<td>12:00:17</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">45186</td>
+<td>from:PastorMalafaia</td>
+<td>1.637469e+18</td>
+<td>1679238031</td>
+<td>2023-03-19T15:00:31</td>
+<td>PastorMalafaia</td>
+<td>Imperdível! Amanhã, dia 20 de março, vou prega...</td>
+<td>0.0</td>
+<td>18.0</td>
+<td>199.0</td>
+<td>196.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2023-03-19</td>
+<td>15:00:31</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">45185</td>
+<td>from:PastorMalafaia</td>
+<td>1.637771e+18</td>
+<td>1679310026</td>
+<td>2023-03-20T11:00:26</td>
+<td>PastorMalafaia</td>
+<td>Que sua semana seja cheia de esperança!\n\nCom...</td>
+<td>0.0</td>
+<td>20.0</td>
+<td>104.0</td>
+<td>55.0</td>
+<td>...</td>
+<td>|||</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>biblia|esperança|silasmalafaia|versiculos</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2023-03-20</td>
+<td>11:00:26</td>
+</tr>
+</tbody>
+</table>
+
+<p>43709 rows × 64 columns</p>
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="25">
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>nikolas_dm <span class="op">=</span> df[df[<span class="st">'user_screen_name'</span>] <span class="op">==</span> <span class="st">'nikolas_dm'</span>]</span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(nikolas_dm.shape)</span>
+<span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a>nikolas_dm.sort_values(by<span class="op">=</span><span class="st">'date'</span>, ascending<span class="op">=</span><span class="va">True</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>(7035, 64)</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="25">
+<div>
+
+
+<table class="dataframe table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">query</th>
+<th data-quarto-table-cell-role="th">id</th>
+<th data-quarto-table-cell-role="th">timestamp_utc</th>
+<th data-quarto-table-cell-role="th">local_time</th>
+<th data-quarto-table-cell-role="th">user_screen_name</th>
+<th data-quarto-table-cell-role="th">text</th>
+<th data-quarto-table-cell-role="th">possibly_sensitive</th>
+<th data-quarto-table-cell-role="th">retweet_count</th>
+<th data-quarto-table-cell-role="th">like_count</th>
+<th data-quarto-table-cell-role="th">reply_count</th>
+<th data-quarto-table-cell-role="th">...</th>
+<th data-quarto-table-cell-role="th">media_alt_texts</th>
+<th data-quarto-table-cell-role="th">mentioned_names</th>
+<th data-quarto-table-cell-role="th">mentioned_ids</th>
+<th data-quarto-table-cell-role="th">hashtags</th>
+<th data-quarto-table-cell-role="th">intervention_type</th>
+<th data-quarto-table-cell-role="th">intervention_text</th>
+<th data-quarto-table-cell-role="th">intervention_url</th>
+<th data-quarto-table-cell-role="th">country</th>
+<th data-quarto-table-cell-role="th">date</th>
+<th data-quarto-table-cell-role="th">hour</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">10616</td>
+<td>from:nikolas_dm</td>
+<td>2.355646e+17</td>
+<td>1344997947</td>
+<td>2012-08-15T02:32:27</td>
+<td>nikolas_dm</td>
+<td>PLOFT, meu primeiro twitter kakakka</td>
+<td>NaN</td>
+<td>1.0</td>
+<td>1.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2012-08-15</td>
+<td>02:32:27</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">10597</td>
+<td>from:nikolas_dm</td>
+<td>2.358647e+17</td>
+<td>1345069502</td>
+<td>2012-08-15T22:25:02</td>
+<td>nikolas_dm</td>
+<td>bora pra churcha !</td>
+<td>NaN</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>1.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2012-08-15</td>
+<td>22:25:02</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">10598</td>
+<td>from:nikolas_dm</td>
+<td>2.358521e+17</td>
+<td>1345066505</td>
+<td>2012-08-15T21:35:05</td>
+<td>nikolas_dm</td>
+<td>@anaclara_ah ok !</td>
+<td>NaN</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>anaclara_ah</td>
+<td>110250250</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2012-08-15</td>
+<td>21:35:05</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">10599</td>
+<td>from:nikolas_dm</td>
+<td>2.358512e+17</td>
+<td>1345066290</td>
+<td>2012-08-15T21:31:30</td>
+<td>nikolas_dm</td>
+<td>@anaclara_ah kk tem nada a ve nao, vai ter out...</td>
+<td>NaN</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>1.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>anaclara_ah</td>
+<td>110250250</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2012-08-15</td>
+<td>21:31:30</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">10600</td>
+<td>from:nikolas_dm</td>
+<td>2.358507e+17</td>
+<td>1345066174</td>
+<td>2012-08-15T21:29:34</td>
+<td>nikolas_dm</td>
+<td>@amanddok amanda lindooona !</td>
+<td>NaN</td>
+<td>1.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>amanddok</td>
+<td>182509540</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2012-08-15</td>
+<td>21:29:34</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">3586</td>
+<td>from:nikolas_dm</td>
+<td>1.636790e+18</td>
+<td>1679076113</td>
+<td>2023-03-17T18:01:53</td>
+<td>nikolas_dm</td>
+<td>Visitei hoje Hospital universitário Ciências M...</td>
+<td>0.0</td>
+<td>2822.0</td>
+<td>26431.0</td>
+<td>1481.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2023-03-17</td>
+<td>18:01:53</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3585</td>
+<td>from:nikolas_dm</td>
+<td>1.637465e+18</td>
+<td>1679237125</td>
+<td>2023-03-19T14:45:25</td>
+<td>nikolas_dm</td>
+<td>Já tem foca pulando do barco, o burrinho do sh...</td>
+<td>NaN</td>
+<td>4857.0</td>
+<td>43072.0</td>
+<td>2640.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2023-03-19</td>
+<td>14:45:25</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">3584</td>
+<td>from:nikolas_dm</td>
+<td>1.638162e+18</td>
+<td>1679403181</td>
+<td>2023-03-21T12:53:01</td>
+<td>nikolas_dm</td>
+<td>@splucasaugusto Há esperança! Continuemos.</td>
+<td>NaN</td>
+<td>16.0</td>
+<td>773.0</td>
+<td>19.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>splucasaugusto</td>
+<td>1503560352528748544</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2023-03-21</td>
+<td>12:53:01</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3583</td>
+<td>from:nikolas_dm</td>
+<td>1.638162e+18</td>
+<td>1679403315</td>
+<td>2023-03-21T12:55:15</td>
+<td>nikolas_dm</td>
+<td>“Efeito Nikolas” - Bom dia 👍🏻🇧🇷 https://twitte...</td>
+<td>0.0</td>
+<td>944.0</td>
+<td>9919.0</td>
+<td>612.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2023-03-21</td>
+<td>12:55:15</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">3582</td>
+<td>from:nikolas_dm</td>
+<td>1.638195e+18</td>
+<td>1679411034</td>
+<td>2023-03-21T15:03:54</td>
+<td>nikolas_dm</td>
+<td>Parabéns pro homem que resgatou nosso orgulho ...</td>
+<td>0.0</td>
+<td>911.0</td>
+<td>9214.0</td>
+<td>668.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2023-03-21</td>
+<td>15:03:54</td>
+</tr>
+</tbody>
+</table>
+
+<p>7035 rows × 64 columns</p>
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="26">
+<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a><span class="co"># define function to extract URLs</span></span>
+<span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> extract_urls(text):</span>
+<span id="cb17-3"><a href="#cb17-3" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> re.findall(<span class="vs">r'(http[s]?://\S+)'</span>, text)</span>
+<span id="cb17-4"><a href="#cb17-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb17-5"><a href="#cb17-5" aria-hidden="true" tabindex="-1"></a><span class="co"># apply function to text column</span></span>
+<span id="cb17-6"><a href="#cb17-6" aria-hidden="true" tabindex="-1"></a>brasilsemaborto[<span class="st">'urls'</span>] <span class="op">=</span> brasilsemaborto[<span class="st">'text'</span>].<span class="bu">apply</span>(extract_urls)</span>
+<span id="cb17-7"><a href="#cb17-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb17-8"><a href="#cb17-8" aria-hidden="true" tabindex="-1"></a><span class="co"># print resulting dataframe</span></span>
+<span id="cb17-9"><a href="#cb17-9" aria-hidden="true" tabindex="-1"></a>urls <span class="op">=</span> brasilsemaborto[<span class="st">'urls'</span>].to_list()</span>
+<span id="cb17-10"><a href="#cb17-10" aria-hidden="true" tabindex="-1"></a><span class="co"># flatten list of lists</span></span>
+<span id="cb17-11"><a href="#cb17-11" aria-hidden="true" tabindex="-1"></a>urls <span class="op">=</span> [item <span class="cf">for</span> sublist <span class="kw">in</span> urls <span class="cf">for</span> item <span class="kw">in</span> sublist]</span>
+<span id="cb17-12"><a href="#cb17-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb17-13"><a href="#cb17-13" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="bu">len</span>(urls))</span>
+<span id="cb17-14"><a href="#cb17-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb17-15"><a href="#cb17-15" aria-hidden="true" tabindex="-1"></a>hosts <span class="op">=</span> [URL(url).host <span class="cf">for</span> url <span class="kw">in</span> urls]</span>
+<span id="cb17-16"><a href="#cb17-16" aria-hidden="true" tabindex="-1"></a>hosts_count <span class="op">=</span> pd.Series(hosts).value_counts()</span>
+<span id="cb17-17"><a href="#cb17-17" aria-hidden="true" tabindex="-1"></a>top_hosts <span class="op">=</span> hosts_count.nlargest(<span class="dv">20</span>)</span>
+<span id="cb17-18"><a href="#cb17-18" aria-hidden="true" tabindex="-1"></a>top_hosts</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>942</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="26">
+<pre><code>twitter.com                      335
+bit.ly                           130
+brasilsemaborto.org               82
+wp.me                             50
+post.ly                           49
+twitpic.com                       41
+www.youtube.com                   34
+youtu.be                          33
+www.instagram.com                 26
+www.facebook.com                  21
+www.brasilsemaborto.org           15
+brasilsemaborto.com.br            12
+www.gazetadopovo.com.br            8
+www12.senado.gov.br                8
+goo.gl                             5
+brasilsemaborto.wordpress.com      4
+www2.camara.leg.br                 4
+www.camara.leg.br                  4
+www12.senado.leg.br                3
+www.estadao.com.br                 3
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="27">
+<div class="sourceCode cell-code" id="cb20"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a>hashtags <span class="op">=</span> brasilsemaborto[<span class="st">'hashtags'</span>].to_list()</span>
+<span id="cb20-2"><a href="#cb20-2" aria-hidden="true" tabindex="-1"></a><span class="co"># remove nan items from list</span></span>
+<span id="cb20-3"><a href="#cb20-3" aria-hidden="true" tabindex="-1"></a>hashtags <span class="op">=</span> [x <span class="cf">for</span> x <span class="kw">in</span> hashtags <span class="cf">if</span> <span class="kw">not</span> pd.isna(x)]</span>
+<span id="cb20-4"><a href="#cb20-4" aria-hidden="true" tabindex="-1"></a><span class="co"># split items into a list based on a delimiter</span></span>
+<span id="cb20-5"><a href="#cb20-5" aria-hidden="true" tabindex="-1"></a>hashtags <span class="op">=</span> [x.split(<span class="st">'|'</span>) <span class="cf">for</span> x <span class="kw">in</span> hashtags]</span>
+<span id="cb20-6"><a href="#cb20-6" aria-hidden="true" tabindex="-1"></a><span class="co"># flatten list of lists</span></span>
+<span id="cb20-7"><a href="#cb20-7" aria-hidden="true" tabindex="-1"></a>hashtags <span class="op">=</span> [item <span class="cf">for</span> sublist <span class="kw">in</span> hashtags <span class="cf">for</span> item <span class="kw">in</span> sublist]</span>
+<span id="cb20-8"><a href="#cb20-8" aria-hidden="true" tabindex="-1"></a><span class="co"># count items on list</span></span>
+<span id="cb20-9"><a href="#cb20-9" aria-hidden="true" tabindex="-1"></a>hashtags_count <span class="op">=</span> pd.Series(hashtags).value_counts()</span>
+<span id="cb20-10"><a href="#cb20-10" aria-hidden="true" tabindex="-1"></a>top_hashtags <span class="op">=</span> hashtags_count.nlargest(<span class="dv">20</span>)</span>
+<span id="cb20-11"><a href="#cb20-11" aria-hidden="true" tabindex="-1"></a>top_hashtags</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="27">
+<pre><code>brasilsemaborto          271
+marchavirtualpelavida     87
+codigopenal               73
+stfabortonao              71
+pelas2vidas               61
+mulhersimabortonao        35
+marchapelavida            33
+abortoépreconceito        33
+asduasvidasimportam       33
+10anos                    30
+estatutodonascituro       28
+afavordavida              24
+brasilpelasduasvidas      16
+verdadepelavida           16
+avidadependedoseuvoto     15
+simàvida                  12
+diadonascituro            10
+anencefalo                 9
+avidaporumfio              9
+stfdiganaoaoaborto         7
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="28">
+<div class="sourceCode cell-code" id="cb22"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a>users <span class="op">=</span> brasilsemaborto[<span class="st">'mentioned_names'</span>].to_list()</span>
+<span id="cb22-2"><a href="#cb22-2" aria-hidden="true" tabindex="-1"></a><span class="co"># remove nan items from list</span></span>
+<span id="cb22-3"><a href="#cb22-3" aria-hidden="true" tabindex="-1"></a>users <span class="op">=</span> [x <span class="cf">for</span> x <span class="kw">in</span> users <span class="cf">if</span> <span class="kw">not</span> pd.isna(x)]</span>
+<span id="cb22-4"><a href="#cb22-4" aria-hidden="true" tabindex="-1"></a><span class="co"># split items into a list based on a delimiter</span></span>
+<span id="cb22-5"><a href="#cb22-5" aria-hidden="true" tabindex="-1"></a>users <span class="op">=</span> [x.split(<span class="st">'|'</span>) <span class="cf">for</span> x <span class="kw">in</span> users]</span>
+<span id="cb22-6"><a href="#cb22-6" aria-hidden="true" tabindex="-1"></a><span class="co"># flatten list of lists</span></span>
+<span id="cb22-7"><a href="#cb22-7" aria-hidden="true" tabindex="-1"></a>users <span class="op">=</span> [item <span class="cf">for</span> sublist <span class="kw">in</span> users <span class="cf">for</span> item <span class="kw">in</span> sublist]</span>
+<span id="cb22-8"><a href="#cb22-8" aria-hidden="true" tabindex="-1"></a><span class="co"># count items on list</span></span>
+<span id="cb22-9"><a href="#cb22-9" aria-hidden="true" tabindex="-1"></a>users_count <span class="op">=</span> pd.Series(users).value_counts()</span>
+<span id="cb22-10"><a href="#cb22-10" aria-hidden="true" tabindex="-1"></a>top_users <span class="op">=</span> users_count.nlargest(<span class="dv">10</span>)</span>
+<span id="cb22-11"><a href="#cb22-11" aria-hidden="true" tabindex="-1"></a>top_users</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="28">
+<pre><code>lenisegarcia       41
+brasilsemaborto    29
+addthis             8
+rebeccakiesslin     6
+stf_oficial         6
+anabeatrizries      5
+mpf_pgr             4
+cnnoticias          4
+luh_lena            4
+anadep_brasil       4
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="29">
+<div class="sourceCode cell-code" id="cb24"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true" tabindex="-1"></a><span class="co"># plot the data using plotly</span></span>
+<span id="cb24-2"><a href="#cb24-2" aria-hidden="true" tabindex="-1"></a>fig <span class="op">=</span> px.line(brasilsemaborto, </span>
+<span id="cb24-3"><a href="#cb24-3" aria-hidden="true" tabindex="-1"></a>              x<span class="op">=</span><span class="st">'date'</span>, </span>
+<span id="cb24-4"><a href="#cb24-4" aria-hidden="true" tabindex="-1"></a>              y<span class="op">=</span><span class="st">'like_count'</span>, </span>
+<span id="cb24-5"><a href="#cb24-5" aria-hidden="true" tabindex="-1"></a>              title<span class="op">=</span><span class="st">'Likes over Time'</span>,</span>
+<span id="cb24-6"><a href="#cb24-6" aria-hidden="true" tabindex="-1"></a>              template<span class="op">=</span><span class="st">'plotly_dark'</span>, </span>
+<span id="cb24-7"><a href="#cb24-7" aria-hidden="true" tabindex="-1"></a>              hover_data<span class="op">=</span>[<span class="st">'text'</span>])</span>
+<span id="cb24-8"><a href="#cb24-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb24-9"><a href="#cb24-9" aria-hidden="true" tabindex="-1"></a><span class="co"># show the plot</span></span>
+<span id="cb24-10"><a href="#cb24-10" aria-hidden="true" tabindex="-1"></a>fig.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="30">
+<div class="sourceCode cell-code" id="cb26"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a>STOP_WORDS <span class="op">=</span> nlp.Defaults.stop_words</span>
+<span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb26-3"><a href="#cb26-3" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> filter_stopwords(text):</span>
+<span id="cb26-4"><a href="#cb26-4" aria-hidden="true" tabindex="-1"></a>    doc <span class="op">=</span> nlp(text.lower())</span>
+<span id="cb26-5"><a href="#cb26-5" aria-hidden="true" tabindex="-1"></a>    tokens <span class="op">=</span> [token.text <span class="cf">for</span> token <span class="kw">in</span> doc <span class="cf">if</span> <span class="kw">not</span> token.is_stop <span class="kw">and</span> token.text <span class="kw">not</span> <span class="kw">in</span> STOP_WORDS <span class="kw">and</span> token.is_alpha]</span>
+<span id="cb26-6"><a href="#cb26-6" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> <span class="st">' '</span>.join(tokens)</span>
+<span id="cb26-7"><a href="#cb26-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb26-8"><a href="#cb26-8" aria-hidden="true" tabindex="-1"></a>brasilsemaborto[<span class="st">'preprocess'</span>] <span class="op">=</span> brasilsemaborto[<span class="st">'text'</span>].<span class="bu">apply</span>(filter_stopwords)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="31">
+<div class="sourceCode cell-code" id="cb27"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a>word_list <span class="op">=</span> [<span class="st">'aborto'</span>, <span class="st">'ideologia de genero'</span>, <span class="st">'#brasilsemaborto'</span>, <span class="st">'#abortonao'</span>, <span class="st">'#marchapelavida'</span>, <span class="st">'#afavordavida'</span>, <span class="st">'#estatutodonascituro'</span>, <span class="st">'homossexualismo'</span>, <span class="st">'sexo e criança'</span>, <span class="st">'sexualidade'</span>, <span class="st">'transgeneros'</span>, <span class="st">'"trans"'</span>, <span class="st">'defesa da vida'</span>]</span>
+<span id="cb27-2"><a href="#cb27-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb27-3"><a href="#cb27-3" aria-hidden="true" tabindex="-1"></a><span class="co"># use apply method with lambda function to filter rows</span></span>
+<span id="cb27-4"><a href="#cb27-4" aria-hidden="true" tabindex="-1"></a>filtered_df <span class="op">=</span> brasilsemaborto[brasilsemaborto[<span class="st">'preprocess'</span>].<span class="bu">apply</span>(<span class="kw">lambda</span> x: <span class="bu">any</span>(word <span class="kw">in</span> x <span class="cf">for</span> word <span class="kw">in</span> word_list))]</span>
+<span id="cb27-5"><a href="#cb27-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb27-6"><a href="#cb27-6" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="bu">len</span>(filtered_df))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>590</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="32">
+<div class="sourceCode cell-code" id="cb29"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a>token_counts <span class="op">=</span> brasilsemaborto[<span class="st">"preprocess"</span>].<span class="bu">str</span>.split(expand<span class="op">=</span><span class="va">True</span>).stack().value_counts()[:<span class="dv">20</span>]</span>
+<span id="cb29-2"><a href="#cb29-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb29-3"><a href="#cb29-3" aria-hidden="true" tabindex="-1"></a>token_counts</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="32">
+<pre><code>vida                     494
+aborto                   306
+brasilsemaborto          274
+marcha                   165
+brasil                   131
+nacional                 110
+dia                      109
+marchavirtualpelavida     88
+movimento                 85
+nascituro                 77
+participe                 74
+codigopenal               73
+mãe                       71
+defesa                    71
+stfabortonao              70
+hoje                      66
+estatuto                  65
+código                    64
+saiba                     63
+acompanhe                 60
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="33">
+<div class="sourceCode cell-code" id="cb31"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb31-1"><a href="#cb31-1" aria-hidden="true" tabindex="-1"></a>percentage <span class="op">=</span> <span class="bu">round</span>(<span class="dv">100</span> <span class="op">*</span> <span class="bu">len</span>(filtered_df) <span class="op">/</span> <span class="bu">len</span>(brasilsemaborto), <span class="dv">2</span>)</span>
+<span id="cb31-2"><a href="#cb31-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="ss">f'Del total de </span><span class="sc">{</span><span class="bu">len</span>(brasilsemaborto)<span class="sc">}</span><span class="ss"> tweets de @brasilsemaborto, </span><span class="sc">{</span><span class="bu">len</span>(filtered_df)<span class="sc">}</span><span class="ss"> hablan sobre estos temas'</span>)</span>
+<span id="cb31-3"><a href="#cb31-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="ss">f'Alrededor de </span><span class="sc">{</span>percentage<span class="sc">}</span><span class="ss">% de los tweets de @brasilsemaborto hablan sobre estos temas'</span>)</span>
+<span id="cb31-4"><a href="#cb31-4" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="ss">f'Alrededor de 4 de cada 10 tweets de @brasilsemaborto mencionan estos temas'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Del total de 1411 tweets de @brasilsemaborto, 590 hablan sobre estos temas
+Alrededor de 41.81% de los tweets de @brasilsemaborto hablan sobre estos temas
+Alrededor de 4 de cada 10 tweets de @brasilsemaborto mencionan estos temas</code></pre>
+</div>
+</div>
+<section id="nikolas_dm-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="nikolas_dm-analysis"><code>nikolas_dm</code> analysis</h3>
+<div class="cell" data-execution_count="34">
+<div class="sourceCode cell-code" id="cb33"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true" tabindex="-1"></a><span class="co"># define function to extract URLs</span></span>
+<span id="cb33-2"><a href="#cb33-2" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> extract_urls(text):</span>
+<span id="cb33-3"><a href="#cb33-3" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> re.findall(<span class="vs">r'(http[s]?://\S+)'</span>, text)</span>
+<span id="cb33-4"><a href="#cb33-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb33-5"><a href="#cb33-5" aria-hidden="true" tabindex="-1"></a><span class="co"># apply function to text column</span></span>
+<span id="cb33-6"><a href="#cb33-6" aria-hidden="true" tabindex="-1"></a>nikolas_dm[<span class="st">'urls'</span>] <span class="op">=</span> nikolas_dm[<span class="st">'text'</span>].<span class="bu">apply</span>(extract_urls)</span>
+<span id="cb33-7"><a href="#cb33-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb33-8"><a href="#cb33-8" aria-hidden="true" tabindex="-1"></a><span class="co"># print resulting dataframe</span></span>
+<span id="cb33-9"><a href="#cb33-9" aria-hidden="true" tabindex="-1"></a>urls <span class="op">=</span> nikolas_dm[<span class="st">'urls'</span>].to_list()</span>
+<span id="cb33-10"><a href="#cb33-10" aria-hidden="true" tabindex="-1"></a><span class="co"># flatten list of lists</span></span>
+<span id="cb33-11"><a href="#cb33-11" aria-hidden="true" tabindex="-1"></a>urls <span class="op">=</span> [item <span class="cf">for</span> sublist <span class="kw">in</span> urls <span class="cf">for</span> item <span class="kw">in</span> sublist]</span>
+<span id="cb33-12"><a href="#cb33-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb33-13"><a href="#cb33-13" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="bu">len</span>(urls))</span>
+<span id="cb33-14"><a href="#cb33-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb33-15"><a href="#cb33-15" aria-hidden="true" tabindex="-1"></a>hosts <span class="op">=</span> [URL(url).host <span class="cf">for</span> url <span class="kw">in</span> urls]</span>
+<span id="cb33-16"><a href="#cb33-16" aria-hidden="true" tabindex="-1"></a>hosts_count <span class="op">=</span> pd.Series(hosts).value_counts()</span>
+<span id="cb33-17"><a href="#cb33-17" aria-hidden="true" tabindex="-1"></a>top_hosts <span class="op">=</span> hosts_count.nlargest(<span class="dv">20</span>)</span>
+<span id="cb33-18"><a href="#cb33-18" aria-hidden="true" tabindex="-1"></a>top_hosts</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>2138</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="34">
+<pre><code>twitter.com                        1767
+youtu.be                             96
+twcm.me                              57
+ask.fm                               24
+www.otempo.com.br                    16
+www.google.com.br                    12
+moi.st                               11
+t.me                                 11
+www.youtube.com                      10
+youtube.com                           7
+bit.ly                                6
+www.jornaldacidadeonline.com.br       6
+24.media.tumblr.com                   5
+www.em.com.br                         5
+instagram.com                         5
+g1.globo.com                          5
+www.itatiaia.com.br                   5
+phelipe.com.br                        4
+livrariadonikolas.com                 4
+25.media.tumblr.com                   4
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="35">
+<div class="sourceCode cell-code" id="cb36"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb36-1"><a href="#cb36-1" aria-hidden="true" tabindex="-1"></a>hashtags <span class="op">=</span> nikolas_dm[<span class="st">'hashtags'</span>].to_list()</span>
+<span id="cb36-2"><a href="#cb36-2" aria-hidden="true" tabindex="-1"></a><span class="co"># remove nan items from list</span></span>
+<span id="cb36-3"><a href="#cb36-3" aria-hidden="true" tabindex="-1"></a>hashtags <span class="op">=</span> [x <span class="cf">for</span> x <span class="kw">in</span> hashtags <span class="cf">if</span> <span class="kw">not</span> pd.isna(x)]</span>
+<span id="cb36-4"><a href="#cb36-4" aria-hidden="true" tabindex="-1"></a><span class="co"># split items into a list based on a delimiter</span></span>
+<span id="cb36-5"><a href="#cb36-5" aria-hidden="true" tabindex="-1"></a>hashtags <span class="op">=</span> [x.split(<span class="st">'|'</span>) <span class="cf">for</span> x <span class="kw">in</span> hashtags]</span>
+<span id="cb36-6"><a href="#cb36-6" aria-hidden="true" tabindex="-1"></a><span class="co"># flatten list of lists</span></span>
+<span id="cb36-7"><a href="#cb36-7" aria-hidden="true" tabindex="-1"></a>hashtags <span class="op">=</span> [item <span class="cf">for</span> sublist <span class="kw">in</span> hashtags <span class="cf">for</span> item <span class="kw">in</span> sublist]</span>
+<span id="cb36-8"><a href="#cb36-8" aria-hidden="true" tabindex="-1"></a><span class="co"># count items on list</span></span>
+<span id="cb36-9"><a href="#cb36-9" aria-hidden="true" tabindex="-1"></a>hashtags_count <span class="op">=</span> pd.Series(hashtags).value_counts()</span>
+<span id="cb36-10"><a href="#cb36-10" aria-hidden="true" tabindex="-1"></a>top_hashtags <span class="op">=</span> hashtags_count.nlargest(<span class="dv">20</span>)</span>
+<span id="cb36-11"><a href="#cb36-11" aria-hidden="true" tabindex="-1"></a>top_hashtags</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="35">
+<pre><code>28000                       17
+virabrasil                  12
+ptnuncamais                  7
+forakalil                    6
+b28                          5
+reagebh                      5
+foramaia                     4
+devolveodinheirojanones      4
+gobolsonaromundial           3
+mpnofelipeneto               3
+bh                           3
+belohorizonte                3
+derretefelipeneto            3
+familiascontrafelipeneto     3
+paz                          3
+bolsonaro2022                3
+g1                           3
+fechadocombolsonaro          3
+deixaopovotrabalhar          2
+nikolasnopânico              2
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="36">
+<div class="sourceCode cell-code" id="cb38"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb38-1"><a href="#cb38-1" aria-hidden="true" tabindex="-1"></a>users <span class="op">=</span> nikolas_dm[<span class="st">'mentioned_names'</span>].to_list()</span>
+<span id="cb38-2"><a href="#cb38-2" aria-hidden="true" tabindex="-1"></a><span class="co"># remove nan items from list</span></span>
+<span id="cb38-3"><a href="#cb38-3" aria-hidden="true" tabindex="-1"></a>users <span class="op">=</span> [x <span class="cf">for</span> x <span class="kw">in</span> users <span class="cf">if</span> <span class="kw">not</span> pd.isna(x)]</span>
+<span id="cb38-4"><a href="#cb38-4" aria-hidden="true" tabindex="-1"></a><span class="co"># split items into a list based on a delimiter</span></span>
+<span id="cb38-5"><a href="#cb38-5" aria-hidden="true" tabindex="-1"></a>users <span class="op">=</span> [x.split(<span class="st">'|'</span>) <span class="cf">for</span> x <span class="kw">in</span> users]</span>
+<span id="cb38-6"><a href="#cb38-6" aria-hidden="true" tabindex="-1"></a><span class="co"># flatten list of lists</span></span>
+<span id="cb38-7"><a href="#cb38-7" aria-hidden="true" tabindex="-1"></a>users <span class="op">=</span> [item <span class="cf">for</span> sublist <span class="kw">in</span> users <span class="cf">for</span> item <span class="kw">in</span> sublist]</span>
+<span id="cb38-8"><a href="#cb38-8" aria-hidden="true" tabindex="-1"></a><span class="co"># count items on list</span></span>
+<span id="cb38-9"><a href="#cb38-9" aria-hidden="true" tabindex="-1"></a>users_count <span class="op">=</span> pd.Series(users).value_counts()</span>
+<span id="cb38-10"><a href="#cb38-10" aria-hidden="true" tabindex="-1"></a>top_users <span class="op">=</span> users_count.nlargest(<span class="dv">10</span>)</span>
+<span id="cb38-11"><a href="#cb38-11" aria-hidden="true" tabindex="-1"></a>top_users</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="36">
+<pre><code>jairbolsonaro    208
+felipeneto       143
+_portiinho       104
+amanddok          99
+brunoenglerdm     77
+bolsonarosp       61
+lorena_rcp        59
+anamarciaac       56
+lulaoficial       54
+claramurta        52
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="37">
+<div class="sourceCode cell-code" id="cb40"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb40-1"><a href="#cb40-1" aria-hidden="true" tabindex="-1"></a><span class="co"># plot the data using plotly</span></span>
+<span id="cb40-2"><a href="#cb40-2" aria-hidden="true" tabindex="-1"></a>fig <span class="op">=</span> px.line(nikolas_dm, </span>
+<span id="cb40-3"><a href="#cb40-3" aria-hidden="true" tabindex="-1"></a>              x<span class="op">=</span><span class="st">'date'</span>, </span>
+<span id="cb40-4"><a href="#cb40-4" aria-hidden="true" tabindex="-1"></a>              y<span class="op">=</span><span class="st">'like_count'</span>, </span>
+<span id="cb40-5"><a href="#cb40-5" aria-hidden="true" tabindex="-1"></a>              title<span class="op">=</span><span class="st">'Likes over Time'</span>,</span>
+<span id="cb40-6"><a href="#cb40-6" aria-hidden="true" tabindex="-1"></a>              template<span class="op">=</span><span class="st">'plotly_dark'</span>, </span>
+<span id="cb40-7"><a href="#cb40-7" aria-hidden="true" tabindex="-1"></a>              hover_data<span class="op">=</span>[<span class="st">'text'</span>])</span>
+<span id="cb40-8"><a href="#cb40-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb40-9"><a href="#cb40-9" aria-hidden="true" tabindex="-1"></a><span class="co"># show the plot</span></span>
+<span id="cb40-10"><a href="#cb40-10" aria-hidden="true" tabindex="-1"></a>fig.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="38">
+<div class="sourceCode cell-code" id="cb42"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb42-1"><a href="#cb42-1" aria-hidden="true" tabindex="-1"></a>STOP_WORDS <span class="op">=</span> nlp.Defaults.stop_words</span>
+<span id="cb42-2"><a href="#cb42-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb42-3"><a href="#cb42-3" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> filter_stopwords(text):</span>
+<span id="cb42-4"><a href="#cb42-4" aria-hidden="true" tabindex="-1"></a>    doc <span class="op">=</span> nlp(text.lower())</span>
+<span id="cb42-5"><a href="#cb42-5" aria-hidden="true" tabindex="-1"></a>    tokens <span class="op">=</span> [token.text <span class="cf">for</span> token <span class="kw">in</span> doc <span class="cf">if</span> <span class="kw">not</span> token.is_stop <span class="kw">and</span> token.text <span class="kw">not</span> <span class="kw">in</span> STOP_WORDS <span class="kw">and</span> token.is_alpha]</span>
+<span id="cb42-6"><a href="#cb42-6" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> <span class="st">' '</span>.join(tokens)</span>
+<span id="cb42-7"><a href="#cb42-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb42-8"><a href="#cb42-8" aria-hidden="true" tabindex="-1"></a>nikolas_dm[<span class="st">'preprocess'</span>] <span class="op">=</span> nikolas_dm[<span class="st">'text'</span>].<span class="bu">apply</span>(filter_stopwords)</span>
+<span id="cb42-9"><a href="#cb42-9" aria-hidden="true" tabindex="-1"></a>word_list <span class="op">=</span> [<span class="st">'aborto'</span>, <span class="st">'ideologia de genero'</span>, <span class="st">'#brasilsemaborto'</span>, <span class="st">'#abortonao'</span>, <span class="st">'#marchapelavida'</span>, <span class="st">'#afavordavida'</span>, <span class="st">'#estatutodonascituro'</span>, <span class="st">'homossexualismo'</span>, <span class="st">'sexo e criança'</span>, <span class="st">'sexualidade'</span>, <span class="st">'transgeneros'</span>, <span class="st">'"trans"'</span>, <span class="st">'defesa da vida'</span>]</span>
+<span id="cb42-10"><a href="#cb42-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb42-11"><a href="#cb42-11" aria-hidden="true" tabindex="-1"></a><span class="co"># use apply method with lambda function to filter rows</span></span>
+<span id="cb42-12"><a href="#cb42-12" aria-hidden="true" tabindex="-1"></a>filtered_df <span class="op">=</span> nikolas_dm[nikolas_dm[<span class="st">'preprocess'</span>].<span class="bu">apply</span>(<span class="kw">lambda</span> x: <span class="bu">any</span>(word <span class="kw">in</span> x <span class="cf">for</span> word <span class="kw">in</span> word_list))]</span>
+<span id="cb42-13"><a href="#cb42-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb42-14"><a href="#cb42-14" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="bu">len</span>(filtered_df))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>31</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="39">
+<div class="sourceCode cell-code" id="cb44"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb44-1"><a href="#cb44-1" aria-hidden="true" tabindex="-1"></a>token_counts <span class="op">=</span> nikolas_dm[<span class="st">"preprocess"</span>].<span class="bu">str</span>.split(expand<span class="op">=</span><span class="va">True</span>).stack().value_counts()[:<span class="dv">20</span>]</span>
+<span id="cb44-2"><a href="#cb44-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb44-3"><a href="#cb44-3" aria-hidden="true" tabindex="-1"></a>token_counts</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="39">
+<pre><code>pra           1013
+bh             338
+brasil         236
+bolsonaro      234
+lula           220
+dia            213
+esquerda       206
+hoje           196
+tá             194
+gente          181
+nao            177
+pessoas        163
+presidente     150
+cara           149
+kalil          145
+deus           138
+vei            126
+pro            125
+mundo          122
+verdade        116
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="40">
+<div class="sourceCode cell-code" id="cb46"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb46-1"><a href="#cb46-1" aria-hidden="true" tabindex="-1"></a>percentage <span class="op">=</span> <span class="bu">round</span>(<span class="dv">100</span> <span class="op">*</span> <span class="bu">len</span>(filtered_df) <span class="op">/</span> <span class="bu">len</span>(nikolas_dm), <span class="dv">2</span>)</span>
+<span id="cb46-2"><a href="#cb46-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="ss">f'Del total de </span><span class="sc">{</span><span class="bu">len</span>(nikolas_dm)<span class="sc">}</span><span class="ss"> tweets de @nikolas_dm, </span><span class="sc">{</span><span class="bu">len</span>(filtered_df)<span class="sc">}</span><span class="ss"> hablan sobre estos temas'</span>)</span>
+<span id="cb46-3"><a href="#cb46-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="ss">f'Alrededor de </span><span class="sc">{</span>percentage<span class="sc">}</span><span class="ss">% de los tweets de @nikolas_dm hablan sobre estos temas'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Del total de 7035 tweets de @nikolas_dm, 31 hablan sobre estos temas
+Alrededor de 0.44% de los tweets de @nikolas_dm hablan sobre estos temas</code></pre>
+</div>
+</div>
+</section>
+<section id="pastormalafaia-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="pastormalafaia-analysis"><code>PastorMalafaia</code> analysis</h3>
+<div class="cell" data-execution_count="41">
+<div class="sourceCode cell-code" id="cb48"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb48-1"><a href="#cb48-1" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="bu">len</span>(PastorMalafaia))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>43709</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="42">
+<div class="sourceCode cell-code" id="cb50"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb50-1"><a href="#cb50-1" aria-hidden="true" tabindex="-1"></a><span class="co"># define function to extract URLs</span></span>
+<span id="cb50-2"><a href="#cb50-2" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> extract_urls(text):</span>
+<span id="cb50-3"><a href="#cb50-3" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> re.findall(<span class="vs">r'(http[s]?://\S+)'</span>, text)</span>
+<span id="cb50-4"><a href="#cb50-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb50-5"><a href="#cb50-5" aria-hidden="true" tabindex="-1"></a><span class="co"># apply function to text column</span></span>
+<span id="cb50-6"><a href="#cb50-6" aria-hidden="true" tabindex="-1"></a>PastorMalafaia[<span class="st">'urls'</span>] <span class="op">=</span> PastorMalafaia[<span class="st">'text'</span>].<span class="bu">apply</span>(extract_urls)</span>
+<span id="cb50-7"><a href="#cb50-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb50-8"><a href="#cb50-8" aria-hidden="true" tabindex="-1"></a><span class="co"># print resulting dataframe</span></span>
+<span id="cb50-9"><a href="#cb50-9" aria-hidden="true" tabindex="-1"></a>urls <span class="op">=</span> PastorMalafaia[<span class="st">'urls'</span>].to_list()</span>
+<span id="cb50-10"><a href="#cb50-10" aria-hidden="true" tabindex="-1"></a><span class="co"># flatten list of lists</span></span>
+<span id="cb50-11"><a href="#cb50-11" aria-hidden="true" tabindex="-1"></a>urls <span class="op">=</span> [item <span class="cf">for</span> sublist <span class="kw">in</span> urls <span class="cf">for</span> item <span class="kw">in</span> sublist]</span>
+<span id="cb50-12"><a href="#cb50-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb50-13"><a href="#cb50-13" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="bu">len</span>(urls))</span>
+<span id="cb50-14"><a href="#cb50-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb50-15"><a href="#cb50-15" aria-hidden="true" tabindex="-1"></a>hosts <span class="op">=</span> [URL(url).host <span class="cf">for</span> url <span class="kw">in</span> urls]</span>
+<span id="cb50-16"><a href="#cb50-16" aria-hidden="true" tabindex="-1"></a>hosts_count <span class="op">=</span> pd.Series(hosts).value_counts()</span>
+<span id="cb50-17"><a href="#cb50-17" aria-hidden="true" tabindex="-1"></a>top_hosts <span class="op">=</span> hosts_count.nlargest(<span class="dv">20</span>)</span>
+<span id="cb50-18"><a href="#cb50-18" aria-hidden="true" tabindex="-1"></a>top_hosts</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>31010</code></pre>
+</div>
+<div class="cell-output cell-output-error">
+<pre><code>ValueError: Invalid URL: port can't be converted to integer</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="43">
+<div class="sourceCode cell-code" id="cb53"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb53-1"><a href="#cb53-1" aria-hidden="true" tabindex="-1"></a>hashtags <span class="op">=</span> PastorMalafaia[<span class="st">'hashtags'</span>].to_list()</span>
+<span id="cb53-2"><a href="#cb53-2" aria-hidden="true" tabindex="-1"></a><span class="co"># remove nan items from list</span></span>
+<span id="cb53-3"><a href="#cb53-3" aria-hidden="true" tabindex="-1"></a>hashtags <span class="op">=</span> [x <span class="cf">for</span> x <span class="kw">in</span> hashtags <span class="cf">if</span> <span class="kw">not</span> pd.isna(x)]</span>
+<span id="cb53-4"><a href="#cb53-4" aria-hidden="true" tabindex="-1"></a><span class="co"># split items into a list based on a delimiter</span></span>
+<span id="cb53-5"><a href="#cb53-5" aria-hidden="true" tabindex="-1"></a>hashtags <span class="op">=</span> [x.split(<span class="st">'|'</span>) <span class="cf">for</span> x <span class="kw">in</span> hashtags]</span>
+<span id="cb53-6"><a href="#cb53-6" aria-hidden="true" tabindex="-1"></a><span class="co"># flatten list of lists</span></span>
+<span id="cb53-7"><a href="#cb53-7" aria-hidden="true" tabindex="-1"></a>hashtags <span class="op">=</span> [item <span class="cf">for</span> sublist <span class="kw">in</span> hashtags <span class="cf">for</span> item <span class="kw">in</span> sublist]</span>
+<span id="cb53-8"><a href="#cb53-8" aria-hidden="true" tabindex="-1"></a><span class="co"># count items on list</span></span>
+<span id="cb53-9"><a href="#cb53-9" aria-hidden="true" tabindex="-1"></a>hashtags_count <span class="op">=</span> pd.Series(hashtags).value_counts()</span>
+<span id="cb53-10"><a href="#cb53-10" aria-hidden="true" tabindex="-1"></a>top_hashtags <span class="op">=</span> hashtags_count.nlargest(<span class="dv">20</span>)</span>
+<span id="cb53-11"><a href="#cb53-11" aria-hidden="true" tabindex="-1"></a>top_hashtags</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="43">
+<pre><code>silasmalafaia                       203
+roubalheiraepttudoaver              197
+dilmavaiperderaecio45vencer         123
+elessabiamdorouboforadilma          116
+12anosderoubalheiradoptchega         71
+povobrasileirocontradilmaept         70
+chegaderoubalheiraforadilma          69
+225                                  60
+chegaderouboementiraforadilma        59
+dilmanaodialoguecomterrorista        54
+clamandopelobrasil                   52
+dilmaroubalheiraepttudoaver          52
+fachinnão                            46
+nemcorrupçãonemptnemdilma            43
+videodepregacao                      43
+respond                              43
+aovivocommalafaia                    42
+lulaedilmamenosodiocontramarina      42
+votoaeciopelobr45il                  41
+marinaresistentevaiserpresidente     39
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="44">
+<div class="sourceCode cell-code" id="cb55"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb55-1"><a href="#cb55-1" aria-hidden="true" tabindex="-1"></a>users <span class="op">=</span> PastorMalafaia[<span class="st">'mentioned_names'</span>].to_list()</span>
+<span id="cb55-2"><a href="#cb55-2" aria-hidden="true" tabindex="-1"></a><span class="co"># remove nan items from list</span></span>
+<span id="cb55-3"><a href="#cb55-3" aria-hidden="true" tabindex="-1"></a>users <span class="op">=</span> [x <span class="cf">for</span> x <span class="kw">in</span> users <span class="cf">if</span> <span class="kw">not</span> pd.isna(x)]</span>
+<span id="cb55-4"><a href="#cb55-4" aria-hidden="true" tabindex="-1"></a><span class="co"># split items into a list based on a delimiter</span></span>
+<span id="cb55-5"><a href="#cb55-5" aria-hidden="true" tabindex="-1"></a>users <span class="op">=</span> [x.split(<span class="st">'|'</span>) <span class="cf">for</span> x <span class="kw">in</span> users]</span>
+<span id="cb55-6"><a href="#cb55-6" aria-hidden="true" tabindex="-1"></a><span class="co"># flatten list of lists</span></span>
+<span id="cb55-7"><a href="#cb55-7" aria-hidden="true" tabindex="-1"></a>users <span class="op">=</span> [item <span class="cf">for</span> sublist <span class="kw">in</span> users <span class="cf">for</span> item <span class="kw">in</span> sublist]</span>
+<span id="cb55-8"><a href="#cb55-8" aria-hidden="true" tabindex="-1"></a><span class="co"># count items on list</span></span>
+<span id="cb55-9"><a href="#cb55-9" aria-hidden="true" tabindex="-1"></a>users_count <span class="op">=</span> pd.Series(users).value_counts()</span>
+<span id="cb55-10"><a href="#cb55-10" aria-hidden="true" tabindex="-1"></a>top_users <span class="op">=</span> users_count.nlargest(<span class="dv">10</span>)</span>
+<span id="cb55-11"><a href="#cb55-11" aria-hidden="true" tabindex="-1"></a>top_users</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="44">
+<pre><code>verdadegospel            638
+advecoficial             532
+edcentralgospel          179
+reinaldoazevedo          158
+avec_oficial             135
+elizetemalafaia          115
+radaronline              103
+eyshila1                  70
+cgospelmusic              60
+pastormalafaiaoficial     52
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="45">
+<div class="sourceCode cell-code" id="cb57"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb57-1"><a href="#cb57-1" aria-hidden="true" tabindex="-1"></a><span class="co"># plot the data using plotly</span></span>
+<span id="cb57-2"><a href="#cb57-2" aria-hidden="true" tabindex="-1"></a>fig <span class="op">=</span> px.line(PastorMalafaia, </span>
+<span id="cb57-3"><a href="#cb57-3" aria-hidden="true" tabindex="-1"></a>              x<span class="op">=</span><span class="st">'date'</span>, </span>
+<span id="cb57-4"><a href="#cb57-4" aria-hidden="true" tabindex="-1"></a>              y<span class="op">=</span><span class="st">'like_count'</span>, </span>
+<span id="cb57-5"><a href="#cb57-5" aria-hidden="true" tabindex="-1"></a>              title<span class="op">=</span><span class="st">'Likes over Time'</span>,</span>
+<span id="cb57-6"><a href="#cb57-6" aria-hidden="true" tabindex="-1"></a>              template<span class="op">=</span><span class="st">'plotly_dark'</span>, </span>
+<span id="cb57-7"><a href="#cb57-7" aria-hidden="true" tabindex="-1"></a>              hover_data<span class="op">=</span>[<span class="st">'text'</span>])</span>
+<span id="cb57-8"><a href="#cb57-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb57-9"><a href="#cb57-9" aria-hidden="true" tabindex="-1"></a><span class="co"># show the plot</span></span>
+<span id="cb57-10"><a href="#cb57-10" aria-hidden="true" tabindex="-1"></a>fig.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="46">
+<div class="sourceCode cell-code" id="cb59"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb59-1"><a href="#cb59-1" aria-hidden="true" tabindex="-1"></a>STOP_WORDS <span class="op">=</span> nlp.Defaults.stop_words</span>
+<span id="cb59-2"><a href="#cb59-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb59-3"><a href="#cb59-3" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> filter_stopwords(text):</span>
+<span id="cb59-4"><a href="#cb59-4" aria-hidden="true" tabindex="-1"></a>    doc <span class="op">=</span> nlp(text.lower())</span>
+<span id="cb59-5"><a href="#cb59-5" aria-hidden="true" tabindex="-1"></a>    tokens <span class="op">=</span> [token.text <span class="cf">for</span> token <span class="kw">in</span> doc <span class="cf">if</span> <span class="kw">not</span> token.is_stop <span class="kw">and</span> token.text <span class="kw">not</span> <span class="kw">in</span> STOP_WORDS <span class="kw">and</span> token.is_alpha]</span>
+<span id="cb59-6"><a href="#cb59-6" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> <span class="st">' '</span>.join(tokens)</span>
+<span id="cb59-7"><a href="#cb59-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb59-8"><a href="#cb59-8" aria-hidden="true" tabindex="-1"></a>PastorMalafaia[<span class="st">'preprocess'</span>] <span class="op">=</span> PastorMalafaia[<span class="st">'text'</span>].<span class="bu">apply</span>(filter_stopwords)</span>
+<span id="cb59-9"><a href="#cb59-9" aria-hidden="true" tabindex="-1"></a>word_list <span class="op">=</span> [<span class="st">'aborto'</span>, <span class="st">'ideologia de genero'</span>, <span class="st">'#brasilsemaborto'</span>, <span class="st">'#abortonao'</span>, <span class="st">'#marchapelavida'</span>, <span class="st">'#afavordavida'</span>, <span class="st">'#estatutodonascituro'</span>, <span class="st">'homossexualismo'</span>, <span class="st">'sexo e criança'</span>, <span class="st">'sexualidade'</span>, <span class="st">'transgeneros'</span>, <span class="st">'"trans"'</span>, <span class="st">'defesa da vida'</span>]</span>
+<span id="cb59-10"><a href="#cb59-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb59-11"><a href="#cb59-11" aria-hidden="true" tabindex="-1"></a><span class="co"># use apply method with lambda function to filter rows</span></span>
+<span id="cb59-12"><a href="#cb59-12" aria-hidden="true" tabindex="-1"></a>filtered_df <span class="op">=</span> PastorMalafaia[PastorMalafaia[<span class="st">'preprocess'</span>].<span class="bu">apply</span>(<span class="kw">lambda</span> x: <span class="bu">any</span>(word <span class="kw">in</span> x <span class="cf">for</span> word <span class="kw">in</span> word_list))]</span>
+<span id="cb59-13"><a href="#cb59-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb59-14"><a href="#cb59-14" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="bu">len</span>(filtered_df))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-error">
+<pre><code>KeyboardInterrupt: </code></pre>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb61"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb61-1"><a href="#cb61-1" aria-hidden="true" tabindex="-1"></a>token_counts <span class="op">=</span> PastorMalafaia[<span class="st">"preprocess"</span>].<span class="bu">str</span>.split(expand<span class="op">=</span><span class="va">True</span>).stack().value_counts()[:<span class="dv">20</span>]</span>
+<span id="cb61-2"><a href="#cb61-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb61-3"><a href="#cb61-3" aria-hidden="true" tabindex="-1"></a>token_counts</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="213">
+<pre><code>assista       7856
+q             5381
+vídeo         4499
+deus          3435
+programa      3030
+dia           2894
+bolsonaro     2840
+vitória       2782
+cristo        2620
+brasil        2418
+acesse        2256
+hoje          2189
+vou           2168
+pt            2073
+divulgue      1981
+ñ             1882
+sábado        1816
+imprensa      1727
+lula          1721
+imperdível    1715
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb63"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb63-1"><a href="#cb63-1" aria-hidden="true" tabindex="-1"></a>percentage <span class="op">=</span> <span class="bu">round</span>(<span class="dv">100</span> <span class="op">*</span> <span class="bu">len</span>(filtered_df) <span class="op">/</span> <span class="bu">len</span>(PastorMalafaia), <span class="dv">2</span>)</span>
+<span id="cb63-2"><a href="#cb63-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="ss">f'Del total de </span><span class="sc">{</span><span class="bu">len</span>(PastorMalafaia)<span class="sc">}</span><span class="ss"> tweets de @PastorMalafaia, </span><span class="sc">{</span><span class="bu">len</span>(filtered_df)<span class="sc">}</span><span class="ss"> hablan sobre estos temas'</span>)</span>
+<span id="cb63-3"><a href="#cb63-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="ss">f'Alrededor de </span><span class="sc">{</span>percentage<span class="sc">}</span><span class="ss">% de los tweets de @PastorMalafaia hablan sobre estos temas'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Del total de 43709 tweets de @PastorMalafaia, 506 hablan sobre estos temas
+Alrededor de 1.16% de los tweets de @PastorMalafaia hablan sobre estos temas</code></pre>
+</div>
+</div>
+</section>
+<section id="dataviz" class="level3">
+<h3 class="anchored" data-anchor-id="dataviz">Dataviz</h3>
+<div class="cell" data-execution_count="47">
+<div class="sourceCode cell-code" id="cb65"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb65-1"><a href="#cb65-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Extracting the year component and creating a new column</span></span>
+<span id="cb65-2"><a href="#cb65-2" aria-hidden="true" tabindex="-1"></a>brasilsemaborto[<span class="st">'year'</span>] <span class="op">=</span> brasilsemaborto[<span class="st">'date'</span>].dt.year</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="48">
+<div class="sourceCode cell-code" id="cb66"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb66-1"><a href="#cb66-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Set the word you want to search for</span></span>
+<span id="cb66-2"><a href="#cb66-2" aria-hidden="true" tabindex="-1"></a>target_word <span class="op">=</span> <span class="st">'aborto'</span></span>
+<span id="cb66-3"><a href="#cb66-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb66-4"><a href="#cb66-4" aria-hidden="true" tabindex="-1"></a>brasilsemaborto[<span class="st">'text'</span>] <span class="op">=</span> brasilsemaborto[<span class="st">'text'</span>].<span class="bu">str</span>.lower()</span>
+<span id="cb66-5"><a href="#cb66-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb66-6"><a href="#cb66-6" aria-hidden="true" tabindex="-1"></a><span class="co"># Count the number of occurrences of the target word in each Date period</span></span>
+<span id="cb66-7"><a href="#cb66-7" aria-hidden="true" tabindex="-1"></a>counts <span class="op">=</span> brasilsemaborto[<span class="st">'text'</span>].<span class="bu">str</span>.count(target_word)</span>
+<span id="cb66-8"><a href="#cb66-8" aria-hidden="true" tabindex="-1"></a>grouped_df <span class="op">=</span> pd.DataFrame({<span class="st">'counts'</span>: counts, <span class="st">'year'</span>: brasilsemaborto[<span class="st">'year'</span>]})</span>
+<span id="cb66-9"><a href="#cb66-9" aria-hidden="true" tabindex="-1"></a>grouped_df.reset_index(drop<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb66-10"><a href="#cb66-10" aria-hidden="true" tabindex="-1"></a>count <span class="op">=</span> grouped_df.groupby(by<span class="op">=</span><span class="st">'year'</span>, axis<span class="op">=</span><span class="dv">0</span>, as_index<span class="op">=</span><span class="va">False</span>).<span class="bu">sum</span>()</span>
+<span id="cb66-11"><a href="#cb66-11" aria-hidden="true" tabindex="-1"></a>count</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="48">
+<div>
+
+
+<table class="dataframe table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">year</th>
+<th data-quarto-table-cell-role="th">counts</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>2009</td>
+<td>32</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>2010</td>
+<td>67</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>2011</td>
+<td>24</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>2012</td>
+<td>178</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>2013</td>
+<td>50</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">5</td>
+<td>2014</td>
+<td>12</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">6</td>
+<td>2015</td>
+<td>41</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">7</td>
+<td>2016</td>
+<td>237</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">8</td>
+<td>2017</td>
+<td>196</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">9</td>
+<td>2018</td>
+<td>82</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">10</td>
+<td>2019</td>
+<td>81</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">11</td>
+<td>2020</td>
+<td>194</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">12</td>
+<td>2021</td>
+<td>78</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">13</td>
+<td>2022</td>
+<td>79</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">14</td>
+<td>2023</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="49">
+<div class="sourceCode cell-code" id="cb67"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb67-1"><a href="#cb67-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Pivoting the dataframe for heatmap visualization</span></span>
+<span id="cb67-2"><a href="#cb67-2" aria-hidden="true" tabindex="-1"></a>heatmap_df <span class="op">=</span> count.pivot(columns<span class="op">=</span><span class="st">'year'</span>, values<span class="op">=</span><span class="st">'counts'</span>)</span>
+<span id="cb67-3"><a href="#cb67-3" aria-hidden="true" tabindex="-1"></a>heatmap_df.index.name <span class="op">=</span> <span class="va">None</span></span>
+<span id="cb67-4"><a href="#cb67-4" aria-hidden="true" tabindex="-1"></a>heatmap_df.columns.name <span class="op">=</span> <span class="va">None</span></span>
+<span id="cb67-5"><a href="#cb67-5" aria-hidden="true" tabindex="-1"></a>heatmap_df</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="49">
+<div>
+
+
+<table class="dataframe table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">2009</th>
+<th data-quarto-table-cell-role="th">2010</th>
+<th data-quarto-table-cell-role="th">2011</th>
+<th data-quarto-table-cell-role="th">2012</th>
+<th data-quarto-table-cell-role="th">2013</th>
+<th data-quarto-table-cell-role="th">2014</th>
+<th data-quarto-table-cell-role="th">2015</th>
+<th data-quarto-table-cell-role="th">2016</th>
+<th data-quarto-table-cell-role="th">2017</th>
+<th data-quarto-table-cell-role="th">2018</th>
+<th data-quarto-table-cell-role="th">2019</th>
+<th data-quarto-table-cell-role="th">2020</th>
+<th data-quarto-table-cell-role="th">2021</th>
+<th data-quarto-table-cell-role="th">2022</th>
+<th data-quarto-table-cell-role="th">2023</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>32.0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>NaN</td>
+<td>67.0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>24.0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>178.0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>50.0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">5</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>12.0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">6</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>41.0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">7</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>237.0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">8</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>196.0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">9</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>82.0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">10</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>81.0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">11</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>194.0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">12</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>78.0</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">13</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>79.0</td>
+<td>NaN</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">14</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>1.0</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="50">
+<div class="sourceCode cell-code" id="cb68"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb68-1"><a href="#cb68-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Creating a heatmap using Plotly Express</span></span>
+<span id="cb68-2"><a href="#cb68-2" aria-hidden="true" tabindex="-1"></a>fig <span class="op">=</span> px.imshow(heatmap_df,</span>
+<span id="cb68-3"><a href="#cb68-3" aria-hidden="true" tabindex="-1"></a>                color_continuous_scale<span class="op">=</span><span class="st">'Reds'</span>)</span>
+<span id="cb68-4"><a href="#cb68-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb68-5"><a href="#cb68-5" aria-hidden="true" tabindex="-1"></a><span class="co"># Displaying the heatmap</span></span>
+<span id="cb68-6"><a href="#cb68-6" aria-hidden="true" tabindex="-1"></a>fig.show()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
+</div>
+</div>
+</section>
+<section id="topics" class="level3">
+<h3 class="anchored" data-anchor-id="topics">Topics</h3>
+<div class="cell" data-execution_count="86">
+<div class="sourceCode cell-code" id="cb70"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb70-1"><a href="#cb70-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Remove urls</span></span>
+<span id="cb70-2"><a href="#cb70-2" aria-hidden="true" tabindex="-1"></a>p.set_options(p.OPT.URL)</span>
+<span id="cb70-3"><a href="#cb70-3" aria-hidden="true" tabindex="-1"></a>brasilsemaborto[<span class="st">'text_clean'</span>] <span class="op">=</span> brasilsemaborto[<span class="st">'text'</span>].<span class="bu">apply</span>(<span class="kw">lambda</span> x: p.clean(x))</span>
+<span id="cb70-4"><a href="#cb70-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb70-5"><a href="#cb70-5" aria-hidden="true" tabindex="-1"></a><span class="co"># Tokenize mentions and hashtags</span></span>
+<span id="cb70-6"><a href="#cb70-6" aria-hidden="true" tabindex="-1"></a>p.set_options(p.OPT.MENTION)</span>
+<span id="cb70-7"><a href="#cb70-7" aria-hidden="true" tabindex="-1"></a>brasilsemaborto[<span class="st">'text_clean'</span>] <span class="op">=</span> brasilsemaborto[<span class="st">'text_clean'</span>].<span class="bu">apply</span>(<span class="kw">lambda</span> x: p.tokenize(x))</span>
+<span id="cb70-8"><a href="#cb70-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb70-9"><a href="#cb70-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Replace emojis with descriptions</span></span>
+<span id="cb70-10"><a href="#cb70-10" aria-hidden="true" tabindex="-1"></a>brasilsemaborto[<span class="st">'text_clean'</span>] <span class="op">=</span> brasilsemaborto[<span class="st">'text_clean'</span>].<span class="bu">apply</span>(<span class="kw">lambda</span> x: demojize(x))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="113">
+<div class="sourceCode cell-code" id="cb71"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb71-1"><a href="#cb71-1" aria-hidden="true" tabindex="-1"></a>docs <span class="op">=</span> brasilsemaborto[<span class="st">'preprocess'</span>]</span>
+<span id="cb71-2"><a href="#cb71-2" aria-hidden="true" tabindex="-1"></a>topic_model <span class="op">=</span> BERTopic(language<span class="op">=</span><span class="st">"multilingual"</span>, calculate_probabilities<span class="op">=</span><span class="va">True</span>, verbose<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb71-3"><a href="#cb71-3" aria-hidden="true" tabindex="-1"></a>topics, probs <span class="op">=</span> topic_model.fit_transform(docs)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<script type="application/vnd.jupyter.widget-view+json">
+{"model_id":"e7b2b7aea1a241d5bc582da367d3317f","version_major":2,"version_minor":0,"quarto_mimetype":"application/vnd.jupyter.widget-view+json"}
+</script>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>2023-06-29 10:52:37,785 - BERTopic - Transformed documents to Embeddings
+2023-06-29 10:52:42,193 - BERTopic - Reduced dimensionality
+2023-06-29 10:52:42,321 - BERTopic - Clustered reduced embeddings</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="114">
+<div class="sourceCode cell-code" id="cb73"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb73-1"><a href="#cb73-1" aria-hidden="true" tabindex="-1"></a>freq <span class="op">=</span> topic_model.get_topic_info()<span class="op">;</span> freq.head(<span class="dv">5</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="114">
+<div>
+
+
+<table class="dataframe table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">Topic</th>
+<th data-quarto-table-cell-role="th">Count</th>
+<th data-quarto-table-cell-role="th">Name</th>
+<th data-quarto-table-cell-role="th">Representation</th>
+<th data-quarto-table-cell-role="th">Representative_Docs</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>-1</td>
+<td>237</td>
+<td>-1_dia_confira_marchavirtualpelavida_twittaço</td>
+<td>[dia, confira, marchavirtualpelavida, twittaço...</td>
+<td>[marchavirtualpelavida abordamos mitos verdade...</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>0</td>
+<td>186</td>
+<td>0_codigopenal_penal_código_justiça</td>
+<td>[codigopenal, penal, código, justiça, ministro...</td>
+<td>[começa audiência pública presença ministro ju...</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>1</td>
+<td>156</td>
+<td>1_brasilsemaborto_marchapelavida_marcha_brasil...</td>
+<td>[brasilsemaborto, marchapelavida, marcha, bras...</td>
+<td>[anote marcha nacional vida dia junho concentr...</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>2</td>
+<td>124</td>
+<td>2_brasil_aborto_movimento_brasilsemaborto</td>
+<td>[brasil, aborto, movimento, brasilsemaborto, p...</td>
+<td>[legalização aborto siga movimento brasil abor...</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>3</td>
+<td>119</td>
+<td>3_aborto_stfabortonao_abortoépreconceito_psol</td>
+<td>[aborto, stfabortonao, abortoépreconceito, pso...</td>
+<td>[escreva ligue gabinete ministra rosa weber ma...</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="115">
+<div class="sourceCode cell-code" id="cb74"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb74-1"><a href="#cb74-1" aria-hidden="true" tabindex="-1"></a>topic_model.get_topic(<span class="dv">0</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="115">
+<pre><code>[('codigopenal', 0.069764594752481),
+ ('penal', 0.055471051466784764),
+ ('código', 0.05356170059633988),
+ ('justiça', 0.04920125929602481),
+ ('ministro', 0.04655689519506567),
+ ('senador', 0.03863817186714301),
+ ('comissão', 0.03721161690579737),
+ ('falas', 0.03669265881404876),
+ ('reforma', 0.034671890793150625),
+ ('senado', 0.032122241466960084)]</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="116">
+<div class="sourceCode cell-code" id="cb76"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb76-1"><a href="#cb76-1" aria-hidden="true" tabindex="-1"></a>topic_model.visualize_topics()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="117">
+<div class="sourceCode cell-code" id="cb78"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb78-1"><a href="#cb78-1" aria-hidden="true" tabindex="-1"></a>topic_model.visualize_distribution(probs[<span class="dv">200</span>], min_probability<span class="op">=</span><span class="fl">0.015</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="118">
+<div class="sourceCode cell-code" id="cb80"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb80-1"><a href="#cb80-1" aria-hidden="true" tabindex="-1"></a>topic_model.visualize_hierarchy(top_n_topics<span class="op">=</span><span class="dv">50</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="119">
+<div class="sourceCode cell-code" id="cb82"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb82-1"><a href="#cb82-1" aria-hidden="true" tabindex="-1"></a>topic_model.visualize_barchart(top_n_topics<span class="op">=</span><span class="dv">5</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="120">
+<div class="sourceCode cell-code" id="cb84"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb84-1"><a href="#cb84-1" aria-hidden="true" tabindex="-1"></a>topic_model.visualize_heatmap(n_clusters<span class="op">=</span><span class="dv">20</span>, width<span class="op">=</span><span class="dv">1000</span>, height<span class="op">=</span><span class="dv">1000</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="121">
+<div class="sourceCode cell-code" id="cb86"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb86-1"><a href="#cb86-1" aria-hidden="true" tabindex="-1"></a>topic_model.visualize_term_rank()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
+</div>
+</div>
+</section>
+<section id="update-topics" class="level3">
+<h3 class="anchored" data-anchor-id="update-topics">Update topics</h3>
+<div class="cell" data-execution_count="122">
+<div class="sourceCode cell-code" id="cb88"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb88-1"><a href="#cb88-1" aria-hidden="true" tabindex="-1"></a>topic_model.update_topics(docs, n_gram_range<span class="op">=</span>(<span class="dv">1</span>, <span class="dv">2</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="123">
+<div class="sourceCode cell-code" id="cb89"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb89-1"><a href="#cb89-1" aria-hidden="true" tabindex="-1"></a>topic_model.get_topic(<span class="dv">0</span>)   <span class="co"># We select topic that we viewed before</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="123">
+<pre><code>[('codigopenal', 0.04635664849267055),
+ ('penal', 0.03623416878067238),
+ ('código', 0.03521073599460827),
+ ('código penal', 0.033586640802502205),
+ ('justiça', 0.03092996298329605),
+ ('ministro', 0.029719692905447872),
+ ('ministro justiça', 0.02563207767402325),
+ ('senador', 0.024008793944547885),
+ ('justiça codigopenal', 0.023929093484387678),
+ ('comissão', 0.0237916445459753)]</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="124">
+<div class="sourceCode cell-code" id="cb91"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb91-1"><a href="#cb91-1" aria-hidden="true" tabindex="-1"></a>topic_model.reduce_topics(docs, nr_topics<span class="op">=</span><span class="dv">11</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>2023-06-29 10:57:19,557 - BERTopic - Reduced number of topics from 30 to 11</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="124">
+<pre><code>&lt;bertopic._bertopic.BERTopic at 0x7f3338909b20&gt;</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="150">
+<div class="sourceCode cell-code" id="cb94"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb94-1"><a href="#cb94-1" aria-hidden="true" tabindex="-1"></a>similar_topics, similarity <span class="op">=</span> topic_model.find_topics(<span class="st">"politica"</span>, top_n<span class="op">=</span><span class="dv">5</span>)<span class="op">;</span> similar_topics</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="150">
+<pre><code>[4, 6, 3, 2, -1]</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="152">
+<div class="sourceCode cell-code" id="cb96"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb96-1"><a href="#cb96-1" aria-hidden="true" tabindex="-1"></a>topic_model.get_topic(<span class="dv">3</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="152">
+<pre><code>[('vida', 0.04957686697832633),
+ ('cantora', 0.027410469779769006),
+ ('saiba', 0.02573867501734984),
+ ('direito', 0.023478648347275217),
+ ('marco aurélio', 0.02274137177244695),
+ ('peluso', 0.02274137177244695),
+ ('aurélio', 0.02241457940732829),
+ ('show', 0.022110482069531465),
+ ('marco', 0.021559179126075433),
+ ('saiba saiba', 0.019618371669068484)]</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="132">
+<div class="sourceCode cell-code" id="cb98"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb98-1"><a href="#cb98-1" aria-hidden="true" tabindex="-1"></a>topic_model.visualize_topics()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="153">
+<div class="sourceCode cell-code" id="cb100"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb100-1"><a href="#cb100-1" aria-hidden="true" tabindex="-1"></a>tweets <span class="op">=</span> brasilsemaborto[<span class="st">'text_clean'</span>].to_list()</span>
+<span id="cb100-2"><a href="#cb100-2" aria-hidden="true" tabindex="-1"></a>timestamps <span class="op">=</span> brasilsemaborto[<span class="st">'local_time'</span>].to_list()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="154">
+<div class="sourceCode cell-code" id="cb101"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb101-1"><a href="#cb101-1" aria-hidden="true" tabindex="-1"></a>topics_over_time <span class="op">=</span> topic_model.topics_over_time(docs<span class="op">=</span>tweets, </span>
+<span id="cb101-2"><a href="#cb101-2" aria-hidden="true" tabindex="-1"></a>                                                timestamps<span class="op">=</span>timestamps, </span>
+<span id="cb101-3"><a href="#cb101-3" aria-hidden="true" tabindex="-1"></a>                                                global_tuning<span class="op">=</span><span class="va">True</span>, </span>
+<span id="cb101-4"><a href="#cb101-4" aria-hidden="true" tabindex="-1"></a>                                                evolution_tuning<span class="op">=</span><span class="va">True</span>, </span>
+<span id="cb101-5"><a href="#cb101-5" aria-hidden="true" tabindex="-1"></a>                                                nr_bins<span class="op">=</span><span class="dv">20</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>20it [00:00, 32.11it/s]</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="155">
+<div class="sourceCode cell-code" id="cb103"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb103-1"><a href="#cb103-1" aria-hidden="true" tabindex="-1"></a>topic_model.visualize_topics_over_time(topics_over_time, top_n_topics<span class="op">=</span><span class="dv">20</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="156">
+<div class="sourceCode cell-code" id="cb105"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb105-1"><a href="#cb105-1" aria-hidden="true" tabindex="-1"></a>brasilsemaborto.columns</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="156">
+<pre><code>Index(['query', 'id', 'timestamp_utc', 'local_time', 'user_screen_name',
+       'text', 'possibly_sensitive', 'retweet_count', 'like_count',
+       'reply_count', 'impression_count', 'lang', 'to_username', 'to_userid',
+       'to_tweetid', 'source_name', 'source_url', 'user_location', 'lat',
+       'lng', 'user_id', 'user_name', 'user_verified', 'user_description',
+       'user_url', 'user_image', 'user_tweets', 'user_followers',
+       'user_friends', 'user_likes', 'user_lists', 'user_created_at',
+       'user_timestamp_utc', 'collected_via', 'match_query', 'retweeted_id',
+       'retweeted_user', 'retweeted_user_id', 'retweeted_timestamp_utc',
+       'quoted_id', 'quoted_user', 'quoted_user_id', 'quoted_timestamp_utc',
+       'collection_time', 'url', 'place_country_code', 'place_name',
+       'place_type', 'place_coordinates', 'links', 'domains', 'media_urls',
+       'media_files', 'media_types', 'media_alt_texts', 'mentioned_names',
+       'mentioned_ids', 'hashtags', 'intervention_type', 'intervention_text',
+       'intervention_url', 'country', 'date', 'hour', 'urls', 'preprocess',
+       'year', 'text_clean'],
+      dtype='object')</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="264">
+<div class="sourceCode cell-code" id="cb107"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb107-1"><a href="#cb107-1" aria-hidden="true" tabindex="-1"></a>brasilsemaborto[<span class="st">'hour'</span>] <span class="op">=</span> brasilsemaborto[<span class="st">'time'</span>].<span class="bu">str</span>.split(<span class="st">":"</span>).<span class="bu">str</span>[<span class="dv">0</span>]</span>
+<span id="cb107-2"><a href="#cb107-2" aria-hidden="true" tabindex="-1"></a>hours_count <span class="op">=</span> brasilsemaborto[<span class="st">'hour'</span>].value_counts()</span>
+<span id="cb107-3"><a href="#cb107-3" aria-hidden="true" tabindex="-1"></a>top_hours <span class="op">=</span> hours_count.nlargest(<span class="dv">8</span>)</span>
+<span id="cb107-4"><a href="#cb107-4" aria-hidden="true" tabindex="-1"></a>top_hours</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="264">
+<pre><code>hour
+13    189
+14    152
+18    130
+19    121
+22    108
+12    104
+15    101
+20     89
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="194">
+<div class="sourceCode cell-code" id="cb109"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb109-1"><a href="#cb109-1" aria-hidden="true" tabindex="-1"></a>brasilsemaborto[<span class="st">'source_name'</span>].value_counts()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="194">
+<pre><code>source_name
+Twitter for Android            479
+Twitter Web Client             453
+Plume&nbsp;for&nbsp;Android              161
+Twitter Web App                 89
+Twitter for iPhone              60
+TweetDeck                       42
+Jetpack.com                     41
+Twitter for Websites            26
+TweetCaster for Android         18
+Posterous                       16
+Gravity                         15
+Twitter for Android Tablets      7
+Gravity!                         2
+Twibbon                          1
+Twitpic                          1
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="199">
+<div class="sourceCode cell-code" id="cb111"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb111-1"><a href="#cb111-1" aria-hidden="true" tabindex="-1"></a>brasilsemaborto[<span class="st">'lat'</span>].value_counts()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="199">
+<pre><code>lat
+-16.6796156    3
+-15.7991982    2
+-15.7995491    1
+-16.6976614    1
+-16.6744185    1
+-16.6755325    1
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="202">
+<div class="sourceCode cell-code" id="cb113"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb113-1"><a href="#cb113-1" aria-hidden="true" tabindex="-1"></a>brasilsemaborto[<span class="st">'lng'</span>].value_counts()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="202">
+<pre><code>lng
+-49.2560692    3
+-47.8659205    2
+-47.8660936    1
+-49.2644053    1
+-49.2604053    1
+-49.2551317    1
+Name: count, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="217">
+<div class="sourceCode cell-code" id="cb115"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb115-1"><a href="#cb115-1" aria-hidden="true" tabindex="-1"></a>brasilsemaborto[brasilsemaborto[<span class="st">'lat'</span>].isin([<span class="op">-</span><span class="fl">15.7991982</span>, <span class="op">-</span><span class="fl">15.7995491</span>])]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="217">
+<div>
+
+
+<table class="dataframe table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">query</th>
+<th data-quarto-table-cell-role="th">id</th>
+<th data-quarto-table-cell-role="th">timestamp_utc</th>
+<th data-quarto-table-cell-role="th">local_time</th>
+<th data-quarto-table-cell-role="th">user_screen_name</th>
+<th data-quarto-table-cell-role="th">text</th>
+<th data-quarto-table-cell-role="th">possibly_sensitive</th>
+<th data-quarto-table-cell-role="th">retweet_count</th>
+<th data-quarto-table-cell-role="th">like_count</th>
+<th data-quarto-table-cell-role="th">reply_count</th>
+<th data-quarto-table-cell-role="th">...</th>
+<th data-quarto-table-cell-role="th">intervention_type</th>
+<th data-quarto-table-cell-role="th">intervention_text</th>
+<th data-quarto-table-cell-role="th">intervention_url</th>
+<th data-quarto-table-cell-role="th">country</th>
+<th data-quarto-table-cell-role="th">date</th>
+<th data-quarto-table-cell-role="th">hour</th>
+<th data-quarto-table-cell-role="th">urls</th>
+<th data-quarto-table-cell-role="th">preprocess</th>
+<th data-quarto-table-cell-role="th">year</th>
+<th data-quarto-table-cell-role="th">text_clean</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">200069</td>
+<td>from:brasilsemaborto</td>
+<td>4.129298e+17</td>
+<td>1387285102</td>
+<td>2013-12-17T12:58:22</td>
+<td>brasilsemaborto</td>
+<td>eunicio diz que as ausências são notadas, mas ...</td>
+<td>NaN</td>
+<td>0.0</td>
+<td>1.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2013-12-17</td>
+<td>12:58:22</td>
+<td>[]</td>
+<td>eunicio ausências notadas resolvidas</td>
+<td>2013</td>
+<td>eunicio diz que as ausências são notadas, mas ...</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">200070</td>
+<td>from:brasilsemaborto</td>
+<td>4.129278e+17</td>
+<td>1387284622</td>
+<td>2013-12-17T12:50:22</td>
+<td>brasilsemaborto</td>
+<td>começa a sessão para a leitura do relatório de...</td>
+<td>NaN</td>
+<td>2.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2013-12-17</td>
+<td>12:50:22</td>
+<td>[]</td>
+<td>começa sessão leitura relatório pedro taques e...</td>
+<td>2013</td>
+<td>começa a sessão para a leitura do relatório de...</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">200071</td>
+<td>from:brasilsemaborto</td>
+<td>4.129149e+17</td>
+<td>1387281554</td>
+<td>2013-12-17T11:59:14</td>
+<td>brasilsemaborto</td>
+<td>prevista para agora a votação da reforma do có...</td>
+<td>NaN</td>
+<td>6.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Brasil</td>
+<td>2013-12-17</td>
+<td>11:59:14</td>
+<td>[]</td>
+<td>prevista votação reforma código penal relatóri...</td>
+<td>2013</td>
+<td>prevista para agora a votação da reforma do có...</td>
+</tr>
+</tbody>
+</table>
+
+<p>3 rows × 68 columns</p>
+</div>
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

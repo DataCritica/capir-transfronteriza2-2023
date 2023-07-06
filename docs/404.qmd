@@ -1,0 +1,7 @@
+---
+title: Página No Encontrada
+---
+
+La página solicitada no se encuentra (tal vez ha sido renombrada o ha cambiado su ubicación).
+
+Intenta buscar la nueva ubicación de la página.
