@@ -129,9 +129,14 @@ cython_debug/
 # VS Code
 .vs*
 
-# Git secret
-config.ini
-.gitsecret/keys/random_seed
-
-# Data
+# Directories
 data/
+
+# Quarto
+/.quarto/
+
+# Twarc
+twarc.log
+
+# Secret files
+config.ini
