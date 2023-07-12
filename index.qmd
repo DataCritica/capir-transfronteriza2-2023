@@ -1,6 +1,10 @@
 ---
-title: Análisis de tweets
+title: Análisis de datos
 ---
+
+## Introducción
+
+Esta investigación utiliza datos recolectados de Twitter y analiza el contenido de los tweets y sus metadatos para extraer información relevante sobre los contenidos que publican estas cuentas. 
 
 ## Instalación
 
@@ -19,29 +23,47 @@ python -m spacy download es_core_news_sm
 python -m spacy download pt_core_news_sm
 ```
 
-### Librerías
+## Documentación
 
+Lista de documentación para las librerías requeridas:
+
+- [minet](https://github.com/medialab/minet)
 - [pandas](https://github.com/pandas-dev/pandas)
 - [numpy](https://github.com/numpy/numpy)
+- [plotly](https://github.com/plotly/plotly.py)
+- [emoji](https://github.com/carpedm20/emoji/)
 - [spacy](https://github.com/explosion/spaCy)
 - [preprocessor](https://github.com/s/preprocessor)
-- [emoji](https://github.com/carpedm20/emoji/)
 - [bertopic](https://github.com/MaartenGr/BERTopic)
-- [plotly](https://github.com/plotly/plotly.py)
 
-### Selección de perfiles
+## Selección de perfiles
 
-```{python}
-# read data
-import pandas as pd
-data = pd.read_csv('./data/raw/users.csv')
-data
-```
+Se seleccionaron 3 cuentas por cada país incluyendo organizaciones provida, así como figuras políticas y religiosas de Brasil, Colombia y Ecuador.
 
-### Recolección de datos
+| País | Nombre  | Usuario  |
+|---|---|---|
+| Brasil | Nikolas Ferreira | nikolas_dm |
+| Brasil | Pastor Silas Malafaia | PastorMalafaia |
+| Brasil | Brasil Sem Aborto | brasilsemaborto |
+| Colombia | Misión Paz | misionpaz |
+| Colombia | María Fernanda Cabal | MariaFdaCabal |
+| Colombia | Unidos por la Vida | UnidosxlaVidaCo |
+| Ecuador | Mamela Fiallo Flor | MamelaFialloFlo |
+| Ecuador | Esteban Torres Cobo | etorrescobo |
+| Ecuador | Familia Ecuador | _FamiliaEcuador |
 
-Recolectamos los tweets de cada usuario usando la librería `minet` como [interfaz de línea de comandos](https://github.com/medialab/minet/blob/master/docs/cli.md#twitter-scrape) (CLI)
+## Recolección de datos
+
+Se recolectaron los tweets de cada usuario usando la librería `minet` como [interfaz de línea de comandos](https://github.com/medialab/minet/blob/master/docs/cli.md#twitter-scrape) (CLI)
 
 ```bash
 minet twitter scrape tweets 'from:username' > username.csv
 ```
+
+## Preprocesamiento
+
+## Modelado de tópicos
+
+## Selección de tópicos
+
+Para un análisis más detallado de cada cuenta, ingresar al apartado de cada perfil.

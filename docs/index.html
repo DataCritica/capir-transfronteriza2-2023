@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Análisis de tweets</title>
+<title>Análisis de datos</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -93,9 +93,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-label": "Search"
   }
 }</script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
-<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 </head>
@@ -145,19 +142,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pages/brasilsemaborto.html" class="sidebar-item-text sidebar-link">
+  <a href="./pages/brasilsemaborto.ipynb" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="citation" data-cites="brasilsemaborto">@brasilsemaborto</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pages/nikolas_dm.html" class="sidebar-item-text sidebar-link">
+  <a href="./pages/nikolas_dm.ipynb" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="citation" data-cites="nikolas_dm">@nikolas_dm</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pages/pastormalafaia.html" class="sidebar-item-text sidebar-link">
+  <a href="./pages/pastormalafaia.ipynb" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="citation" data-cites="PastorMalafaia">@PastorMalafaia</span></span></a>
   </div>
 </li>
@@ -174,19 +171,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pages/unidosxlavidaco.html" class="sidebar-item-text sidebar-link">
+  <a href="./pages/unidosxlavidaco.ipynb" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="citation" data-cites="UnidosxlaVidaCo">@UnidosxlaVidaCo</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pages/mariafdacabal.html" class="sidebar-item-text sidebar-link">
+  <a href="./pages/mariafdacabal.ipynb" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="citation" data-cites="MariaFdaCabal">@MariaFdaCabal</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pages/misionpaz.html" class="sidebar-item-text sidebar-link">
+  <a href="./pages/misionpaz.ipynb" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="citation" data-cites="misionpaz_">@misionpaz_</span></span></a>
   </div>
 </li>
@@ -203,19 +200,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pages/familiaecuador.html" class="sidebar-item-text sidebar-link">
+  <a href="./pages/familiaecuador.ipynb" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="citation" data-cites="_FamiliaEcuador">@_FamiliaEcuador</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pages/etorrescobo.html" class="sidebar-item-text sidebar-link">
+  <a href="./pages/etorrescobo.ipynb" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="citation" data-cites="etorrescobo">@etorrescobo</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pages/mamelafialloflo.html" class="sidebar-item-text sidebar-link">
+  <a href="./pages/mamelafialloflo.ipynb" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="citation" data-cites="MamelaFialloFlo">@MamelaFialloFlo</span></span></a>
   </div>
 </li>
@@ -231,12 +228,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#instalación" id="toc-instalación" class="nav-link active" data-scroll-target="#instalación">Instalación</a>
-  <ul class="collapse">
-  <li><a href="#librerías" id="toc-librerías" class="nav-link" data-scroll-target="#librerías">Librerías</a></li>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción">Introducción</a></li>
+  <li><a href="#instalación" id="toc-instalación" class="nav-link" data-scroll-target="#instalación">Instalación</a></li>
+  <li><a href="#documentación" id="toc-documentación" class="nav-link" data-scroll-target="#documentación">Documentación</a></li>
   <li><a href="#selección-de-perfiles" id="toc-selección-de-perfiles" class="nav-link" data-scroll-target="#selección-de-perfiles">Selección de perfiles</a></li>
   <li><a href="#recolección-de-datos" id="toc-recolección-de-datos" class="nav-link" data-scroll-target="#recolección-de-datos">Recolección de datos</a></li>
-  </ul></li>
+  <li><a href="#preprocesamiento" id="toc-preprocesamiento" class="nav-link" data-scroll-target="#preprocesamiento">Preprocesamiento</a></li>
+  <li><a href="#modelado-de-tópicos" id="toc-modelado-de-tópicos" class="nav-link" data-scroll-target="#modelado-de-tópicos">Modelado de tópicos</a></li>
+  <li><a href="#selección-de-tópicos" id="toc-selección-de-tópicos" class="nav-link" data-scroll-target="#selección-de-tópicos">Selección de tópicos</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/DataCritica/capir-transfronteriza2-2023/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/DataCritica/capir-transfronteriza2-2023/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -245,7 +244,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Análisis de tweets</h1>
+<h1 class="title">Análisis de datos</h1>
 </div>
 
 
@@ -260,6 +259,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
+<section id="introducción" class="level2">
+<h2 class="anchored" data-anchor-id="introducción">Introducción</h2>
+<p>Esta investigación utiliza datos recolectados de Twitter y analiza el contenido de los tweets y sus metadatos para extraer información relevante sobre los contenidos que publican estas cuentas.</p>
+</section>
 <section id="instalación" class="level2">
 <h2 class="anchored" data-anchor-id="instalación">Instalación</h2>
 <p>Lista de librerías requeridas para el proyecto:</p>
@@ -273,125 +276,97 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="ex">pip</span> install bertopic</span>
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> <span class="at">-m</span> spacy download es_core_news_sm</span>
 <span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> <span class="at">-m</span> spacy download pt_core_news_sm</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<section id="librerías" class="level3">
-<h3 class="anchored" data-anchor-id="librerías">Librerías</h3>
+</section>
+<section id="documentación" class="level2">
+<h2 class="anchored" data-anchor-id="documentación">Documentación</h2>
+<p>Lista de documentación para las librerías requeridas:</p>
 <ul>
+<li><a href="https://github.com/medialab/minet">minet</a></li>
 <li><a href="https://github.com/pandas-dev/pandas">pandas</a></li>
 <li><a href="https://github.com/numpy/numpy">numpy</a></li>
+<li><a href="https://github.com/plotly/plotly.py">plotly</a></li>
+<li><a href="https://github.com/carpedm20/emoji/">emoji</a></li>
 <li><a href="https://github.com/explosion/spaCy">spacy</a></li>
 <li><a href="https://github.com/s/preprocessor">preprocessor</a></li>
-<li><a href="https://github.com/carpedm20/emoji/">emoji</a></li>
 <li><a href="https://github.com/MaartenGr/BERTopic">bertopic</a></li>
-<li><a href="https://github.com/plotly/plotly.py">plotly</a></li>
 </ul>
 </section>
-<section id="selección-de-perfiles" class="level3">
-<h3 class="anchored" data-anchor-id="selección-de-perfiles">Selección de perfiles</h3>
-<div class="cell" data-execution_count="1">
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># read data</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>data <span class="op">=</span> pd.read_csv(<span class="st">'./data/raw/users.csv'</span>)</span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>data</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="1">
-<div>
-
-
-<table class="dataframe table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<section id="selección-de-perfiles" class="level2">
+<h2 class="anchored" data-anchor-id="selección-de-perfiles">Selección de perfiles</h2>
+<p>Se seleccionaron 3 cuentas por cada país incluyendo organizaciones provida, así como figuras políticas y religiosas de Brasil, Colombia y Ecuador.</p>
+<table class="table">
 <thead>
 <tr class="header">
-<th data-quarto-table-cell-role="th"></th>
-<th data-quarto-table-cell-role="th">nombre</th>
-<th data-quarto-table-cell-role="th">username</th>
-<th data-quarto-table-cell-role="th">pais</th>
+<th>País</th>
+<th>Nombre</th>
+<th>Usuario</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td data-quarto-table-cell-role="th">0</td>
+<td>Brasil</td>
 <td>Nikolas Ferreira</td>
 <td>nikolas_dm</td>
-<td>Brasil</td>
 </tr>
 <tr class="even">
-<td data-quarto-table-cell-role="th">1</td>
+<td>Brasil</td>
 <td>Pastor Silas Malafaia</td>
 <td>PastorMalafaia</td>
-<td>Brasil</td>
 </tr>
 <tr class="odd">
-<td data-quarto-table-cell-role="th">2</td>
+<td>Brasil</td>
 <td>Brasil Sem Aborto</td>
 <td>brasilsemaborto</td>
-<td>Brasil</td>
 </tr>
 <tr class="even">
-<td data-quarto-table-cell-role="th">3</td>
-<td>Misión Paz</td>
-<td>misionpaz_</td>
 <td>Colombia</td>
+<td>Misión Paz</td>
+<td>misionpaz</td>
 </tr>
 <tr class="odd">
-<td data-quarto-table-cell-role="th">4</td>
+<td>Colombia</td>
 <td>María Fernanda Cabal</td>
 <td>MariaFdaCabal</td>
-<td>Colombia</td>
 </tr>
 <tr class="even">
-<td data-quarto-table-cell-role="th">5</td>
+<td>Colombia</td>
 <td>Unidos por la Vida</td>
 <td>UnidosxlaVidaCo</td>
-<td>Colombia</td>
 </tr>
 <tr class="odd">
-<td data-quarto-table-cell-role="th">6</td>
+<td>Ecuador</td>
 <td>Mamela Fiallo Flor</td>
 <td>MamelaFialloFlo</td>
-<td>Ecuador</td>
 </tr>
 <tr class="even">
-<td data-quarto-table-cell-role="th">7</td>
+<td>Ecuador</td>
 <td>Esteban Torres Cobo</td>
 <td>etorrescobo</td>
-<td>Ecuador</td>
 </tr>
 <tr class="odd">
-<td data-quarto-table-cell-role="th">8</td>
+<td>Ecuador</td>
 <td>Familia Ecuador</td>
 <td>_FamiliaEcuador</td>
-<td>Ecuador</td>
-</tr>
-<tr class="even">
-<td data-quarto-table-cell-role="th">9</td>
-<td>Roy Santos</td>
-<td>RoySantosC</td>
-<td>Honduras</td>
-</tr>
-<tr class="odd">
-<td data-quarto-table-cell-role="th">10</td>
-<td>Tomás Zambrano</td>
-<td>TommyZambranoM</td>
-<td>Honduras</td>
-</tr>
-<tr class="even">
-<td data-quarto-table-cell-role="th">11</td>
-<td>Luis Felipe Faraj</td>
-<td>luisffaraj</td>
-<td>Honduras</td>
 </tr>
 </tbody>
 </table>
-
-</div>
-</div>
-</div>
 </section>
-<section id="recolección-de-datos" class="level3">
-<h3 class="anchored" data-anchor-id="recolección-de-datos">Recolección de datos</h3>
-<p>Recolectamos los tweets de cada usuario usando la librería <code>minet</code> como <a href="https://github.com/medialab/minet/blob/master/docs/cli.md#twitter-scrape">interfaz de línea de comandos</a> (CLI)</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">minet</span> twitter scrape tweets <span class="st">'from:username'</span> <span class="op">&gt;</span> username.csv</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-
-
+<section id="recolección-de-datos" class="level2">
+<h2 class="anchored" data-anchor-id="recolección-de-datos">Recolección de datos</h2>
+<p>Se recolectaron los tweets de cada usuario usando la librería <code>minet</code> como <a href="https://github.com/medialab/minet/blob/master/docs/cli.md#twitter-scrape">interfaz de línea de comandos</a> (CLI)</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">minet</span> twitter scrape tweets <span class="st">'from:username'</span> <span class="op">&gt;</span> username.csv</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
+<section id="preprocesamiento" class="level2">
+<h2 class="anchored" data-anchor-id="preprocesamiento">Preprocesamiento</h2>
+</section>
+<section id="modelado-de-tópicos" class="level2">
+<h2 class="anchored" data-anchor-id="modelado-de-tópicos">Modelado de tópicos</h2>
+</section>
+<section id="selección-de-tópicos" class="level2">
+<h2 class="anchored" data-anchor-id="selección-de-tópicos">Selección de tópicos</h2>
+<p>Para un análisis más detallado de cada cuenta, ingresar al apartado de cada perfil.</p>
+
+
 </section>
 
 </main> <!-- /main -->
