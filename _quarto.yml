@@ -41,5 +41,5 @@ website:
             url: pages/etorrescobo.ipynb
           - text: "@MamelaFialloFlo"
             url: pages/mamelafialloflo.ipynb
-  repo-url: https://github.com/fer-aguirre/capir-transfronteriza2-2023
+  repo-url: https://github.com/DataCritica/capir-transfronteriza2-2023
   repo-actions: [edit, issue]
