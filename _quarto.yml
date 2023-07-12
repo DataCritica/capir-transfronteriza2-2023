@@ -20,26 +20,26 @@ website:
       - section: "Brasil"
         contents:
           - text: "@brasilsemaborto"
-            url: pages/brasilsemaborto.ipynb
+            url: docs/pages/brasilsemaborto.html
           - text: "@nikolas_dm"
-            url: pages/nikolas_dm.ipynb
+            url: docs/pages/nikolas_dm.html
           - text: "@PastorMalafaia"
-            url: pages/pastormalafaia.ipynb
+            url: docs/pages/pastormalafaia.html
       - section: "Colombia"
         contents:
           - text: "@UnidosxlaVidaCo"
-            url: pages/unidosxlavidaco.ipynb
+            url: docs/pages/unidosxlavidaco.html
           - text: "@MariaFdaCabal"
-            url: pages/mariafdacabal.ipynb
+            url: docs/pages/mariafdacabal.html
           - text: "@misionpaz_"
-            url: pages/misionpaz.ipynb
+            url: docs/pages/misionpaz.html
       - section: "Ecuador"
         contents:
           - text: "@_FamiliaEcuador"
-            url: pages/familiaecuador.ipynb
+            url: docs/pages/familiaecuador.html
           - text: "@etorrescobo"
-            url: pages/etorrescobo.ipynb
+            url: docs/pages/etorrescobo.html
           - text: "@MamelaFialloFlo"
-            url: pages/mamelafialloflo.ipynb
+            url: docs/pages/mamelafialloflo.html
   repo-url: https://github.com/DataCritica/capir-transfronteriza2-2023
   repo-actions: [edit, issue]
