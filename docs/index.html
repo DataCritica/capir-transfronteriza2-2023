@@ -218,6 +218,23 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </li>
       </ul>
   </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
+ <span class="menu-text">Políticos</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./pages/politicos.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Análsis de políticos</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
@@ -228,14 +245,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción">Introducción</a></li>
+  <li><a href="#metodología" id="toc-metodología" class="nav-link active" data-scroll-target="#metodología">Metodología</a></li>
   <li><a href="#instalación" id="toc-instalación" class="nav-link" data-scroll-target="#instalación">Instalación</a></li>
   <li><a href="#documentación" id="toc-documentación" class="nav-link" data-scroll-target="#documentación">Documentación</a></li>
   <li><a href="#selección-de-perfiles" id="toc-selección-de-perfiles" class="nav-link" data-scroll-target="#selección-de-perfiles">Selección de perfiles</a></li>
   <li><a href="#recolección-de-datos" id="toc-recolección-de-datos" class="nav-link" data-scroll-target="#recolección-de-datos">Recolección de datos</a></li>
   <li><a href="#preprocesamiento" id="toc-preprocesamiento" class="nav-link" data-scroll-target="#preprocesamiento">Preprocesamiento</a></li>
   <li><a href="#modelado-de-tópicos" id="toc-modelado-de-tópicos" class="nav-link" data-scroll-target="#modelado-de-tópicos">Modelado de tópicos</a></li>
-  <li><a href="#selección-de-tópicos" id="toc-selección-de-tópicos" class="nav-link" data-scroll-target="#selección-de-tópicos">Selección de tópicos</a></li>
+  <li><a href="#limitaciones" id="toc-limitaciones" class="nav-link" data-scroll-target="#limitaciones">Limitaciones</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/DataCritica/capir-transfronteriza2-2023/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/DataCritica/capir-transfronteriza2-2023/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -259,9 +276,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
-<section id="introducción" class="level2">
-<h2 class="anchored" data-anchor-id="introducción">Introducción</h2>
-<p>Esta investigación utiliza datos recolectados de Twitter y analiza el contenido de los tweets y sus metadatos para extraer información relevante sobre los contenidos que publican estas cuentas.</p>
+<section id="metodología" class="level2">
+<h2 class="anchored" data-anchor-id="metodología">Metodología</h2>
+<p>Para llevar acabo esta investigación, Data Crítica recolectó datos utilizando la API Académica de Twitter y la herramienta Minet. El periodo de los tweets recolectados abarca desde la creación de cada uno de los perfiles seleccionados hasta el 21 de marzo de 2023. Los textos de los tweets fueron clasificados programáticamente utilizando modelado de tópicos con la librería de Python BERTopic para generar clusters con temas fácilmente interpretables.</p>
+<p>Posteriormente se entrenó el modelo con el texto de los tweets sin procesar y preprocesados para explorar lo resultados. Sin embargo, se interpretaron mejor los tópicos utilizando texto preprocesado, ya que las palabras catalogadas como stop-words causaron mucho ruido en los tópicos entrenados con el texto original. Asimismo, se utilizó un modelo multilingual debido a que los datos se encuentran en español y portugués.</p>
+<p>Después de adaptar el modelo a los datos, se extrajeron los tópicos generados y se visualizaron de una manera muy similar al metodo LDavis. Para las cuentas en las que se generaron 50 o menos tópicos, se mantuvieron tal cual. No obstante, para las cuentas donde se obtuvieron más de 50, se realizó una reducción de tópicos al 20% del total identificados. Este procedimiento se aplicó debido a que es difícil predecir el número de tópicos antes de haber entrenado el modelo, de ahí que se pueda decidir un número de temas después de saber cuántos se crean en un principio. Además, el propósito es poder identificar aquellos tópicos relacionados con temas de género, por ello es más asequible reducir esta cantidad para poder categorizarlos.</p>
+<p>Para visualizar los términos asociados a cada tópico, se crearon gráficos de barras con las puntuaciones c-TF-IDF de cada tópico. Posteriormente se analizó tópico por tópico y se seleccionaron aquellos que hablan sobre <em>aborto</em>, <em>feminismo</em>, <em>género</em> y <em>personas LGBTIQ+</em>. Luego se hizo un lista de palabras con los términos asociados con esos tópicos y se filtraron los tweets de cada cuenta que contenían alguna de esas palabras, esto con el objetivo de hacer una aproximación de la cantidad de tweets de cada cuenta que tocan estos temas. Finalmente se calculó el porcentaje de tweets filtrados con temática de género entre el total de tweets para cada cuenta.</p>
+<p>Para más detalles sobre los tópicos generados y su selección, revisar el apartado correspondiente para cada cuenta.</p>
 </section>
 <section id="instalación" class="level2">
 <h2 class="anchored" data-anchor-id="instalación">Instalación</h2>
@@ -358,13 +379,29 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="preprocesamiento" class="level2">
 <h2 class="anchored" data-anchor-id="preprocesamiento">Preprocesamiento</h2>
+<p>Se aplicaron varias técnicas de preprocesamiento de texto en los datos con las librerías <code>preprocessor</code> y <code>spacy</code>:</p>
+<ul>
+<li><strong>Lower:</strong> Todas las palabras se convirtieron a minúsculas <em>(p.e: Twitter → twitter)</em></li>
+<li><strong>Stop words:</strong> Se eliminaron las palabras que son muy comunes pero que no aportan significado al texto. Se utilizaron las que vienen por defecto para español y portugués en spacy.</li>
+<li><strong>Demojize:</strong> Cambia los emojis por una representación textual <em>(p.e: relaxed → :smiling_face:)</em></li>
+<li><strong>URLs:</strong> Sustituye las URLs por $URL$ <em>(p.e: https://github.com/ → $URL$)</em></li>
+<li><strong>Mentions:</strong> Sustituye las menciones por $MENTION$ <em>(p.e: <span class="citation" data-cites="twitter">@twitter</span> → $MENTION$)</em></li>
+<li><strong>Hashtags:</strong> Sustituye los hashtags por $HASHTAG$ <em>(p.e: #twitter → $HASHTAG$)</em></li>
+<li><strong>Números:</strong> Sustituye los números por $NUMBER$ <em>(p.e: 4 → $NUMBER$)</em></li>
+</ul>
 </section>
 <section id="modelado-de-tópicos" class="level2">
 <h2 class="anchored" data-anchor-id="modelado-de-tópicos">Modelado de tópicos</h2>
+<p>Para el modelado de tópicos se utilizó la librería <code>bertopic</code> que utiliza técnicas de embeddings con Transformers y c-TF-IDF. Por defecto, los pasos principales para el modelado de temas con BERTopic son Sentence Transformers, UMAP, HDBSCAN y c-TF-IDF ejecutados en secuencia.</p>
 </section>
-<section id="selección-de-tópicos" class="level2">
-<h2 class="anchored" data-anchor-id="selección-de-tópicos">Selección de tópicos</h2>
-<p>Para un análisis más detallado de cada cuenta, ingresar al apartado de cada perfil.</p>
+<section id="limitaciones" class="level2">
+<h2 class="anchored" data-anchor-id="limitaciones">Limitaciones</h2>
+<p>Una de las limitaciones de esta metodología es que <code>bertopic</code> asigna cada documento a un solo cluster y, por tanto, a un solo tópico, lo cual podría no capturar la complejidad del texto.</p>
+<p>Otro aspecto a tomar en cuenta es que el algoritmo es susceptible a la elección de sus parámetros y el preprocesamiento de los datos, lo cual repercute directamente en los resultados. Debido a esto, se han expuesto todos los procedimientos aplicados.</p>
+<p>Por otro lado, la selección de tópicos está sujeta a interpretaciones, de ahí que se hayan establecido términos a partir de los cuales catalogarlos. A pesar de la selección, estos tópicos pueden contener palabras que no estén asociadas a temas de género o que dependan del contexto, por ello solo se trata de una estimación.</p>
+<p>Por último, un tema a considerar es que este tipo de modelado de tópicos con deep learning, requiere considerables recursos computacionales en caso de que se quiera replicar este anális.</p>
+<hr>
+<p>Jupyter Notebooks creados por Fernanda Aguirre</p>
 
 
 </section>

@@ -41,5 +41,9 @@ website:
             url: pages/etorrescobo.ipynb
           - text: "@MamelaFialloFlo"
             url: pages/mamelafialloflo.ipynb
+      - section: "Políticos"
+        contents:
+          - text: "Análsis de políticos"
+            url: pages/politicos.ipynb
   repo-url: https://github.com/DataCritica/capir-transfronteriza2-2023
   repo-actions: [edit, issue]
